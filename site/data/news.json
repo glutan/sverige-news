@@ -1,8 +1,23 @@
 {
-  "generated_at": null,
+  "generated_at": "2026-09-07T19:09:04.005566+00:00",
   "categories": [
-    { "id": "politics", "label": "National Politics & Law", "count": 0, "articles": [] },
-    { "id": "immigration", "label": "Immigration & Citizenship", "count": 0, "articles": [] },
-    { "id": "gothenburg", "label": "Gothenburg Local News", "count": 0, "articles": [] }
+    {
+      "id": "politics",
+      "label": "National Politics & Law",
+      "count": 0,
+      "articles": []
+    },
+    {
+      "id": "immigration",
+      "label": "Immigration & Citizenship",
+      "count": 0,
+      "articles": []
+    },
+    {
+      "id": "gothenburg",
+      "label": "Gothenburg Local News",
+      "count": 0,
+      "articles": []
+    }
   ]
 }
