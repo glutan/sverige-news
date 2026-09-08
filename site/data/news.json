@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T08:40:47.477740+00:00",
+  "generated_at": "2026-09-08T14:12:56.712620+00:00",
   "categories": [
     {
       "id": "politics",
@@ -7,12 +7,28 @@
       "count": 20,
       "articles": [
         {
+          "id": "0f201b220c8ebf4d",
+          "title": "OPINION: Has Jimmie Åkesson played the Swedish media like a fiddle?",
+          "summary": "The Local's Nordic Editor, Richard Orange wonders whether the seeming division between the right-wing parties over the past few weeks was actually clever political theatre which the entire media has fallen for – including The Local itself.",
+          "link": "https://www.thelocal.se/20260908/opinion-has-jimmie-akesson-been-playing-swedens-media-like-a-fiddle",
+          "source": "The Local Sweden",
+          "published": "2026-09-08T12:06:35+00:00"
+        },
+        {
           "id": "76dfdc6ed2cff26f",
           "title": "Voting in Sweden: 'Maybe the opinion corridor makes it harder for people to have debates'",
           "summary": "Warren O'Neill from Ireland is one of thousands of foreign-born voters ready to cast their ballot for the first time in Sweden's national election. He tells The Local about the issues that matter to him, and what he wants native Swedish voters to know about immigrant life.",
           "link": "https://www.thelocal.se/20260908/voting-in-sweden-maybe-the-opinion-corridor-makes-it-harder-for-people-to-have-debates",
           "source": "The Local Sweden",
           "published": "2026-09-08T07:10:05+00:00"
+        },
+        {
+          "id": "09b0428b35a45e98",
+          "title": "What you need to know about the local and regional elections in Stockholm",
+          "summary": "Sweden isn't only holding national elections on September 13th, but regional and municipal ones too. Here's what you need to know about the issues in the Stockholm elections.",
+          "link": "https://www.thelocal.se/20260907/what-are-the-issues-in-the-regional-and-city-elections-in-stockholm",
+          "source": "The Local Sweden",
+          "published": "2026-09-07T13:48:08+00:00"
         },
         {
           "id": "4af09f83d73a1285",
@@ -23,8 +39,8 @@
           "published": "2026-09-07T08:05:14+00:00"
         },
         {
-          "id": "138483ca2f718420",
-          "title": "Swedish election LIVE: Are the Liberals back in the game?",
+          "id": "2d1790e2390eaa42",
+          "title": "Swedish election blog: Are the Liberals back in the game?",
           "summary": "With less than a week to go until Election Day in Sweden, follow The Local's blog to help you navigate the world of Swedish politics.",
           "link": "https://www.thelocal.se/20260907/swedish-election-live-gap-narrows-between-left-and-right-in-high-stakes-race",
           "source": "The Local Sweden",
@@ -117,22 +133,6 @@
           "link": "https://www.thelocal.se/20260901/politics-in-sweden-the-small-town-demagogue-aiming-for-a-riksdag-spot",
           "source": "The Local Sweden",
           "published": "2026-09-01T10:04:28+00:00"
-        },
-        {
-          "id": "e385e56d49216005",
-          "title": "Sunday 'fika' fails to heal spat between right-wing Swedish leaders",
-          "summary": "A dispute that broke out over the weekend between the Sweden Democrats and Christian Democrats over the latter’s refusal to rule out supporting a Social Democrat-led government remained unresolved on Monday, despite a Sunday “fika” between the leaders.",
-          "link": "https://www.thelocal.se/20260831/sunday-fika-fails-to-heal-spat-between-right-wing-swedish-leaders",
-          "source": "The Local Sweden",
-          "published": "2026-08-31T14:26:28+00:00"
-        },
-        {
-          "id": "46362b0d4717c39b",
-          "title": "Voting in Sweden: 'It's very exciting to finally be part of this aspect of democracy'",
-          "summary": "Scientist Pedro Veliça is one of thousands of foreign-born voters ready to for the first time cast their ballot in Sweden's national election. He tells The Local about the issues that matter to him, and what he wants native Swedish voters to know about immigrant life.",
-          "link": "https://www.thelocal.se/20260831/voting-in-sweden-its-very-exciting-to-finally-be-part-of-this-aspect-of-democracy",
-          "source": "The Local Sweden",
-          "published": "2026-08-31T11:01:41+00:00"
         },
         {
           "id": "b136574e7f98f5f3",
