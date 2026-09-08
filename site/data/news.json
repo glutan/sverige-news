@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-09-08T03:30:49.750955+00:00",
+  "generated_at": "2026-09-08T08:40:47.477740+00:00",
   "categories": [
     {
       "id": "politics",
       "label": "National Politics & Law",
       "count": 20,
       "articles": [
+        {
+          "id": "76dfdc6ed2cff26f",
+          "title": "Voting in Sweden: 'Maybe the opinion corridor makes it harder for people to have debates'",
+          "summary": "Warren O'Neill from Ireland is one of thousands of foreign-born voters ready to cast their ballot for the first time in Sweden's national election. He tells The Local about the issues that matter to him, and what he wants native Swedish voters to know about immigrant life.",
+          "link": "https://www.thelocal.se/20260908/voting-in-sweden-maybe-the-opinion-corridor-makes-it-harder-for-people-to-have-debates",
+          "source": "The Local Sweden",
+          "published": "2026-09-08T07:10:05+00:00"
+        },
         {
           "id": "4af09f83d73a1285",
           "title": "'We don't want people who are integrated in Sweden to be forced to leave'",
@@ -15,8 +23,8 @@
           "published": "2026-09-07T08:05:14+00:00"
         },
         {
-          "id": "4dad6ebf92c4a6b0",
-          "title": "Swedish election blog: Gap narrows between left and right in high-stakes race",
+          "id": "138483ca2f718420",
+          "title": "Swedish election LIVE: Are the Liberals back in the game?",
           "summary": "With less than a week to go until Election Day in Sweden, follow The Local's blog to help you navigate the world of Swedish politics.",
           "link": "https://www.thelocal.se/20260907/swedish-election-live-gap-narrows-between-left-and-right-in-high-stakes-race",
           "source": "The Local Sweden",
@@ -117,14 +125,6 @@
           "link": "https://www.thelocal.se/20260831/sunday-fika-fails-to-heal-spat-between-right-wing-swedish-leaders",
           "source": "The Local Sweden",
           "published": "2026-08-31T14:26:28+00:00"
-        },
-        {
-          "id": "777ef0b7cc8afdfc",
-          "title": "KEY POINTS: How party election pledges could affect foreigners in Sweden",
-          "summary": "From new immigration and work reforms to tax breaks and extra benefits, here are the pledges made by the political parties campaigning in Sweden's 2026 general election which could have a real impact on foreigners.",
-          "link": "https://www.thelocal.se/20260831/key-points-how-party-election-pledges-could-affect-foreigners-in-sweden",
-          "source": "The Local Sweden",
-          "published": "2026-08-31T13:33:11+00:00"
         },
         {
           "id": "46362b0d4717c39b",
