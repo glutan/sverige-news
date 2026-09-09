@@ -1,11 +1,27 @@
 {
-  "generated_at": "2026-09-09T08:45:03.603474+00:00",
+  "generated_at": "2026-09-09T14:13:12.941125+00:00",
   "categories": [
     {
       "id": "politics",
       "label": "National Politics & Law",
       "count": 20,
       "articles": [
+        {
+          "id": "542e73d5c9d51918",
+          "title": "Politics in Sweden: Immigration is on the agenda, but the debate is surreal",
+          "summary": "SVT's televised immigration debate showed being tough on immigration isn't a straightforward vote-winner any longer. But by focusing almost entirely on refugees, the debate managed to ignore the people who actually migrate to Sweden in the 2020s, writes The Local's James Savage.",
+          "link": "https://www.thelocal.se/20260909/politics-in-sweden-immigration-is-on-the-agenda-but-the-debate-is-surreal",
+          "source": "The Local Sweden",
+          "published": "2026-09-09T09:38:04+00:00"
+        },
+        {
+          "id": "a1417759a7b31d73",
+          "title": "Voting in Sweden: 'I felt betrayed by the Moderates on transitional rules'",
+          "summary": "Karolina Pudlo from Poland is one of thousands of foreign-born voters ready to cast their ballot in Sweden's regional elections. She explains why she left the Moderate party over transitional rules for citizenship.",
+          "link": "https://www.thelocal.se/20260909/voting-in-sweden-i-felt-betrayed-by-the-moderates-on-transitional-rules",
+          "source": "The Local Sweden",
+          "published": "2026-09-09T08:49:58+00:00"
+        },
         {
           "id": "3b19d76b3b28da47",
           "title": "OPINION: Has Jimmie Åkesson been playing the Swedish media like a fiddle?",
@@ -39,8 +55,8 @@
           "published": "2026-09-07T08:05:14+00:00"
         },
         {
-          "id": "0f76541d65f1b6d5",
-          "title": "Swedish election LIVE: Centre Party puts its foot down with coalition ultimatum",
+          "id": "320becf86d3376ea",
+          "title": "Swedish election blog: More than 2 million voters have already cast their ballot",
           "summary": "With less than a week to go until Election Day in Sweden, follow The Local's blog to help you navigate the world of Swedish politics.",
           "link": "https://www.thelocal.se/20260907/swedish-election-live-gap-narrows-between-left-and-right-in-high-stakes-race",
           "source": "The Local Sweden",
@@ -119,22 +135,6 @@
           "published": "2026-09-02T08:44:18+00:00"
         },
         {
-          "id": "b4a43771f8397ff1",
-          "title": "Sweden's Social Democrats pledge 'dental care reform of the century'",
-          "summary": "The opposition Social Democrats have launched their election programme just two weeks before Sweden goes to the polls, headlining it with a generous pledge for the state to cover the cost 90 percent of all adult dental care.",
-          "link": "https://www.thelocal.se/20260901/swedens-social-democrats-pledge-dental-care-reform-of-the-century",
-          "source": "The Local Sweden",
-          "published": "2026-09-01T13:07:49+00:00"
-        },
-        {
-          "id": "356af33068d9ec02",
-          "title": "Politics in Sweden: The small-town demagogue aiming for a Riksdag spot",
-          "summary": "A far-right demagogue in a medium-sized Swedish town could enter the Riksdag on the most extreme platform of any party in recent times. So who are the Örebro Party and Markus Allard?",
-          "link": "https://www.thelocal.se/20260901/politics-in-sweden-the-small-town-demagogue-aiming-for-a-riksdag-spot",
-          "source": "The Local Sweden",
-          "published": "2026-09-01T10:04:28+00:00"
-        },
-        {
           "id": "b136574e7f98f5f3",
           "title": "Stay on top of the Swedish election: How to follow The Local's coverage",
           "summary": "With just around a week to go until the Swedish election, The Local aims to deliver the most useful election coverage for foreigners, guided by our readers.",
@@ -173,6 +173,14 @@
       "label": "Immigration & Citizenship",
       "count": 20,
       "articles": [
+        {
+          "id": "542e73d5c9d51918",
+          "title": "Politics in Sweden: Immigration is on the agenda, but the debate is surreal",
+          "summary": "SVT's televised immigration debate showed being tough on immigration isn't a straightforward vote-winner any longer. But by focusing almost entirely on refugees, the debate managed to ignore the people who actually migrate to Sweden in the 2020s, writes The Local's James Savage.",
+          "link": "https://www.thelocal.se/20260909/politics-in-sweden-immigration-is-on-the-agenda-but-the-debate-is-surreal",
+          "source": "The Local Sweden",
+          "published": "2026-09-09T09:38:04+00:00"
+        },
         {
           "id": "4af09f83d73a1285",
           "title": "'We don't want people who are integrated in Sweden to be forced to leave'",
@@ -316,14 +324,6 @@
           "link": "https://www.thelocal.se/20260803/eighty-paperless-migrants-reported-since-swedens-snitch-law-enacted",
           "source": "The Local Sweden",
           "published": "2026-08-03T10:29:25+00:00"
-        },
-        {
-          "id": "51b514db56883361",
-          "title": "EU countries call for talks over migrant influx into Spanish enclave",
-          "summary": "A majority of EU countries called on Saturday for emergency talks on the sudden inflow of tens of thousands of migrants into Spain's enclave of Ceuta in North Africa.",
-          "link": "https://www.thelocal.se/20260801/eu-countries-call-for-talks-over-migrant-influx-into-spanish-enclave",
-          "source": "The Local Sweden",
-          "published": "2026-08-01T12:00:35+00:00"
         },
         {
           "id": "5571a9bd54cecc48",
