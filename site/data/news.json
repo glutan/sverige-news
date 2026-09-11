@@ -1,11 +1,27 @@
 {
-  "generated_at": "2026-09-11T14:06:42.087579+00:00",
+  "generated_at": "2026-09-11T19:01:06.892473+00:00",
   "categories": [
     {
       "id": "politics",
       "label": "National Politics & Law",
       "count": 20,
       "articles": [
+        {
+          "id": "6010124b720f2f20",
+          "title": "OPINION: Sweden's election won't erase what the last four years did to immigrants",
+          "summary": "On Sunday, Sweden will make a choice with profound implications for foreigners living here — and the latest polls show it could go either way. But don’t imagine the problems will evaporate with a change of government, says James Savage.",
+          "link": "https://www.thelocal.se/20260911/opinion-swedens-election-wont-erase-what-the-last-four-years-did-to-immigrants",
+          "source": "The Local Sweden",
+          "published": "2026-09-11T16:03:51+00:00"
+        },
+        {
+          "id": "b058493d424073ae",
+          "title": "What you need to know about the local and regional elections in Malmö",
+          "summary": "The Social Democrats and the left-wing bloc look certain to retain power in the city of Malmö and have a slim chance of taking over the regional government in Skåne when voters go to the polls on Sunday.",
+          "link": "https://www.thelocal.se/20260911/what-you-need-to-know-about-the-local-and-regional-elections-in-malmo",
+          "source": "The Local Sweden",
+          "published": "2026-09-11T14:18:38+00:00"
+        },
         {
           "id": "040218e327120f55",
           "title": "What happens at the polling station in Sweden?",
@@ -143,28 +159,12 @@
           "published": "2026-09-07T07:33:33+00:00"
         },
         {
-          "id": "a31673497270e7a2",
-          "title": "So, who's winning the Swedish election? It's complicated",
-          "summary": "From right-wing liberals to cake with the speaker: explaining the intricacies of Swedish coalition politics for your friends at home isn't always easy. James Savage has written a handy crib sheet to help you sound like an expert.",
-          "link": "https://www.thelocal.se/20260904/so-whos-winning-the-swedish-election-its-complicated",
-          "source": "The Local Sweden",
-          "published": "2026-09-04T14:35:26+00:00"
-        },
-        {
           "id": "9c6663ff63c1947d",
           "title": "Who can vote in the 2026 Swedish election?",
           "summary": "Swedish voters will go to the polls on September 13th to cast their vote in three elections: national, regional and local. But who's eligible to vote?",
           "link": "https://www.thelocal.se/20260608/who-can-vote-in-the-2026-swedish-election",
           "source": "The Local Sweden",
           "published": "2026-06-08T08:49:44+00:00"
-        },
-        {
-          "id": "bac46df504391240",
-          "title": "Election vocabulary: How to talk about politics like a Swede",
-          "summary": "Can't tell your valfläsk from your partiledare? Let The Local guide you through the Swedish political vocabulary you should know to hold your own in a valdebatt.",
-          "link": "https://www.thelocal.se/20180829/election-vocabulary-how-to-talk-about-politics-in-sweden",
-          "source": "The Local Sweden",
-          "published": "2018-08-29T05:47:34+00:00"
         }
       ]
     },
@@ -173,6 +173,14 @@
       "label": "Immigration & Citizenship",
       "count": 20,
       "articles": [
+        {
+          "id": "6010124b720f2f20",
+          "title": "OPINION: Sweden's election won't erase what the last four years did to immigrants",
+          "summary": "On Sunday, Sweden will make a choice with profound implications for foreigners living here — and the latest polls show it could go either way. But don’t imagine the problems will evaporate with a change of government, says James Savage.",
+          "link": "https://www.thelocal.se/20260911/opinion-swedens-election-wont-erase-what-the-last-four-years-did-to-immigrants",
+          "source": "The Local Sweden",
+          "published": "2026-09-11T16:03:51+00:00"
+        },
         {
           "id": "542e73d5c9d51918",
           "title": "Politics in Sweden: Immigration is on the agenda, but the debate is surreal",
@@ -324,14 +332,6 @@
           "link": "https://www.thelocal.se/20260803/eighty-paperless-migrants-reported-since-swedens-snitch-law-enacted",
           "source": "The Local Sweden",
           "published": "2026-08-03T10:29:25+00:00"
-        },
-        {
-          "id": "5571a9bd54cecc48",
-          "title": "QUIZ: Can you pass The Local's mock Swedish citizenship test?",
-          "summary": "Proof of knowledge of basic Swedish civics, history, geography, and culture will now be required to obtain Swedish citizenship. An official study booklet for the new test is now out. How well do you know the material?",
-          "link": "https://www.thelocal.se/20260512/quiz-can-you-pass-the-locals-mock-swedish-citizenship-test",
-          "source": "The Local Sweden",
-          "published": "2026-05-12T07:31:50+00:00"
         }
       ]
     },
