@@ -1,11 +1,51 @@
 {
-  "generated_at": "2026-09-11T08:41:31.351241+00:00",
+  "generated_at": "2026-09-11T14:06:42.087579+00:00",
   "categories": [
     {
       "id": "politics",
       "label": "National Politics & Law",
       "count": 20,
       "articles": [
+        {
+          "id": "040218e327120f55",
+          "title": "What happens at the polling station in Sweden?",
+          "summary": "OK, so you've got the right to vote in Sweden. But how do you cast your ballot without looking awkward or confused? The Local helps you navigate what happens at the polling station.",
+          "link": "https://www.thelocal.se/20260911/what-happens-at-the-polling-station-in-sweden",
+          "source": "The Local Sweden",
+          "published": "2026-09-11T13:01:25+00:00"
+        },
+        {
+          "id": "5cbff7371eb957b5",
+          "title": "It's the final countdown: Sweden races into final stretch before election",
+          "summary": "Sweden's party leaders campaigned on Friday in the final stretch of a close election race that could see either the centre left take back power or the far right enter government for the first time.",
+          "link": "https://www.thelocal.se/20260911/its-the-final-countdown-sweden-races-into-final-stretch-before-election",
+          "source": "The Local Sweden",
+          "published": "2026-09-11T12:14:52+00:00"
+        },
+        {
+          "id": "9e0b580f65272de0",
+          "title": "Voting in Sweden: 'There's another story which native Swedes are often not hearing'",
+          "summary": "Laura Brownrigg is one of thousands of foreign-born voters ready to cast their ballot for the first time in Sweden's regional and local elections. She tells The Local about the issues that matter to her and what she wants native Swedish voters to know about immigrant life.",
+          "link": "https://www.thelocal.se/20260911/voting-in-sweden-theres-another-story-which-native-swedes-are-often-not-hearing",
+          "source": "The Local Sweden",
+          "published": "2026-09-11T09:47:52+00:00"
+        },
+        {
+          "id": "f8ea763d7da50560",
+          "title": "How much are Sweden's parties pledging to cut (or raise) foreigners' tax bills?",
+          "summary": "If this year's Swedish election is about anything, it's about how much money various parties are promising to put in voters' wallets. Here are the tax cuts (and tax increases) promised by the various parties which might affect foreigners in Sweden.",
+          "link": "https://www.thelocal.se/20260911/how-much-are-swedens-parties-pledging-to-cut-or-raise-foreigners-tax-bills",
+          "source": "The Local Sweden",
+          "published": "2026-09-11T09:37:34+00:00"
+        },
+        {
+          "id": "4bd1c8a0e150f0da",
+          "title": "Three key scenarios: What will happen in the days after the Swedish election?",
+          "summary": "Will the prime minister stay on, resign or get voted out after September 13th? The Local explains what they future might hold.",
+          "link": "https://www.thelocal.se/20260911/three-key-scenarios-what-will-happen-in-the-days-after-the-swedish-election",
+          "source": "The Local Sweden",
+          "published": "2026-09-11T09:08:29+00:00"
+        },
         {
           "id": "918f51d995ec765e",
           "title": "Opposition's lead sinks to 3.2 points in new Swedish election poll",
@@ -15,8 +55,16 @@
           "published": "2026-09-11T07:08:57+00:00"
         },
         {
-          "id": "716df34bc224bc80",
-          "title": "UPDATED: Make your own Swedish government with The Local's election widget",
+          "id": "c2c2719bea109018",
+          "title": "Crime, security and Kristersson: What Sweden's media talked about in the year before the election",
+          "summary": "Crime, foreign policy and security dominated Sweden's political agenda over the past year. But the story changed as Election Day drew closer, a new analysis by The Fix Advisory & Research in partnership with The Local shows.",
+          "link": "https://www.thelocal.se/20260910/crime-security-and-kristersson-what-swedens-media-talked-about-in-the-year-before-the-election",
+          "source": "The Local Sweden",
+          "published": "2026-09-10T20:01:58+00:00"
+        },
+        {
+          "id": "20f6ec90ef48ca16",
+          "title": "Can you build your own Swedish government with The Local's election game?",
           "summary": "The Liberal Party leaped over the 4 percent parliamentary threshold in a poll out on Wednesday, putting this Sunday's national election very much in play. Play around with our election widgets and see if you can make a workable government coalition.",
           "link": "https://www.thelocal.se/20260910/updated-make-your-own-swedish-government-with-the-locals-election-widget",
           "source": "The Local Sweden",
@@ -87,9 +135,9 @@
           "published": "2026-09-07T08:05:14+00:00"
         },
         {
-          "id": "393fa4c4005e904b",
-          "title": "Swedish election LIVE: Campaign heats up as voting day draws near",
-          "summary": "With just two days to go until Election Day in Sweden, follow The Local's blog to help you navigate the world of Swedish politics.",
+          "id": "d594d6fb8b757938",
+          "title": "Swedish election blog: Everything that happened in the run-up to voting day",
+          "summary": "Catch up with the election news and guides in The Local's blog to help you navigate the world of Swedish politics.",
           "link": "https://www.thelocal.se/20260907/swedish-election-live-gap-narrows-between-left-and-right-in-high-stakes-race",
           "source": "The Local Sweden",
           "published": "2026-09-07T07:33:33+00:00"
@@ -103,60 +151,12 @@
           "published": "2026-09-04T14:35:26+00:00"
         },
         {
-          "id": "f382598beb701a50",
-          "title": "Russian partner of top Sweden Democrat accused of pro-Putin posts",
-          "summary": "The Russian live-in partner of Gustav Gellerbrant, a Sweden Democrat official who works in the heart of Sweden's government offices, has been spreading pro-Putin propaganda on social media, the Expo news site has reported in an investigation.",
-          "link": "https://www.thelocal.se/20260904/russian-partner-of-top-sweden-democrat-accused-of-pro-putin-posts",
-          "source": "The Local Sweden",
-          "published": "2026-09-04T09:38:15+00:00"
-        },
-        {
-          "id": "80eec8811b337a51",
-          "title": "Social Democrats plan huge inquiry to clean up Swedish immigration law",
-          "summary": "The Social Democrats are planning to launch a government inquiry which will carry out a major review of the country's migration legislation, arguing that years of piecemeal reforms have made the rules unnecessarily complicated and contradictory.",
-          "link": "https://www.thelocal.se/20260904/social-democrats-plan-huge-inquiry-to-clean-up-swedish-immigration-law",
-          "source": "The Local Sweden",
-          "published": "2026-09-04T09:11:48+00:00"
-        },
-        {
-          "id": "23402977d4e68269",
-          "title": "Will the European Union take up the climate fight after brutal heatwaves?",
-          "summary": "Is climate change set for a comeback as a top EU priority, after a deadly summer of record-breaking heatwaves across Europe?",
-          "link": "https://www.thelocal.se/20260904/will-the-european-union-take-up-the-climate-fight-after-brutal-heatwaves",
-          "source": "The Local Sweden",
-          "published": "2026-09-04T08:10:40+00:00"
-        },
-        {
-          "id": "2c62ed56b4bcb417",
-          "title": "Social Democrats promise new 'expat welcome desk' in Stockholm",
-          "summary": "The Social Democrats have said if they win the election in Stockholm as well as regional elections, they will set up a new 'expat welcome desk' for foreign workers arriving in the city.",
-          "link": "https://www.thelocal.se/20260903/social-democrats-promise-new-expat-welcome-desk-in-stockholm",
-          "source": "The Local Sweden",
-          "published": "2026-09-03T12:55:35+00:00"
-        },
-        {
-          "id": "8f91d7f567f90598",
-          "title": "Early voting surge: Nearly a million Swedes cast ballots in first week",
-          "summary": "Nearly one million people cast their ballots in the week after early voting opened in Sweden on August 26th – a 40 percent increase compared to the same period in the 2022 election, according to the Swedish Election Authority.",
-          "link": "https://www.thelocal.se/20260903/early-voting-surge-nearly-a-million-swedes-cast-ballots-in-first-week",
-          "source": "The Local Sweden",
-          "published": "2026-09-03T10:13:59+00:00"
-        },
-        {
           "id": "9c6663ff63c1947d",
           "title": "Who can vote in the 2026 Swedish election?",
           "summary": "Swedish voters will go to the polls on September 13th to cast their vote in three elections: national, regional and local. But who's eligible to vote?",
           "link": "https://www.thelocal.se/20260608/who-can-vote-in-the-2026-swedish-election",
           "source": "The Local Sweden",
           "published": "2026-06-08T08:49:44+00:00"
-        },
-        {
-          "id": "b45adf3376190cbf",
-          "title": "Swedish word of the day: sakpolitik",
-          "summary": "Today's word of the day will be cropping up a lot in Swedish news over the next few weeks: sakpolitik.",
-          "link": "https://www.thelocal.se/20181115/swedish-word-of-the-day-sakpolitik",
-          "source": "The Local Sweden",
-          "published": "2018-11-15T14:32:54+00:00"
         },
         {
           "id": "bac46df504391240",
