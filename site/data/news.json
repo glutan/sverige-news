@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-09-12T20:17:35.713659+00:00",
+  "generated_at": "2026-09-12T23:49:25.248829+00:00",
   "categories": [
     {
       "id": "politics",
       "label": "National Politics & Law",
       "count": 20,
       "articles": [
+        {
+          "id": "e381acc2dc0f5859",
+          "title": "What you need to know about Sweden's eight political parties",
+          "summary": "Who are the Swedish parties and what do they want? The Local's guides help foreigners navigate the Swedish election with a special focus on the issues that matter to you.",
+          "link": "https://www.thelocal.se/20260912/what-you-need-to-know-about-swedens-eight-political-parties",
+          "source": "The Local Sweden",
+          "published": "2026-09-12T21:06:48+00:00"
+        },
         {
           "id": "9b6a0c6692771cb0",
           "title": "Sweden's PM wants to 'make Sweden great again'",
@@ -125,14 +133,6 @@
           "link": "https://www.thelocal.se/20260909/voting-in-sweden-i-felt-betrayed-by-the-moderates-on-transitional-rules",
           "source": "The Local Sweden",
           "published": "2026-09-09T08:49:58+00:00"
-        },
-        {
-          "id": "3b19d76b3b28da47",
-          "title": "OPINION: Has Jimmie Åkesson been playing the Swedish media like a fiddle?",
-          "summary": "The Local's Nordic Editor, Richard Orange wonders whether the seeming division between the right-wing parties over the past few weeks was actually clever political theatre which the entire media has fallen for – including The Local.",
-          "link": "https://www.thelocal.se/20260908/opinion-has-jimmie-akesson-been-playing-swedens-media-like-a-fiddle",
-          "source": "The Local Sweden",
-          "published": "2026-09-08T12:06:35+00:00"
         },
         {
           "id": "09b0428b35a45e98",
