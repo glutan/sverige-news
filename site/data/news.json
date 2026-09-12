@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-09-12T03:35:49.714525+00:00",
+  "generated_at": "2026-09-12T08:27:11.522311+00:00",
   "categories": [
     {
       "id": "politics",
       "label": "National Politics & Law",
       "count": 20,
       "articles": [
+        {
+          "id": "9b6a0c6692771cb0",
+          "title": "Sweden's PM wants to 'make Sweden great again'",
+          "summary": "Swedish Prime Minister Ulf Kristersson hopes to keep his centre-right coalition in power in Sweden's upcoming general election.",
+          "link": "https://www.thelocal.se/20260912/swedens-outgoing-pm-wants-to-make-sweden-great-again",
+          "source": "The Local Sweden",
+          "published": "2026-09-12T07:08:57+00:00"
+        },
         {
           "id": "6010124b720f2f20",
           "title": "OPINION: Sweden's election won't erase what the last four years did to immigrants",
@@ -127,14 +135,6 @@
           "published": "2026-09-08T12:06:35+00:00"
         },
         {
-          "id": "76dfdc6ed2cff26f",
-          "title": "Voting in Sweden: 'Maybe the opinion corridor makes it harder for people to have debates'",
-          "summary": "Warren O'Neill from Ireland is one of thousands of foreign-born voters ready to cast their ballot for the first time in Sweden's national election. He tells The Local about the issues that matter to him, and what he wants native Swedish voters to know about immigrant life.",
-          "link": "https://www.thelocal.se/20260908/voting-in-sweden-maybe-the-opinion-corridor-makes-it-harder-for-people-to-have-debates",
-          "source": "The Local Sweden",
-          "published": "2026-09-08T07:10:05+00:00"
-        },
-        {
           "id": "09b0428b35a45e98",
           "title": "What you need to know about the local and regional elections in Stockholm",
           "summary": "Sweden isn't only holding national elections on September 13th, but regional and municipal ones too. Here's what you need to know about the issues in the Stockholm elections.",
@@ -143,20 +143,20 @@
           "published": "2026-09-07T13:48:08+00:00"
         },
         {
-          "id": "4af09f83d73a1285",
-          "title": "'We don't want people who are integrated in Sweden to be forced to leave'",
-          "summary": "The Social Democrats want to launch a fast-track investigation into residency for people who have lived in the country for a long time in a bid to solve teen deportation and Brexit cases, the party's migration spokesperson has told The Local.",
-          "link": "https://www.thelocal.se/20260907/we-dont-want-people-who-are-integrated-in-sweden-to-be-forced-to-leave",
-          "source": "The Local Sweden",
-          "published": "2026-09-07T08:05:14+00:00"
-        },
-        {
           "id": "d594d6fb8b757938",
           "title": "Swedish election blog: Everything that happened in the run-up to voting day",
           "summary": "Catch up with the election news and guides in The Local's blog to help you navigate the world of Swedish politics.",
           "link": "https://www.thelocal.se/20260907/swedish-election-live-gap-narrows-between-left-and-right-in-high-stakes-race",
           "source": "The Local Sweden",
           "published": "2026-09-07T07:33:33+00:00"
+        },
+        {
+          "id": "b136574e7f98f5f3",
+          "title": "Stay on top of the Swedish election: How to follow The Local's coverage",
+          "summary": "With Election Day just around the corner, The Local aims to deliver the most useful election coverage for foreigners, guided by our readers.",
+          "link": "https://www.thelocal.se/20260618/stay-on-top-of-the-swedish-election-how-to-follow-the-locals-coverage",
+          "source": "The Local Sweden",
+          "published": "2026-06-18T08:39:16+00:00"
         },
         {
           "id": "9c6663ff63c1947d",
