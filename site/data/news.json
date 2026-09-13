@@ -1,11 +1,27 @@
 {
-  "generated_at": "2026-09-13T03:42:10.039579+00:00",
+  "generated_at": "2026-09-13T09:10:26.405419+00:00",
   "categories": [
     {
       "id": "politics",
       "label": "National Politics & Law",
       "count": 20,
       "articles": [
+        {
+          "id": "a68dbc2ae488a5c5",
+          "title": "Sweden votes in election thriller, far right eyes govt role",
+          "summary": "Sweden began voting Sunday in a general election after a tight race that will see either the far-right enter government for the first time or the left-wing opposition reclaim power.",
+          "link": "https://www.thelocal.se/20260913/sweden-votes-in-election-thriller-far-right-eyes-govt-role",
+          "source": "The Local Sweden",
+          "published": "2026-09-13T08:30:42+00:00"
+        },
+        {
+          "id": "00d0813390a189a0",
+          "title": "SWEDISH ELECTION: Follow The Local as voters cast their ballot on Election Day",
+          "summary": "Sweden's foreign residents face an Election Day that could have a huge impact on their life in this country. The Local's team will be reporting live later today – join the conversation now.",
+          "link": "https://www.thelocal.se/20260913/swedish-election-live-blog-2026",
+          "source": "The Local Sweden",
+          "published": "2026-09-13T06:00:17+00:00"
+        },
         {
           "id": "e381acc2dc0f5859",
           "title": "What you need to know about Sweden's eight political parties",
@@ -103,36 +119,12 @@
           "published": "2026-09-10T12:29:33+00:00"
         },
         {
-          "id": "86d259cd212caa57",
-          "title": "Voting in Sweden: 'If you don't vote you've lost your chance to whinge'",
-          "summary": "Vivien Leung from Australia is one of thousands of foreign-born voters ready to cast their ballot for the first time in Sweden's national election. She tells The Local about the issues that matter to her and what she wants native Swedish voters to know about immigrant life.",
-          "link": "https://www.thelocal.se/20260910/voting-in-sweden-if-you-dont-vote-youve-lost-your-chance-to-whinge",
-          "source": "The Local Sweden",
-          "published": "2026-09-10T08:53:04+00:00"
-        },
-        {
           "id": "5161a7cc794646e2",
           "title": "What you need to know about the local and regional elections in Gothenburg",
           "summary": "The regional elections in Gothenburg and the surrounding region see the red-green coalitions which took power in 2022 defending their record on healthcare, traffic management, schools, and elderly care, as the right-wing parties try to limit further gains.",
           "link": "https://www.thelocal.se/20260909/what-you-need-to-know-about-the-local-and-regional-elections-in-gothenburg",
           "source": "The Local Sweden",
           "published": "2026-09-09T13:56:45+00:00"
-        },
-        {
-          "id": "542e73d5c9d51918",
-          "title": "Politics in Sweden: Immigration is on the agenda, but the debate is surreal",
-          "summary": "SVT's televised immigration debate showed being tough on immigration isn't a straightforward vote-winner any longer. But by focusing almost entirely on refugees, the debate managed to ignore the people who actually migrate to Sweden in the 2020s, writes The Local's James Savage.",
-          "link": "https://www.thelocal.se/20260909/politics-in-sweden-immigration-is-on-the-agenda-but-the-debate-is-surreal",
-          "source": "The Local Sweden",
-          "published": "2026-09-09T09:38:04+00:00"
-        },
-        {
-          "id": "a1417759a7b31d73",
-          "title": "Voting in Sweden: 'I felt betrayed by the Moderates on transitional rules'",
-          "summary": "Karolina Pudlo from Poland is one of thousands of foreign-born voters ready to cast their ballot in Sweden's regional elections. She explains why she left the Moderate party over transitional rules for citizenship.",
-          "link": "https://www.thelocal.se/20260909/voting-in-sweden-i-felt-betrayed-by-the-moderates-on-transitional-rules",
-          "source": "The Local Sweden",
-          "published": "2026-09-09T08:49:58+00:00"
         },
         {
           "id": "09b0428b35a45e98",
@@ -149,6 +141,14 @@
           "link": "https://www.thelocal.se/20260907/swedish-election-live-gap-narrows-between-left-and-right-in-high-stakes-race",
           "source": "The Local Sweden",
           "published": "2026-09-07T07:33:33+00:00"
+        },
+        {
+          "id": "777ef0b7cc8afdfc",
+          "title": "KEY POINTS: How party election pledges could affect foreigners in Sweden",
+          "summary": "From new immigration and work reforms to tax breaks and extra benefits, here are the pledges made by the political parties campaigning in Sweden's 2026 general election which could have a real impact on foreigners.",
+          "link": "https://www.thelocal.se/20260831/key-points-how-party-election-pledges-could-affect-foreigners-in-sweden",
+          "source": "The Local Sweden",
+          "published": "2026-08-31T13:33:11+00:00"
         },
         {
           "id": "b136574e7f98f5f3",
