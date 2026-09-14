@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T09:39:07.723531+00:00",
+  "generated_at": "2026-09-14T16:12:20.880276+00:00",
   "categories": [
     {
       "id": "politics",
@@ -174,6 +174,14 @@
       "count": 20,
       "articles": [
         {
+          "id": "2988e44cc3b7f1f5",
+          "title": "EU Commission mulls revision of Schengen visa rules and fees",
+          "summary": "The European Commission is planning a revision of Schengen rules on short-stay visas to make the EU’s visa policy \"more coherent, secure and effective, while facilitating legitimate travel\".",
+          "link": "https://www.thelocal.se/20260914/eu-commission-mulls-revision-of-schengen-visa-rules-and-fees",
+          "source": "The Local Sweden",
+          "published": "2026-09-14T16:07:23+00:00"
+        },
+        {
           "id": "d7b5a5b1d48725fd",
           "title": "What does Sweden's unexpectedly close election result mean for foreigners?",
           "summary": "As it stands right now, a 'Tidö 2' government lacks a mandate, as does the Centre Party's dream 'middle government', and two of the four opposition parties who could form a majority refuse to rule together. If nothing changes, what does this mean for foreigners in Sweden?",
@@ -324,14 +332,6 @@
           "link": "https://www.thelocal.se/20260806/i-feel-shame-and-rage-immigration-clampdown-hits-swedes-close-to-home",
           "source": "The Local Sweden",
           "published": "2026-08-06T09:57:09+00:00"
-        },
-        {
-          "id": "456ebec469fb5172",
-          "title": "EU nations patch things up after Ceuta migration discord",
-          "summary": "Spain and fellow EU nations moved to bury the hatchet Tuesday after a mass influx of migrants into the North African enclave of Ceuta laid bare fault lines on migration within the 27-nation bloc.",
-          "link": "https://www.thelocal.se/20260803/eu-chief-urges-united-action-on-borders-after-spains-ceuta-migrant-rush",
-          "source": "The Local Sweden",
-          "published": "2026-08-03T13:09:23+00:00"
         }
       ]
     },
