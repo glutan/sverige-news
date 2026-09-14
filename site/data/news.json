@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T22:11:15.437532+00:00",
+  "generated_at": "2026-09-14T03:50:42.876961+00:00",
   "categories": [
     {
       "id": "politics",
@@ -7,20 +7,20 @@
       "count": 20,
       "articles": [
         {
+          "id": "f95acdf0ba0bbd77",
+          "title": "Dead heat in Sweden's election as vote count stretches into the week",
+          "summary": "Sweden's political blocs were neck and neck after a tense Election Night, with the final count being finalised only later in the week.",
+          "link": "https://www.thelocal.se/20260914/dead-heat-in-swedens-election-as-vote-count-stretches-into-the-week",
+          "source": "The Local Sweden",
+          "published": "2026-09-13T23:03:14+00:00"
+        },
+        {
           "id": "d475f4953fd8c25c",
           "title": "Swedish parties in for tough negotiations after election",
           "summary": "Even if the left-wing bloc comes out on top after Sunday's election the fight for power looks far from over.",
           "link": "https://www.thelocal.se/20260913/swedish-parties-in-for-tough-negotiations-after-election",
           "source": "The Local Sweden",
           "published": "2026-09-13T21:10:18+00:00"
-        },
-        {
-          "id": "0eb41528108756e5",
-          "title": "Sweden's election too close to call with more than half of votes counted",
-          "summary": "Sweden's left-wing opposition bloc held a razor-thin lead in Sunday's general election with half of votes counted, with the far right seen losing ground.",
-          "link": "https://www.thelocal.se/20260913/swedens-election-too-close-to-call-with-more-than-half-of-votes-counted",
-          "source": "The Local Sweden",
-          "published": "2026-09-13T20:56:11+00:00"
         },
         {
           "id": "da7dac01153580eb",
@@ -71,9 +71,9 @@
           "published": "2026-09-13T08:30:42+00:00"
         },
         {
-          "id": "ecfb63e8c1753a11",
-          "title": "SWEDISH ELECTION LIVE: Left and right bloc almost neck and neck as half of districts counted",
-          "summary": "Sweden's foreign residents are following an election that could have a huge impact on their life in this country. The Local's journalists are reporting live – join the conversation now.",
+          "id": "8c3afe5db20ae1ce",
+          "title": "SWEDISH ELECTION: Final result not expected until Wednesday as blocs neck and neck",
+          "summary": "Sweden's foreign residents followed an election that could have a huge impact on their life in this country. The Local's journalists reported live – catch up on the news from Election Night in our blog.",
           "link": "https://www.thelocal.se/20260913/swedish-election-live-blog-2026",
           "source": "The Local Sweden",
           "published": "2026-09-13T06:00:17+00:00"
@@ -127,8 +127,8 @@
           "published": "2026-09-11T09:37:34+00:00"
         },
         {
-          "id": "235febd9290438b8",
-          "title": "SVT FORECAST: Can you build your own Swedish government with The Local's election game?",
+          "id": "20f6ec90ef48ca16",
+          "title": "Can you build your own Swedish government with The Local's election game?",
           "summary": "The election forecast from SVT at 11.22pm gives Sweden's left-wing opposition a lead of just a single parliamentary seat. You can investigate the options for Social Democrat leader Magdalena Andersson with The Local's updated election widget.",
           "link": "https://www.thelocal.se/20260910/updated-make-your-own-swedish-government-with-the-locals-election-widget",
           "source": "The Local Sweden",
