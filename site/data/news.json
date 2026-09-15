@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-09-15T07:20:01.079782+00:00",
+  "generated_at": "2026-09-15T13:13:27.458609+00:00",
   "categories": [
     {
       "id": "politics",
       "label": "National Politics & Law",
       "count": 20,
       "articles": [
+        {
+          "id": "4f519b74d256bbda",
+          "title": "'It's tighter than I thought': How do foreigners in Sweden feel about the election?",
+          "summary": "The votes are still being counted after a tense election campaign. We asked The Local's readers how they feel about the results so far.",
+          "link": "https://www.thelocal.se/20260915/its-tighter-than-i-thought-how-do-foreigners-in-sweden-feel-about-the-election",
+          "source": "The Local Sweden",
+          "published": "2026-09-15T07:50:26+00:00"
+        },
         {
           "id": "d7b5a5b1d48725fd",
           "title": "What does Sweden's unexpectedly close election result mean for foreigners?",
@@ -157,14 +165,6 @@
           "link": "https://www.thelocal.se/20260618/stay-on-top-of-the-swedish-election-how-to-follow-the-locals-coverage",
           "source": "The Local Sweden",
           "published": "2026-06-18T08:39:16+00:00"
-        },
-        {
-          "id": "9c6663ff63c1947d",
-          "title": "Who can vote in the 2026 Swedish election?",
-          "summary": "Swedish voters will go to the polls on September 13th to cast their vote in three elections: national, regional and local. But who's eligible to vote?",
-          "link": "https://www.thelocal.se/20260608/who-can-vote-in-the-2026-swedish-election",
-          "source": "The Local Sweden",
-          "published": "2026-06-08T08:49:44+00:00"
         }
       ]
     },
