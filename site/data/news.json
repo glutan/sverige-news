@@ -1,11 +1,27 @@
 {
-  "generated_at": "2026-09-15T13:13:27.458609+00:00",
+  "generated_at": "2026-09-15T17:58:56.992508+00:00",
   "categories": [
     {
       "id": "politics",
       "label": "National Politics & Law",
       "count": 20,
       "articles": [
+        {
+          "id": "b88463a0c1daf6ea",
+          "title": "Just how big were the Sweden Democrats' losses in the Swedish election?",
+          "summary": "The Sweden Democrats are the biggest losers in the general election, with the party losing ground in 285 of Sweden's 290 municipalities.",
+          "link": "https://www.thelocal.se/20260915/just-how-big-were-the-sweden-democrats-losses-in-the-swedish-election",
+          "source": "The Local Sweden",
+          "published": "2026-09-15T13:48:36+00:00"
+        },
+        {
+          "id": "e69b38deb01a42f1",
+          "title": "Social Democrats demand that Swedish PM concedes defeat and resigns",
+          "summary": "Sweden's leading opposition party, the Social Democrats, has demanded that Prime Minister Ulf Kristersson concede defeat in the country's national election as the last votes to be counted look less and less likely to overturn the opposition's three-seat lead.",
+          "link": "https://www.thelocal.se/20260915/social-democrats-demand-that-swedish-pm-concedes-defeat-and-resigns",
+          "source": "The Local Sweden",
+          "published": "2026-09-15T12:59:46+00:00"
+        },
         {
           "id": "4f519b74d256bbda",
           "title": "'It's tighter than I thought': How do foreigners in Sweden feel about the election?",
@@ -143,28 +159,12 @@
           "published": "2026-09-10T12:29:33+00:00"
         },
         {
-          "id": "09b0428b35a45e98",
-          "title": "What you need to know about the local and regional elections in Stockholm",
-          "summary": "Sweden isn't only holding national elections on September 13th, but regional and municipal ones too. Here's what you need to know about the issues in the Stockholm elections.",
-          "link": "https://www.thelocal.se/20260907/what-are-the-issues-in-the-regional-and-city-elections-in-stockholm",
-          "source": "The Local Sweden",
-          "published": "2026-09-07T13:48:08+00:00"
-        },
-        {
           "id": "777ef0b7cc8afdfc",
           "title": "KEY POINTS: How party election pledges could affect foreigners in Sweden",
           "summary": "From new immigration and work reforms to tax breaks and extra benefits, here are the pledges made by the political parties campaigning in Sweden's 2026 general election which could have a real impact on foreigners.",
           "link": "https://www.thelocal.se/20260831/key-points-how-party-election-pledges-could-affect-foreigners-in-sweden",
           "source": "The Local Sweden",
           "published": "2026-08-31T13:33:11+00:00"
-        },
-        {
-          "id": "b136574e7f98f5f3",
-          "title": "Stay on top of the Swedish election: How to follow The Local's coverage",
-          "summary": "With Election Day just around the corner, The Local aims to deliver the most useful election coverage for foreigners, guided by our readers.",
-          "link": "https://www.thelocal.se/20260618/stay-on-top-of-the-swedish-election-how-to-follow-the-locals-coverage",
-          "source": "The Local Sweden",
-          "published": "2026-06-18T08:39:16+00:00"
         }
       ]
     },
