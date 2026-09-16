@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-09-16T00:00:56.534494+00:00",
+  "generated_at": "2026-09-16T07:21:24.172094+00:00",
   "categories": [
     {
       "id": "politics",
       "label": "National Politics & Law",
       "count": 20,
       "articles": [
+        {
+          "id": "7e3a897c6dbc7431",
+          "title": "Swedish politics professor: 'I don't see a plausible alternative to the left-leaning quartet'",
+          "summary": "Sweden's right-wing parties are suggesting Magdalena Andersson will fail to form a coalition, allowing them to win over the Centre Party. In this Q&A, professor Nicholas Aylott explains why he thinks that's wishful thinking.",
+          "link": "https://www.thelocal.se/20260916/swedish-politics-professor-i-dont-see-a-plausible-alternative-to-the-left-leaning-quartet",
+          "source": "The Local Sweden",
+          "published": "2026-09-16T07:17:09+00:00"
+        },
         {
           "id": "b88463a0c1daf6ea",
           "title": "Just how big were the Sweden Democrats' losses in the Swedish election?",
@@ -125,14 +133,6 @@
           "link": "https://www.thelocal.se/20260912/what-you-need-to-know-about-swedens-eight-political-parties",
           "source": "The Local Sweden",
           "published": "2026-09-12T21:06:48+00:00"
-        },
-        {
-          "id": "9b6a0c6692771cb0",
-          "title": "Sweden's PM wants to 'make Sweden great again'",
-          "summary": "Swedish Prime Minister Ulf Kristersson hopes to keep his centre-right coalition in power in Sweden's upcoming general election.",
-          "link": "https://www.thelocal.se/20260912/swedens-outgoing-pm-wants-to-make-sweden-great-again",
-          "source": "The Local Sweden",
-          "published": "2026-09-12T07:08:57+00:00"
         },
         {
           "id": "040218e327120f55",
