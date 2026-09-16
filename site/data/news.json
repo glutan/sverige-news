@@ -1,11 +1,27 @@
 {
-  "generated_at": "2026-09-16T17:59:48.031475+00:00",
+  "generated_at": "2026-09-16T21:13:31.887449+00:00",
   "categories": [
     {
       "id": "politics",
       "label": "National Politics & Law",
       "count": 20,
       "articles": [
+        {
+          "id": "ab0dbe5261f66d08",
+          "title": "Sweden's Tidö bloc faces '99.9% certain' defeat as final vote counting continues",
+          "summary": "With the count almost finished, public broadcaster SVT's election forecast states that the probability of the centre-left opposition securing the most seats is 99.9 percent.",
+          "link": "https://www.thelocal.se/20260916/swedens-tido-bloc-faces-99-9-certain-defeat-as-final-vote-counting-continues",
+          "source": "The Local Sweden",
+          "published": "2026-09-16T19:34:34+00:00"
+        },
+        {
+          "id": "7944e928d949ec22",
+          "title": "OPINION: The misunderstood Centre Party could learn from Ebba Busch",
+          "summary": "The Centre Party is the kingmaker for Sweden's next government, but it has boxed itself in with red lines in all directions. Elisabeth Thand Ringqvist should learn from Ebba Busch if she wants to find a way out, argues The Local's James Savage.",
+          "link": "https://www.thelocal.se/20260916/opinion-the-misunderstood-centre-party-could-learn-from-ebba",
+          "source": "The Local Sweden",
+          "published": "2026-09-16T16:16:15+00:00"
+        },
         {
           "id": "96353de0ba8f751f",
           "title": "FACT CHECK: Could the extra 'Wednesday votes' really flip Sweden's election?",
@@ -127,14 +143,6 @@
           "published": "2026-09-13T14:24:25+00:00"
         },
         {
-          "id": "a68dbc2ae488a5c5",
-          "title": "Sweden votes in election thriller, far right eyes govt role",
-          "summary": "Sweden began voting Sunday in a general election after a tight race that will see either the far-right enter government for the first time or the left-wing opposition reclaim power.",
-          "link": "https://www.thelocal.se/20260913/sweden-votes-in-election-thriller-far-right-eyes-govt-role",
-          "source": "The Local Sweden",
-          "published": "2026-09-13T08:30:42+00:00"
-        },
-        {
           "id": "8c3afe5db20ae1ce",
           "title": "SWEDISH ELECTION: Final result not expected until Wednesday as blocs neck and neck",
           "summary": "Sweden's foreign residents followed an election that could have a huge impact on their life in this country. The Local's journalists reported live – catch up on the news from Election Night in our blog.",
@@ -157,14 +165,6 @@
           "link": "https://www.thelocal.se/20260910/updated-make-your-own-swedish-government-with-the-locals-election-widget",
           "source": "The Local Sweden",
           "published": "2026-09-10T12:29:33+00:00"
-        },
-        {
-          "id": "777ef0b7cc8afdfc",
-          "title": "KEY POINTS: How party election pledges could affect foreigners in Sweden",
-          "summary": "From new immigration and work reforms to tax breaks and extra benefits, here are the pledges made by the political parties campaigning in Sweden's 2026 general election which could have a real impact on foreigners.",
-          "link": "https://www.thelocal.se/20260831/key-points-how-party-election-pledges-could-affect-foreigners-in-sweden",
-          "source": "The Local Sweden",
-          "published": "2026-08-31T13:33:11+00:00"
         }
       ]
     },
