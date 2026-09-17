@@ -1,11 +1,27 @@
 {
-  "generated_at": "2026-09-17T07:17:02.433154+00:00",
+  "generated_at": "2026-09-17T13:07:16.278035+00:00",
   "categories": [
     {
       "id": "politics",
       "label": "National Politics & Law",
       "count": 20,
       "articles": [
+        {
+          "id": "96273abda10d3e13",
+          "title": "Kristersson resigns as PM after Sweden's centre-left opposition wins election",
+          "summary": "Sweden's prime minister Ulf Kristersson has tendered his resignation as the vote count for Sweden's election was completed shortly after 1pm on Thursday, with the opposition parties retaining their 176-173 lead over the government bloc.",
+          "link": "https://www.thelocal.se/20260917/kristersson-resigns-as-pm-after-swedens-centre-left-opposition-wins-election",
+          "source": "The Local Sweden",
+          "published": "2026-09-17T12:01:48+00:00"
+        },
+        {
+          "id": "b55c68af41e6879a",
+          "title": "Jimmie Åkesson reportedly plans break if Sweden Democrats enter opposition",
+          "summary": "Several sources within the Sweden Democrats have told the TV4 broadcaster that their leader Jimmie Åkesson is expected to take a break if the party ends up in opposition.",
+          "link": "https://www.thelocal.se/20260917/jimmie-akesson-reportedly-plans-break-if-sweden-democrats-enter-opposition",
+          "source": "The Local Sweden",
+          "published": "2026-09-17T09:46:33+00:00"
+        },
         {
           "id": "ab0dbe5261f66d08",
           "title": "Sweden's Tidö bloc faces '99.9% certain' defeat as final vote counting continues",
@@ -117,22 +133,6 @@
           "link": "https://www.thelocal.se/20260913/swedens-centre-party-wants-to-freeze-all-unreasonable-deportations-if-it-wins-election",
           "source": "The Local Sweden",
           "published": "2026-09-13T16:44:25+00:00"
-        },
-        {
-          "id": "11e980d0bdc12f0d",
-          "title": "'A very low standard': Left-wing voters downbeat on Election Day in Sweden",
-          "summary": "The mood at the polling station at Stenkula school in Östra Sorgenfri, a Left Party stronghold in Malmö, was downbeat on Sunday morning, with voters complaining of a dirty campaign and a lack of inspiring proposals from the Social Democrats.",
-          "link": "https://www.thelocal.se/20260913/a-very-low-standard-left-wing-voters-in-low-spirits-on-election-day-in-sweden",
-          "source": "The Local Sweden",
-          "published": "2026-09-13T14:47:32+00:00"
-        },
-        {
-          "id": "22923216356d3734",
-          "title": "IN PICTURES: Sweden on tenterhooks as party leaders vote",
-          "summary": "Sweden's two main prime ministerial candidates voted on Sunday as the country went to the polls, while other party leaders were still out campaigning. Here are some of the best pictures from Election Day.",
-          "link": "https://www.thelocal.se/20260913/in-pictures-sweden-on-tenterhooks-as-party-leaders-vote",
-          "source": "The Local Sweden",
-          "published": "2026-09-13T14:27:51+00:00"
         },
         {
           "id": "5b09660f353885c4",
