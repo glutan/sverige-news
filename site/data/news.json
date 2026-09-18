@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-09-18T04:18:54.701637+00:00",
+  "generated_at": "2026-09-18T10:43:56.779473+00:00",
   "categories": [
     {
       "id": "politics",
       "label": "National Politics & Law",
       "count": 20,
       "articles": [
+        {
+          "id": "7db107696ef82380",
+          "title": "OPINION: Yes, Swedish immigrants vote in their own interests – just like other voters",
+          "summary": "Data shows that voters in Sweden with foreign backgrounds support left-wing parties in often much higher numbers than they do right-wing parties. The Local's Mandy Pipher says, 'So what?'",
+          "link": "https://www.thelocal.se/20260918/opinion-yes-swedish-immigrants-vote-in-their-own-interests-just-like-other-voters",
+          "source": "The Local Sweden",
+          "published": "2026-09-18T10:14:46+00:00"
+        },
+        {
+          "id": "1c69f38d7d0bf6a2",
+          "title": "Swedish parliamentary speaker to meet party leaders – Andersson first",
+          "summary": "Following Ulf Kristersson’s request to be relieved of his duties as Prime Minister, the process of appointing a new Prime Minister is now underway, with the house speaker inviting party leaders to individual meetings today.",
+          "link": "https://www.thelocal.se/20260918/swedish-house-speaker-to-meet-party-leaders-andersson-first",
+          "source": "The Local Sweden",
+          "published": "2026-09-18T07:56:44+00:00"
+        },
+        {
+          "id": "55a619c781d17d43",
+          "title": "IN DATA: Did foreign voters lose the election for Sweden's right-wing government?",
+          "summary": "Senior politicians for the far-right Sweden Democrats have reacted to the party's poor election result by blaming immigrant voters and newly naturalised Swedish citizens voting for the first time. Is there any truth to this?",
+          "link": "https://www.thelocal.se/20260918/in-data-did-foreign-voters-lose-the-election-for-swedens-right-wing-government",
+          "source": "The Local Sweden",
+          "published": "2026-09-18T07:46:53+00:00"
+        },
         {
           "id": "96273abda10d3e13",
           "title": "Kristersson resigns as PM after Sweden's centre-left opposition wins election",
@@ -119,30 +143,6 @@
           "published": "2026-09-13T21:10:18+00:00"
         },
         {
-          "id": "da7dac01153580eb",
-          "title": "Exit polls and projections: Why Swedish elections really aren't over until all votes are in",
-          "summary": "When TV4 and then SVT publish their exit polls at around 8pm tonight, it will be hard for the side that's ahead not to start celebrating. But as the 2022 Swedish election taught us, national votes here really aren't over until every vote is counted.",
-          "link": "https://www.thelocal.se/20260913/exit-polls-and-projections-why-swedish-elections-really-arent-over-until-theyre-over",
-          "source": "The Local Sweden",
-          "published": "2026-09-13T17:13:09+00:00"
-        },
-        {
-          "id": "88bcbe652ae14c82",
-          "title": "Sweden’s Centre Party says it wants to freeze all 'unreasonable' deportations",
-          "summary": "Sweden’s liberal Centre Party said on Sunday it wants to freeze all “unreasonable” deportations from the country.",
-          "link": "https://www.thelocal.se/20260913/swedens-centre-party-wants-to-freeze-all-unreasonable-deportations-if-it-wins-election",
-          "source": "The Local Sweden",
-          "published": "2026-09-13T16:44:25+00:00"
-        },
-        {
-          "id": "5b09660f353885c4",
-          "title": "WATCH: Abba legend Benny Andersson serenades Social Democrat leader",
-          "summary": "The composer of legendary Swedish pop group Abba on Sunday gave the band's hit \"Mamma Mia\" a campaign makeover to rally support for centre-left opposition candidate Magdalena Andersson.",
-          "link": "https://www.thelocal.se/20260913/watch-abba-legend-benny-andersson-serenades-social-democrat-leader",
-          "source": "The Local Sweden",
-          "published": "2026-09-13T14:24:25+00:00"
-        },
-        {
           "id": "8c3afe5db20ae1ce",
           "title": "SWEDISH ELECTION: Final result not expected until Wednesday as blocs neck and neck",
           "summary": "Sweden's foreign residents followed an election that could have a huge impact on their life in this country. The Local's journalists reported live – catch up on the news from Election Night in our blog.",
@@ -159,12 +159,12 @@
           "published": "2026-09-11T09:08:29+00:00"
         },
         {
-          "id": "20f6ec90ef48ca16",
-          "title": "Can you build your own Swedish government with The Local's election game?",
-          "summary": "The election forecast from SVT at 11.22pm gives Sweden's left-wing opposition a lead of just a single parliamentary seat. You can investigate the options for Social Democrat leader Magdalena Andersson with The Local's updated election widget.",
-          "link": "https://www.thelocal.se/20260910/updated-make-your-own-swedish-government-with-the-locals-election-widget",
+          "id": "32768bafced36020",
+          "title": "Swedish word of the day: talmansrunda",
+          "summary": "The word 'talmansrunda' is crucial vocabulary if you want to have any hope of understanding how a prime minister gets appointed in Sweden.",
+          "link": "https://www.thelocal.se/20181214/swedish-word-of-the-day-talmansrunda",
           "source": "The Local Sweden",
-          "published": "2026-09-10T12:29:33+00:00"
+          "published": "2018-12-14T14:10:18+00:00"
         }
       ]
     },
