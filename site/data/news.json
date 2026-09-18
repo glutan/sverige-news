@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-09-18T10:43:56.779473+00:00",
+  "generated_at": "2026-09-18T15:59:01.441806+00:00",
   "categories": [
     {
       "id": "politics",
       "label": "National Politics & Law",
       "count": 20,
       "articles": [
+        {
+          "id": "3c575e8edaabc7f9",
+          "title": "IN PICS: Seven cups of coffee and sponge cake as government talks begin",
+          "summary": "Andreas Norlén, the speaker of the Swedish parliament, offered party leaders coffee and a 'sockerkaka' spongecake he had baked himself when he called in seven party leaders to preliminary talks on a new government.",
+          "link": "https://www.thelocal.se/20260918/in-pics-seven-cups-of-coffee-and-sponge-cake-as-government-talks-begin",
+          "source": "The Local Sweden",
+          "published": "2026-09-18T15:20:05+00:00"
+        },
+        {
+          "id": "c8c452012c67a5aa",
+          "title": "Magdalena Andersson first leader tasked with forming new Swedish government",
+          "summary": "Sweden's parliamentary speaker, Andreas Norlén has tasked Social Democrat leader Magdalena Andersson with trying to build a new government after a day of talks with the country's party leaders.",
+          "link": "https://www.thelocal.se/20260918/total-deadlock-on-first-day-of-trying-to-build-new-swedish-government",
+          "source": "The Local Sweden",
+          "published": "2026-09-18T13:27:24+00:00"
+        },
+        {
+          "id": "e2acf83d927ada4c",
+          "title": "'I am available to form a new government': Swedish opposition leader meets speaker",
+          "summary": "The leading candidate to be Sweden's new Prime Minister, Magdalena Andersson, has declared herself 'available' to form a new government after she held the first party leader meeting with the parliament's speaker after the election.",
+          "link": "https://www.thelocal.se/20260918/i-am-available-to-form-a-new-government-swedish-opposition-leader-meets-speaker",
+          "source": "The Local Sweden",
+          "published": "2026-09-18T11:00:42+00:00"
+        },
         {
           "id": "7db107696ef82380",
           "title": "OPINION: Yes, Swedish immigrants vote in their own interests – just like other voters",
@@ -125,30 +149,6 @@
           "link": "https://www.thelocal.se/20260914/centre-left-holds-on-to-power-in-stockholm-gothenburg-and-malmo",
           "source": "The Local Sweden",
           "published": "2026-09-14T07:58:58+00:00"
-        },
-        {
-          "id": "37512759c64a4869",
-          "title": "Swedish election cliffhanger: Opposition ahead as final count continues",
-          "summary": "The centre-left opposition looks set to extend its lead in the parliamentary seat distribution compared to the incumbent Tidö parties, according to the latest figures from the Swedish Election Authority.",
-          "link": "https://www.thelocal.se/20260914/swedish-election-cliffhanger-opposition-ahead-as-final-count-continues",
-          "source": "The Local Sweden",
-          "published": "2026-09-14T07:48:28+00:00"
-        },
-        {
-          "id": "d475f4953fd8c25c",
-          "title": "Swedish parties in for tough negotiations after election",
-          "summary": "Even if the left-wing bloc comes out on top after Sunday's election the fight for power looks far from over.",
-          "link": "https://www.thelocal.se/20260913/swedish-parties-in-for-tough-negotiations-after-election",
-          "source": "The Local Sweden",
-          "published": "2026-09-13T21:10:18+00:00"
-        },
-        {
-          "id": "8c3afe5db20ae1ce",
-          "title": "SWEDISH ELECTION: Final result not expected until Wednesday as blocs neck and neck",
-          "summary": "Sweden's foreign residents followed an election that could have a huge impact on their life in this country. The Local's journalists reported live – catch up on the news from Election Night in our blog.",
-          "link": "https://www.thelocal.se/20260913/swedish-election-live-blog-2026",
-          "source": "The Local Sweden",
-          "published": "2026-09-13T06:00:17+00:00"
         },
         {
           "id": "e44f89a88b83e4e4",
