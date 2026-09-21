@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-09-21T09:43:13.595347+00:00",
+  "generated_at": "2026-09-21T16:17:05.863617+00:00",
   "categories": [
     {
       "id": "politics",
       "label": "National Politics & Law",
       "count": 20,
       "articles": [
+        {
+          "id": "a4f931e00d6420cf",
+          "title": "Behind closed doors, Sweden's Left and Centre parties are still miles apart",
+          "summary": "The so-called 'red-green' parties of Sweden's left and centre-left wing have been keeping silent about any meetings about forming a government that may or may not be happening. But an unnamed Left Party source says the Centre Party still 'refuses to meet' with them.",
+          "link": "https://www.thelocal.se/20260921/behind-closed-doors-swedens-left-and-centre-parties-are-still-miles-apart",
+          "source": "The Local Sweden",
+          "published": "2026-09-21T12:34:27+00:00"
+        },
         {
           "id": "3c575e8edaabc7f9",
           "title": "IN PICS: Seven cups of coffee and sponge cake as government talks begin",
@@ -79,8 +87,8 @@
           "published": "2026-09-16T19:34:34+00:00"
         },
         {
-          "id": "7944e928d949ec22",
-          "title": "OPINION: The misunderstood Centre Party could learn from Ebba Busch",
+          "id": "c5992df3d06f2640",
+          "title": "OPINION: Sweden's misunderstood Centre Party could learn from Ebba Busch",
           "summary": "The Centre Party is the kingmaker for Sweden's next government, but it has boxed itself in with red lines in all directions. Elisabeth Thand Ringqvist should learn from Ebba Busch if she wants to find a way out, argues The Local's James Savage.",
           "link": "https://www.thelocal.se/20260916/opinion-the-misunderstood-centre-party-could-learn-from-ebba",
           "source": "The Local Sweden",
@@ -141,14 +149,6 @@
           "link": "https://www.thelocal.se/20260914/what-does-swedens-unexpectedly-close-election-result-mean-for-foreigners",
           "source": "The Local Sweden",
           "published": "2026-09-14T09:03:13+00:00"
-        },
-        {
-          "id": "e3449f0e7050d27e",
-          "title": "Centre-left holds on to power in Stockholm, Gothenburg and Malmö",
-          "summary": "The balance of power looks set to hold in the country's three largest municipalities, all of which are governed by centre-left coalitions.",
-          "link": "https://www.thelocal.se/20260914/centre-left-holds-on-to-power-in-stockholm-gothenburg-and-malmo",
-          "source": "The Local Sweden",
-          "published": "2026-09-14T07:58:58+00:00"
         },
         {
           "id": "e44f89a88b83e4e4",
