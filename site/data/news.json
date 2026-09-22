@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-09-22T07:25:31.172999+00:00",
+  "generated_at": "2026-09-22T13:10:42.044474+00:00",
   "categories": [
     {
       "id": "politics",
       "label": "National Politics & Law",
       "count": 20,
       "articles": [
+        {
+          "id": "cd59375de33ae0ae",
+          "title": "EXPLAINED: What needs to happen for Sweden to get a new prime minister?",
+          "summary": "The four Tidö parties behind Sweden's current government have lost the election and Ulf Kristersson has resigned as Prime Minister, so what needs to happen for Sweden to get a new leader?",
+          "link": "https://www.thelocal.se/20260922/explained-what-needs-to-happen-for-sweden-to-get-a-new-prime-minister",
+          "source": "The Local Sweden",
+          "published": "2026-09-22T10:18:34+00:00"
+        },
         {
           "id": "a4f931e00d6420cf",
           "title": "Behind closed doors, Sweden's Left and Centre parties are still miles apart",
@@ -149,14 +157,6 @@
           "link": "https://www.thelocal.se/20260914/what-does-swedens-unexpectedly-close-election-result-mean-for-foreigners",
           "source": "The Local Sweden",
           "published": "2026-09-14T09:03:13+00:00"
-        },
-        {
-          "id": "e44f89a88b83e4e4",
-          "title": "Swedish government scenarios: What happens now?",
-          "summary": "The centre-left is in the lead 176-173 seats, but it's unclear who will be able to form a government. The Local explains what the future might hold.",
-          "link": "https://www.thelocal.se/20260911/three-key-scenarios-what-will-happen-in-the-days-after-the-swedish-election",
-          "source": "The Local Sweden",
-          "published": "2026-09-11T09:08:29+00:00"
         },
         {
           "id": "32768bafced36020",
