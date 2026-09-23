@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-09-23T07:28:12.723338+00:00",
+  "generated_at": "2026-09-23T13:25:10.369498+00:00",
   "categories": [
     {
       "id": "politics",
       "label": "National Politics & Law",
       "count": 20,
       "articles": [
+        {
+          "id": "f684e8cb9c28f914",
+          "title": "Newly elected MP steps aside amid Swedish electoral fraud probe",
+          "summary": "Newly elected Left Party MP Mohamed Abdukardir Ali is taking a leave of absence, following allegations of election fraud.",
+          "link": "https://www.thelocal.se/20260923/newly-elected-mp-steps-aside-amid-swedish-electoral-fraud-probe",
+          "source": "The Local Sweden",
+          "published": "2026-09-23T07:43:09+00:00"
+        },
         {
           "id": "cd59375de33ae0ae",
           "title": "EXPLAINED: What needs to happen for Sweden to get a new prime minister?",
@@ -143,14 +151,6 @@
           "published": "2026-09-15T08:35:05+00:00"
         },
         {
-          "id": "4f519b74d256bbda",
-          "title": "'It's tighter than I thought': How do foreigners in Sweden feel about the election?",
-          "summary": "The votes are still being counted after a tense election campaign. We asked The Local's readers how they feel about the results so far.",
-          "link": "https://www.thelocal.se/20260915/its-tighter-than-i-thought-how-do-foreigners-in-sweden-feel-about-the-election",
-          "source": "The Local Sweden",
-          "published": "2026-09-15T07:50:26+00:00"
-        },
-        {
           "id": "d7b5a5b1d48725fd",
           "title": "What does Sweden's unexpectedly close election result mean for foreigners?",
           "summary": "As it stands right now, a 'Tidö 2' government lacks a mandate, as does the Centre Party's dream 'middle government', and two of the four opposition parties who could form a majority refuse to rule together. If nothing changes, what does this mean for foreigners in Sweden?",
@@ -173,6 +173,22 @@
       "label": "Immigration & Citizenship",
       "count": 20,
       "articles": [
+        {
+          "id": "c664f5ad839856e5",
+          "title": "INTERVIEW: 'The last word has not yet been said on Swedish citizenship'",
+          "summary": "In an interview with The Local, Fredrik Löndahl, chief judge at the Malmö migration court, explains why his court gave special attention to a single citizenship rejection appeal, and why he believes the ruling will be tested again at the highest court.",
+          "link": "https://www.thelocal.se/20260923/interview-the-last-word-has-not-yet-been-said-on-swedish-citizenship",
+          "source": "The Local Sweden",
+          "published": "2026-09-23T10:32:44+00:00"
+        },
+        {
+          "id": "7dd08ecb83ceb0c7",
+          "title": "Swedish Migration Agency rejects police request to deport EU researcher",
+          "summary": "The Migration Agency has rejected a police request to deport a researcher and climate activist over civil disobedience",
+          "link": "https://www.thelocal.se/20260923/swedish-migration-agency-rejects-police-request-to-deport-eu-researcher",
+          "source": "The Local Sweden",
+          "published": "2026-09-23T07:55:28+00:00"
+        },
         {
           "id": "06362ce83a02191b",
           "title": "Chief judge expects Swedish citizenship case to head to highest migration court",
@@ -316,22 +332,6 @@
           "link": "https://www.thelocal.se/20260814/integration-investigator-says-swedish-for-immigrants-needs-redesign",
           "source": "The Local Sweden",
           "published": "2026-08-14T09:15:42+00:00"
-        },
-        {
-          "id": "ff15270675fed78d",
-          "title": "Swedish government wins vote on 'cruel' family immigration bill",
-          "summary": "The government and the Sweden Democrats won the vote on stricter requirements for family immigration on August 13th, despite a strong united opposition to two of its key proposals which opposition parties called 'cruel.'",
-          "link": "https://www.thelocal.se/20260814/swedish-government-wins-votes-on-cruel-family-immigration-bill",
-          "source": "The Local Sweden",
-          "published": "2026-08-14T07:33:57+00:00"
-        },
-        {
-          "id": "914d63cdb3f781e0",
-          "title": "'I feel shame and rage': Immigration clampdown hits Swedes close to home",
-          "summary": "Gustav and Luisa have worked hard to build a life together in Sweden with their young son, but after a surprise rejection of Luisa's permanent residency application, they tell The Local they now fear for their family's future.",
-          "link": "https://www.thelocal.se/20260806/i-feel-shame-and-rage-immigration-clampdown-hits-swedes-close-to-home",
-          "source": "The Local Sweden",
-          "published": "2026-08-06T09:57:09+00:00"
         }
       ]
     },
