@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-09-25T09:27:17.150175+00:00",
+  "generated_at": "2026-09-25T15:02:18.209576+00:00",
   "categories": [
     {
       "id": "politics",
       "label": "National Politics & Law",
       "count": 20,
       "articles": [
+        {
+          "id": "b4578809e513c272",
+          "title": "Record number of challenges after Sweden's election",
+          "summary": "Swedish officials said they had received thousands of challenges to result of this month's general election, which was narrowly won by the Social Democrat-led opposition.",
+          "link": "https://www.thelocal.se/20260925/record-number-of-challenges-after-swedens-election",
+          "source": "The Local Sweden",
+          "published": "2026-09-25T11:57:45+00:00"
+        },
         {
           "id": "6c109fa025d483bc",
           "title": "From the obvious to the unthinkable: Nine options for Sweden's government",
@@ -143,14 +151,6 @@
           "published": "2026-09-16T10:53:38+00:00"
         },
         {
-          "id": "87ad79820caee1c3",
-          "title": "Sweden starts counting final batch of votes in tight election",
-          "summary": "Election officials in Sweden started counting the the last early and overseas votes on Wednesday, but the count isn't expected to be finished until Thursday.",
-          "link": "https://www.thelocal.se/20260915/vote-count-in-swedish-election-will-only-be-completed-on-thursday",
-          "source": "The Local Sweden",
-          "published": "2026-09-15T08:35:05+00:00"
-        },
-        {
           "id": "d7b5a5b1d48725fd",
           "title": "What does Sweden's unexpectedly close election result mean for foreigners?",
           "summary": "As it stands right now, a 'Tidö 2' government lacks a mandate, as does the Centre Party's dream 'middle government', and two of the four opposition parties who could form a majority refuse to rule together. If nothing changes, what does this mean for foreigners in Sweden?",
@@ -173,6 +173,14 @@
       "label": "Immigration & Citizenship",
       "count": 20,
       "articles": [
+        {
+          "id": "fe101126843d344e",
+          "title": "'I didn't hear a sniff of anything about Brexit or a deadline for applying'",
+          "summary": "Until he was stopped by border police in Malmö on September 15th this year, Paul Hounam had absolutely no idea he should have applied for post-Brexit residency back in 2021. He could now be forcibly deported in 10 days with a four-year Schengen ban.",
+          "link": "https://www.thelocal.se/20260925/i-didnt-hear-a-sniff-of-anything-about-brexit-or-a-deadline-for-applying",
+          "source": "The Local Sweden",
+          "published": "2026-09-25T11:18:51+00:00"
+        },
         {
           "id": "eb43cd3aca9593e9",
           "title": "What's in Sweden's new law on family reunification?",
@@ -324,14 +332,6 @@
           "link": "https://www.thelocal.se/20260819/whats-causing-swedens-second-wave-of-post-brexit-deportations",
           "source": "The Local Sweden",
           "published": "2026-08-19T11:40:11+00:00"
-        },
-        {
-          "id": "c7933c29e92eee17",
-          "title": "Sweden awards fewer than 100 new citizenships the month after new rules come into force",
-          "summary": "Fewer than 100 Swedish citizenship applications – and only 20 through naturalisation – were approved in July, the month after new and stricter citizenship rules came into force.",
-          "link": "https://www.thelocal.se/20260817/sweden-grants-fewer-than-100-new-citizenships-the-month-after-new-rules-come-into-force",
-          "source": "The Local Sweden",
-          "published": "2026-08-17T14:47:52+00:00"
         }
       ]
     },
