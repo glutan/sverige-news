@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-09-25T15:02:18.209576+00:00",
+  "generated_at": "2026-09-25T19:53:16.315373+00:00",
   "categories": [
     {
       "id": "politics",
       "label": "National Politics & Law",
       "count": 20,
       "articles": [
+        {
+          "id": "027a2586269624ad",
+          "title": "OPINION: It's not just immigrants – Swedes are clan voters too",
+          "summary": "Coercion and bribery have no place in elections. But before accusing immigrants of \"clan voting\", Swedes should look at themselves, argues The Local's James Savage.",
+          "link": "https://www.thelocal.se/20260925/opinion-its-not-just-immigrants-swedes-are-clan-voters-too",
+          "source": "The Local Sweden",
+          "published": "2026-09-25T17:23:39+00:00"
+        },
         {
           "id": "b4578809e513c272",
           "title": "Record number of challenges after Sweden's election",
@@ -143,14 +151,6 @@
           "published": "2026-09-16T16:16:15+00:00"
         },
         {
-          "id": "96353de0ba8f751f",
-          "title": "FACT CHECK: Could the extra 'Wednesday votes' really flip Sweden's election?",
-          "summary": "Hundreds of thousands of extra votes are being counted in the Swedish election on Wednesday and Thursday. Could this change the outcome?",
-          "link": "https://www.thelocal.se/20260916/fact-check-could-the-extra-wednesday-votes-really-flip-swedens-election",
-          "source": "The Local Sweden",
-          "published": "2026-09-16T10:53:38+00:00"
-        },
-        {
           "id": "d7b5a5b1d48725fd",
           "title": "What does Sweden's unexpectedly close election result mean for foreigners?",
           "summary": "As it stands right now, a 'Tidö 2' government lacks a mandate, as does the Centre Party's dream 'middle government', and two of the four opposition parties who could form a majority refuse to rule together. If nothing changes, what does this mean for foreigners in Sweden?",
@@ -182,8 +182,8 @@
           "published": "2026-09-25T11:18:51+00:00"
         },
         {
-          "id": "eb43cd3aca9593e9",
-          "title": "What's in Sweden's new law on family reunification?",
+          "id": "5ed455ecab16925c",
+          "title": "UPDATED: What's in Sweden's new law on family reunification?",
           "summary": "Sweden's Tidö government may have lost the 2026 election, but many of its strict immigration policies will become law this autumn. Here's what you need to know about the law restricting immigrant family reunification that comes into force on October 1st.",
           "link": "https://www.thelocal.se/20260924/whats-in-swedens-new-law-on-family-reunification",
           "source": "The Local Sweden",
