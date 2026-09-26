@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-09-26T09:18:10.309535+00:00",
+  "generated_at": "2026-09-26T14:11:42.390688+00:00",
   "categories": [
     {
       "id": "politics",
       "label": "National Politics & Law",
       "count": 20,
       "articles": [
+        {
+          "id": "08f4f9f292a6b425",
+          "title": "Breakthroughs for the radical and far-right in Europe",
+          "summary": "After recent regional election breakthroughs by the Alternative for Germany (AfD), here is an overview of radical, nationalist and far- and hard-right parties' positions across Europe in recent years.",
+          "link": "https://www.thelocal.se/20260926/breakthroughs-for-the-radical-and-far-right-in-europe",
+          "source": "The Local Sweden",
+          "published": "2026-09-26T13:11:29+00:00"
+        },
         {
           "id": "027a2586269624ad",
           "title": "OPINION: It's not just immigrants – Swedes are clan voters too",
@@ -133,14 +141,6 @@
           "link": "https://www.thelocal.se/20260917/jimmie-akesson-reportedly-plans-break-if-sweden-democrats-enter-opposition",
           "source": "The Local Sweden",
           "published": "2026-09-17T09:46:33+00:00"
-        },
-        {
-          "id": "ab0dbe5261f66d08",
-          "title": "Sweden's Tidö bloc faces '99.9% certain' defeat as final vote counting continues",
-          "summary": "With the count almost finished, public broadcaster SVT's election forecast states that the probability of the centre-left opposition securing the most seats is 99.9 percent.",
-          "link": "https://www.thelocal.se/20260916/swedens-tido-bloc-faces-99-9-certain-defeat-as-final-vote-counting-continues",
-          "source": "The Local Sweden",
-          "published": "2026-09-16T19:34:34+00:00"
         },
         {
           "id": "c5992df3d06f2640",
