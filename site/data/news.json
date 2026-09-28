@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-09-28T00:20:43.288083+00:00",
+  "generated_at": "2026-09-28T08:21:12.572888+00:00",
   "categories": [
     {
       "id": "politics",
       "label": "National Politics & Law",
       "count": 20,
       "articles": [
+        {
+          "id": "c62de04d55804f3b",
+          "title": "BREAKING: Social Democrat Magdalena Andersson abandons attempt to form a government",
+          "summary": "Social Democrat leader Magdalena Andersson says her attempts to build a coalition of parties willing to tolerate her as prime minister have failed.",
+          "link": "https://www.thelocal.se/20260928/breaking-social-democrat-magdalena-andersson-abandons-attempt-to-form-a-government",
+          "source": "The Local Sweden",
+          "published": "2026-09-28T07:42:18+00:00"
+        },
         {
           "id": "1da172007b934c9e",
           "title": "Where are the breakthroughs for the radical and far-right in Europe?",
@@ -141,14 +149,6 @@
           "link": "https://www.thelocal.se/20260917/jimmie-akesson-reportedly-plans-break-if-sweden-democrats-enter-opposition",
           "source": "The Local Sweden",
           "published": "2026-09-17T09:46:33+00:00"
-        },
-        {
-          "id": "c5992df3d06f2640",
-          "title": "OPINION: Sweden's misunderstood Centre Party could learn from Ebba Busch",
-          "summary": "The Centre Party is the kingmaker for Sweden's next government, but it has boxed itself in with red lines in all directions. Elisabeth Thand Ringqvist should learn from Ebba Busch if she wants to find a way out, argues The Local's James Savage.",
-          "link": "https://www.thelocal.se/20260916/opinion-the-misunderstood-centre-party-could-learn-from-ebba",
-          "source": "The Local Sweden",
-          "published": "2026-09-16T16:16:15+00:00"
         },
         {
           "id": "d7b5a5b1d48725fd",
