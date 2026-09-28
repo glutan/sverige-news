@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T08:21:12.572888+00:00",
+  "generated_at": "2026-09-28T17:59:02.098241+00:00",
   "categories": [
     {
       "id": "politics",
@@ -7,8 +7,16 @@
       "count": 20,
       "articles": [
         {
-          "id": "c62de04d55804f3b",
-          "title": "BREAKING: Social Democrat Magdalena Andersson abandons attempt to form a government",
+          "id": "631a212efc564f35",
+          "title": "Strategy or spite? Why is Magda giving up on forming Sweden's next government?",
+          "summary": "Was it an angry impulse decision or a strategic masterstroke, carefully plotted out in the corridors of Sveavägen 68 – the Social Democrats' HQ?",
+          "link": "https://www.thelocal.se/20260928/strategy-or-spite-why-is-magda-giving-up-on-forming-swedens-next-government",
+          "source": "The Local Sweden",
+          "published": "2026-09-28T10:26:14+00:00"
+        },
+        {
+          "id": "09a977aad720155f",
+          "title": "Social Democrat Magdalena Andersson abandons attempt to form a government",
           "summary": "Social Democrat leader Magdalena Andersson says her attempts to build a coalition of parties willing to tolerate her as prime minister have failed.",
           "link": "https://www.thelocal.se/20260928/breaking-social-democrat-magdalena-andersson-abandons-attempt-to-form-a-government",
           "source": "The Local Sweden",
@@ -73,7 +81,7 @@
         {
           "id": "cd59375de33ae0ae",
           "title": "EXPLAINED: What needs to happen for Sweden to get a new prime minister?",
-          "summary": "The four Tidö parties behind Sweden's current government have lost the election and Ulf Kristersson has resigned as Prime Minister, so what needs to happen for Sweden to get a new leader?",
+          "summary": "The four Tidö parties behind Sweden's current government lost the election and Ulf Kristersson resigned as prime minister, so what needs to happen for Sweden to get a new leader?",
           "link": "https://www.thelocal.se/20260922/explained-what-needs-to-happen-for-sweden-to-get-a-new-prime-minister",
           "source": "The Local Sweden",
           "published": "2026-09-22T10:18:34+00:00"
@@ -141,14 +149,6 @@
           "link": "https://www.thelocal.se/20260917/kristersson-resigns-as-pm-after-swedens-centre-left-opposition-wins-election",
           "source": "The Local Sweden",
           "published": "2026-09-17T12:01:48+00:00"
-        },
-        {
-          "id": "b55c68af41e6879a",
-          "title": "Jimmie Åkesson reportedly plans break if Sweden Democrats enter opposition",
-          "summary": "Several sources within the Sweden Democrats have told the TV4 broadcaster that their leader Jimmie Åkesson is expected to take a break if the party ends up in opposition.",
-          "link": "https://www.thelocal.se/20260917/jimmie-akesson-reportedly-plans-break-if-sweden-democrats-enter-opposition",
-          "source": "The Local Sweden",
-          "published": "2026-09-17T09:46:33+00:00"
         },
         {
           "id": "d7b5a5b1d48725fd",
