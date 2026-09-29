@@ -1,11 +1,27 @@
 {
-  "generated_at": "2026-09-29T04:44:03.592693+00:00",
+  "generated_at": "2026-09-29T12:18:54.924859+00:00",
   "categories": [
     {
       "id": "politics",
       "label": "National Politics & Law",
       "count": 20,
       "articles": [
+        {
+          "id": "f41d6ffa9268996d",
+          "title": "Sweden's Green Party tables motion calling for immediate stop to teen deportations",
+          "summary": "Sweden's Green Party have tabled a motion in parliament calling for an immediate and permanent stop to teen deportations, arguing that those affected do not have time to wait for government talks to be completed.",
+          "link": "https://www.thelocal.se/20260929/swedens-green-party-tables-motion-calling-for-immediate-stop-to-teen-deportations",
+          "source": "The Local Sweden",
+          "published": "2026-09-29T10:57:42+00:00"
+        },
+        {
+          "id": "7c07b2212db539a0",
+          "title": "Speaker of the Riksdag calls new talks as Swedish government deadlock continues",
+          "summary": "The speaker of parliament, Andreas Norlén, is set to hold a fresh round of talks with party leaders on Wednesday to address the ongoing deadlock over forming a government.",
+          "link": "https://www.thelocal.se/20260929/speaker-of-the-riksdag-calls-new-talks-as-swedish-government-deadlock-continues",
+          "source": "The Local Sweden",
+          "published": "2026-09-29T09:37:03+00:00"
+        },
         {
           "id": "631a212efc564f35",
           "title": "Strategy or spite? Why is Magda giving up on forming Sweden's next government?",
@@ -143,28 +159,12 @@
           "published": "2026-09-18T07:46:53+00:00"
         },
         {
-          "id": "96273abda10d3e13",
-          "title": "Kristersson resigns as PM after Sweden's centre-left opposition wins election",
-          "summary": "Sweden's prime minister Ulf Kristersson has tendered his resignation as the vote count for Sweden's election was completed shortly after 1pm on Thursday, with the opposition parties retaining their 176-173 lead over the government bloc.",
-          "link": "https://www.thelocal.se/20260917/kristersson-resigns-as-pm-after-swedens-centre-left-opposition-wins-election",
-          "source": "The Local Sweden",
-          "published": "2026-09-17T12:01:48+00:00"
-        },
-        {
           "id": "d7b5a5b1d48725fd",
           "title": "What does Sweden's unexpectedly close election result mean for foreigners?",
           "summary": "As it stands right now, a 'Tidö 2' government lacks a mandate, as does the Centre Party's dream 'middle government', and two of the four opposition parties who could form a majority refuse to rule together. If nothing changes, what does this mean for foreigners in Sweden?",
           "link": "https://www.thelocal.se/20260914/what-does-swedens-unexpectedly-close-election-result-mean-for-foreigners",
           "source": "The Local Sweden",
           "published": "2026-09-14T09:03:13+00:00"
-        },
-        {
-          "id": "32768bafced36020",
-          "title": "Swedish word of the day: talmansrunda",
-          "summary": "The word 'talmansrunda' is crucial vocabulary if you want to have any hope of understanding how a prime minister gets appointed in Sweden.",
-          "link": "https://www.thelocal.se/20181214/swedish-word-of-the-day-talmansrunda",
-          "source": "The Local Sweden",
-          "published": "2018-12-14T14:10:18+00:00"
         }
       ]
     },
@@ -173,6 +173,14 @@
       "label": "Immigration & Citizenship",
       "count": 20,
       "articles": [
+        {
+          "id": "f41d6ffa9268996d",
+          "title": "Sweden's Green Party tables motion calling for immediate stop to teen deportations",
+          "summary": "Sweden's Green Party have tabled a motion in parliament calling for an immediate and permanent stop to teen deportations, arguing that those affected do not have time to wait for government talks to be completed.",
+          "link": "https://www.thelocal.se/20260929/swedens-green-party-tables-motion-calling-for-immediate-stop-to-teen-deportations",
+          "source": "The Local Sweden",
+          "published": "2026-09-29T10:57:42+00:00"
+        },
         {
           "id": "fe101126843d344e",
           "title": "'I didn't hear a sniff of anything about Brexit or a deadline for applying'",
@@ -324,14 +332,6 @@
           "link": "https://www.thelocal.se/20260820/dividing-families-iranian-academics-slam-swedens-medieval-family-immigration-laws",
           "source": "The Local Sweden",
           "published": "2026-08-20T05:58:26+00:00"
-        },
-        {
-          "id": "d8ecab089d451f77",
-          "title": "What's causing Sweden's second wave of post-Brexit deportations?",
-          "summary": "The plight of the estimated 4,000 British citizens refused post-Brexit residency rights is seeing a renewed surge in media attention, with cases reported in the UK and Swedish media. What's behind this second wave of Brexit deportations?",
-          "link": "https://www.thelocal.se/20260819/whats-causing-swedens-second-wave-of-post-brexit-deportations",
-          "source": "The Local Sweden",
-          "published": "2026-08-19T11:40:11+00:00"
         }
       ]
     },
