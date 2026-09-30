@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T12:04:30.396260+00:00",
+  "generated_at": "2026-09-30T18:51:36.206300+00:00",
   "categories": [
     {
       "id": "politics",
@@ -174,6 +174,14 @@
       "count": 20,
       "articles": [
         {
+          "id": "14ae9aec6e78449c",
+          "title": "Q&A: Who is affected by Sweden's new law on family immigration?",
+          "summary": "The previous Swedish government's law tightening rules for family reunification comes into force on October 1st, 2026. The Local spoke to Ann-Kari Olsson, Section Head at the Swedish Migration Agency, to find out who is affected – and how.",
+          "link": "https://www.thelocal.se/20260930/qa-who-is-affected-by-swedens-new-law-on-family-immigration",
+          "source": "The Local Sweden",
+          "published": "2026-09-30T14:48:21+00:00"
+        },
+        {
           "id": "0f7ff510e310038a",
           "title": "Sweden's Green Party calls for immediate stop to teen deportations",
           "summary": "Sweden's Green Party have tabled a motion in parliament calling for an immediate and permanent stop to teen deportations, arguing that those affected do not have time to wait for government talks to be completed.",
@@ -324,14 +332,6 @@
           "link": "https://www.thelocal.se/20260824/green-party-calls-for-return-of-safety-clause-to-limit-brexit-deportations",
           "source": "The Local Sweden",
           "published": "2026-08-24T07:22:33+00:00"
-        },
-        {
-          "id": "7d0480569bde1825",
-          "title": "'Dividing families': Iranian academics slam Sweden's 'medieval' family immigration laws",
-          "summary": "Shima and Bijan left the UK for Sweden seven years ago with their young daughter. If they knew then what they know now about Sweden's approach to family immigration, they say they would never have come.",
-          "link": "https://www.thelocal.se/20260820/dividing-families-iranian-academics-slam-swedens-medieval-family-immigration-laws",
-          "source": "The Local Sweden",
-          "published": "2026-08-20T05:58:26+00:00"
         }
       ]
     },
