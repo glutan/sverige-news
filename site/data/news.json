@@ -1,11 +1,27 @@
 {
-  "generated_at": "2026-09-30T04:29:02.707259+00:00",
+  "generated_at": "2026-09-30T12:04:30.396260+00:00",
   "categories": [
     {
       "id": "politics",
       "label": "National Politics & Law",
       "count": 20,
       "articles": [
+        {
+          "id": "5c3941c075a15980",
+          "title": "Sweden holds new round of talks to form a government",
+          "summary": "Sweden's parliament speaker held talks with party leaders on Wednesday to determine who should try next to form a government after the country's September 13th election.",
+          "link": "https://www.thelocal.se/20260930/sweden-holds-new-round-of-talks-to-form-a-government",
+          "source": "The Local Sweden",
+          "published": "2026-09-30T10:37:13+00:00"
+        },
+        {
+          "id": "5b9e7d9a27f23c7c",
+          "title": "Sweden Democrat leader calls for vote on Andersson as PM",
+          "summary": "Sweden Democrat leader Jimmie Åkesson has called for the parliament to hold a vote on whether Social Democrat leader Magdalena Andersson should be prime minister, in the latest gambit in the battle over who should lead Sweden's next government.",
+          "link": "https://www.thelocal.se/20260930/sweden-democrat-leader-calls-for-vote-on-andersson-as-pm",
+          "source": "The Local Sweden",
+          "published": "2026-09-30T07:04:12+00:00"
+        },
         {
           "id": "0f7ff510e310038a",
           "title": "Sweden's Green Party calls for immediate stop to teen deportations",
@@ -141,22 +157,6 @@
           "link": "https://www.thelocal.se/20260918/opinion-yes-swedish-immigrants-vote-in-their-own-interests-just-like-other-voters",
           "source": "The Local Sweden",
           "published": "2026-09-18T10:14:46+00:00"
-        },
-        {
-          "id": "1c69f38d7d0bf6a2",
-          "title": "Swedish parliamentary speaker to meet party leaders – Andersson first",
-          "summary": "Following Ulf Kristersson’s request to be relieved of his duties as Prime Minister, the process of appointing a new Prime Minister is now underway, with the house speaker inviting party leaders to individual meetings today.",
-          "link": "https://www.thelocal.se/20260918/swedish-house-speaker-to-meet-party-leaders-andersson-first",
-          "source": "The Local Sweden",
-          "published": "2026-09-18T07:56:44+00:00"
-        },
-        {
-          "id": "55a619c781d17d43",
-          "title": "IN DATA: Did foreign voters lose the election for Sweden's right-wing government?",
-          "summary": "Senior politicians for the far-right Sweden Democrats have reacted to the party's poor election result by blaming immigrant voters and newly naturalised Swedish citizens voting for the first time. Is there any truth to this?",
-          "link": "https://www.thelocal.se/20260918/in-data-did-foreign-voters-lose-the-election-for-swedens-right-wing-government",
-          "source": "The Local Sweden",
-          "published": "2026-09-18T07:46:53+00:00"
         },
         {
           "id": "d7b5a5b1d48725fd",
