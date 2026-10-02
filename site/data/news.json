@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-10-02T04:32:15.409382+00:00",
+  "generated_at": "2026-10-02T12:02:22.497976+00:00",
   "categories": [
     {
       "id": "politics",
       "label": "National Politics & Law",
       "count": 20,
       "articles": [
+        {
+          "id": "9fc82c6a51632bb6",
+          "title": "Magdalena Andersson once again given job of building new Swedish government",
+          "summary": "The speaker of Sweden's parliament has once again given Social Democrat leader Magdalena Andersson the task of finding support among the other political parties before her candidacy for prime minister is put to parliament for a vote.",
+          "link": "https://www.thelocal.se/20261002/magdalena-andersson-once-again-given-job-of-building-new-swedish-government",
+          "source": "The Local Sweden",
+          "published": "2026-10-02T09:16:18+00:00"
+        },
         {
           "id": "5c3941c075a15980",
           "title": "Sweden holds new round of talks to form a government",
@@ -143,14 +151,6 @@
           "published": "2026-09-18T13:27:24+00:00"
         },
         {
-          "id": "e2acf83d927ada4c",
-          "title": "'I am available to form a new government': Swedish opposition leader meets speaker",
-          "summary": "The leading candidate to be Sweden's new Prime Minister, Magdalena Andersson, has declared herself 'available' to form a new government after she held the first party leader meeting with the parliament's speaker after the election.",
-          "link": "https://www.thelocal.se/20260918/i-am-available-to-form-a-new-government-swedish-opposition-leader-meets-speaker",
-          "source": "The Local Sweden",
-          "published": "2026-09-18T11:00:42+00:00"
-        },
-        {
           "id": "7db107696ef82380",
           "title": "OPINION: Yes, Swedish immigrants vote in their own interests – just like other voters",
           "summary": "Data shows that voters in Sweden with foreign backgrounds support left-wing parties in often much higher numbers than they do right-wing parties. The Local's Mandy Pipher says, 'So what?'",
@@ -173,6 +173,14 @@
       "label": "Immigration & Citizenship",
       "count": 20,
       "articles": [
+        {
+          "id": "8dde6e4c16acd490",
+          "title": "TELL US: What do you miss about 'home' that you can't do in Sweden?",
+          "summary": "Even if you love living in Sweden and feel at home here, when you've moved to a different country from where you grew up, there will perhaps always be things you miss. What are those things for you?",
+          "link": "https://www.thelocal.se/20261002/tell-us-what-do-you-miss-about-home-that-you-cant-do-in-sweden",
+          "source": "The Local Sweden",
+          "published": "2026-10-02T10:35:40+00:00"
+        },
         {
           "id": "e537e50bd28eaa76",
           "title": "Landmark citizenship rules case appealed to Sweden's top migration court",
@@ -324,14 +332,6 @@
           "link": "https://www.thelocal.se/20260828/sweden-keeps-bodging-its-migration-laws-it-needs-to-do-better",
           "source": "The Local Sweden",
           "published": "2026-08-28T14:52:56+00:00"
-        },
-        {
-          "id": "0459493551cdb1bb",
-          "title": "'Ripped from a loved one': British-Swedish couple separated by Brexit deportation",
-          "summary": "Three and a half months after John and Caroline Sellers got married, John was deported from Sweden, a country he had lived in since he was ten years old. They are one of many couples separated by Sweden's strict application of Brexit rules.",
-          "link": "https://www.thelocal.se/20260827/ripped-from-a-loved-one-british-swedish-couple-separated-by-brexit-deportation",
-          "source": "The Local Sweden",
-          "published": "2026-08-27T06:16:05+00:00"
         }
       ]
     },
