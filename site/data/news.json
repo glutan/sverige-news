@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T00:30:03.266845+00:00",
+  "generated_at": "2026-10-05T08:32:06.539833+00:00",
   "categories": [
     {
       "id": "politics",
@@ -182,6 +182,14 @@
           "published": "2026-10-02T10:35:40+00:00"
         },
         {
+          "id": "118902b8d952a9d8",
+          "title": "'But what are the rules?': My interview with the Swedish Migration Agency's legal chief",
+          "summary": "When Richard Orange was granted an interview on Brexit rules with the Migration Agency's legal chief on his fourth attempt, it didn't exactly go as planned. But according to EU lawyers it nonetheless revealed flaws in the agency's grasp of EU law.",
+          "link": "https://www.thelocal.se/20261002/but-what-are-the-rules-my-interview-with-the-swedish-migration-agencys-legal-chief",
+          "source": "The Local Sweden",
+          "published": "2026-10-02T07:56:46+00:00"
+        },
+        {
           "id": "e537e50bd28eaa76",
           "title": "Landmark citizenship rules case appealed to Sweden's top migration court",
           "summary": "A landmark decision against a citizenship rejected under the new rules that came into force in June has been appealed to Sweden's highest migration court, raising hopes that the parliament's decision not to include transitional rules could be tested.",
@@ -324,14 +332,6 @@
           "link": "https://www.thelocal.se/20260902/sweden-has-fulfilled-its-commitments-migration-minister-defends-brexit-deportations",
           "source": "The Local Sweden",
           "published": "2026-09-02T09:57:48+00:00"
-        },
-        {
-          "id": "7bf8d5f31c1014e3",
-          "title": "OPINION: Sweden keeps bodging its migration laws – it needs to do better",
-          "summary": "Time and again, Swedish migration laws lead to people whom nearly everyone agrees should be allowed to stay being forced out the country. Sweden needs to do better, says James Savage.",
-          "link": "https://www.thelocal.se/20260828/sweden-keeps-bodging-its-migration-laws-it-needs-to-do-better",
-          "source": "The Local Sweden",
-          "published": "2026-08-28T14:52:56+00:00"
         }
       ]
     },
