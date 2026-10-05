@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-10-05T08:32:06.539833+00:00",
+  "generated_at": "2026-10-05T19:06:21.786673+00:00",
   "categories": [
     {
       "id": "politics",
       "label": "National Politics & Law",
       "count": 20,
       "articles": [
+        {
+          "id": "1526a097977a46a3",
+          "title": "Four-party meeting set to test Sweden's government potential",
+          "summary": "The leaders of the Centre Party, Social Democrats, Left Party and Green Party are set to meet on Friday, Centre Party leader Elisabeth Thand Ringqvist revealed.",
+          "link": "https://www.thelocal.se/20261005/four-party-meeting-set-to-test-swedens-government-potential",
+          "source": "The Local Sweden",
+          "published": "2026-10-05T09:37:59+00:00"
+        },
         {
           "id": "9fc82c6a51632bb6",
           "title": "Magdalena Andersson once again given job of building new Swedish government",
@@ -141,14 +149,6 @@
           "link": "https://www.thelocal.se/20260918/in-pics-seven-cups-of-coffee-and-sponge-cake-as-government-talks-begin",
           "source": "The Local Sweden",
           "published": "2026-09-18T15:20:05+00:00"
-        },
-        {
-          "id": "c8c452012c67a5aa",
-          "title": "Magdalena Andersson first leader tasked with forming new Swedish government",
-          "summary": "Sweden's parliamentary speaker, Andreas Norlén has tasked Social Democrat leader Magdalena Andersson with trying to build a new government after a day of talks with the country's party leaders.",
-          "link": "https://www.thelocal.se/20260918/total-deadlock-on-first-day-of-trying-to-build-new-swedish-government",
-          "source": "The Local Sweden",
-          "published": "2026-09-18T13:27:24+00:00"
         },
         {
           "id": "7db107696ef82380",
