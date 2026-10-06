@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-10-06T01:10:28.902826+00:00",
+  "generated_at": "2026-10-06T08:40:19.530284+00:00",
   "categories": [
     {
       "id": "politics",
       "label": "National Politics & Law",
       "count": 20,
       "articles": [
+        {
+          "id": "5af8d568ed8e72b3",
+          "title": "Sweden Democrats reshuffle key MPs in parliamentary committee shake-up",
+          "summary": "The Sweden Democrats are reshuffling several of their top figures in parliament.",
+          "link": "https://www.thelocal.se/20261006/sweden-democrats-reshuffle-key-mps-in-parliamentary-committee-shake-up",
+          "source": "The Local Sweden",
+          "published": "2026-10-06T07:35:26+00:00"
+        },
         {
           "id": "1526a097977a46a3",
           "title": "Four-party meeting set to test Sweden's government potential",
@@ -141,14 +149,6 @@
           "link": "https://www.thelocal.se/20260921/behind-closed-doors-swedens-left-and-centre-parties-are-still-miles-apart",
           "source": "The Local Sweden",
           "published": "2026-09-21T12:34:27+00:00"
-        },
-        {
-          "id": "3c575e8edaabc7f9",
-          "title": "IN PICS: Seven cups of coffee and sponge cake as government talks begin",
-          "summary": "Andreas Norlén, the speaker of the Swedish parliament, offered party leaders coffee and a 'sockerkaka' spongecake he had baked himself when he called in seven party leaders to preliminary talks on a new government.",
-          "link": "https://www.thelocal.se/20260918/in-pics-seven-cups-of-coffee-and-sponge-cake-as-government-talks-begin",
-          "source": "The Local Sweden",
-          "published": "2026-09-18T15:20:05+00:00"
         },
         {
           "id": "7db107696ef82380",
