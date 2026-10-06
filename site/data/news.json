@@ -1,11 +1,27 @@
 {
-  "generated_at": "2026-10-06T08:40:19.530284+00:00",
+  "generated_at": "2026-10-06T16:32:44.201920+00:00",
   "categories": [
     {
       "id": "politics",
       "label": "National Politics & Law",
       "count": 20,
       "articles": [
+        {
+          "id": "4b4759df14e9bae0",
+          "title": "Sweden's migration minister pledges long-term solution to teen deportations",
+          "summary": "The Swedish government wants to make permanent new temporary legislation aimed at stopping teenage deportations.",
+          "link": "https://www.thelocal.se/20261006/swedens-migration-minister-pledges-long-term-solution-to-teen-deportations",
+          "source": "The Local Sweden",
+          "published": "2026-10-06T13:01:57+00:00"
+        },
+        {
+          "id": "c0e7f5b9e11abd0a",
+          "title": "Sweden's centre-left parties agree on halting teen deportations",
+          "summary": "Sweden's centre-left parties have reached an agreement on emergency legislation to halt teenage deportations.",
+          "link": "https://www.thelocal.se/20261006/swedens-centre-left-parties-agree-on-halting-teen-deportations",
+          "source": "The Local Sweden",
+          "published": "2026-10-06T12:18:38+00:00"
+        },
         {
           "id": "5af8d568ed8e72b3",
           "title": "Sweden Democrats reshuffle key MPs in parliamentary committee shake-up",
@@ -149,22 +165,6 @@
           "link": "https://www.thelocal.se/20260921/behind-closed-doors-swedens-left-and-centre-parties-are-still-miles-apart",
           "source": "The Local Sweden",
           "published": "2026-09-21T12:34:27+00:00"
-        },
-        {
-          "id": "7db107696ef82380",
-          "title": "OPINION: Yes, Swedish immigrants vote in their own interests – just like other voters",
-          "summary": "Data shows that voters in Sweden with foreign backgrounds support left-wing parties in often much higher numbers than they do right-wing parties. The Local's Mandy Pipher says, 'So what?'",
-          "link": "https://www.thelocal.se/20260918/opinion-yes-swedish-immigrants-vote-in-their-own-interests-just-like-other-voters",
-          "source": "The Local Sweden",
-          "published": "2026-09-18T10:14:46+00:00"
-        },
-        {
-          "id": "d7b5a5b1d48725fd",
-          "title": "What does Sweden's unexpectedly close election result mean for foreigners?",
-          "summary": "As it stands right now, a 'Tidö 2' government lacks a mandate, as does the Centre Party's dream 'middle government', and two of the four opposition parties who could form a majority refuse to rule together. If nothing changes, what does this mean for foreigners in Sweden?",
-          "link": "https://www.thelocal.se/20260914/what-does-swedens-unexpectedly-close-election-result-mean-for-foreigners",
-          "source": "The Local Sweden",
-          "published": "2026-09-14T09:03:13+00:00"
         }
       ]
     },
@@ -173,6 +173,22 @@
       "label": "Immigration & Citizenship",
       "count": 20,
       "articles": [
+        {
+          "id": "4b4759df14e9bae0",
+          "title": "Sweden's migration minister pledges long-term solution to teen deportations",
+          "summary": "The Swedish government wants to make permanent new temporary legislation aimed at stopping teenage deportations.",
+          "link": "https://www.thelocal.se/20261006/swedens-migration-minister-pledges-long-term-solution-to-teen-deportations",
+          "source": "The Local Sweden",
+          "published": "2026-10-06T13:01:57+00:00"
+        },
+        {
+          "id": "c0e7f5b9e11abd0a",
+          "title": "Sweden's centre-left parties agree on halting teen deportations",
+          "summary": "Sweden's centre-left parties have reached an agreement on emergency legislation to halt teenage deportations.",
+          "link": "https://www.thelocal.se/20261006/swedens-centre-left-parties-agree-on-halting-teen-deportations",
+          "source": "The Local Sweden",
+          "published": "2026-10-06T12:18:38+00:00"
+        },
         {
           "id": "8dde6e4c16acd490",
           "title": "TELL US: What do you miss about 'home' that you can't do in Sweden?",
@@ -316,22 +332,6 @@
           "link": "https://www.thelocal.se/20260903/social-democrats-promise-new-expat-welcome-desk-in-stockholm",
           "source": "The Local Sweden",
           "published": "2026-09-03T12:55:35+00:00"
-        },
-        {
-          "id": "fa0cde88a64712c3",
-          "title": "How to appeal if your application for Swedish citizenship is rejected",
-          "summary": "Many, perhaps most, of the 100,000 people in the queue when the new citizenship law came into force on June 6th will not meet the new requirements, meaning there's likely to be a wave of rejections. Here's what to do if your application is rejected.",
-          "link": "https://www.thelocal.se/20260903/how-to-appeal-if-your-application-for-swedish-citizenship-is-rejected",
-          "source": "The Local Sweden",
-          "published": "2026-09-03T09:59:38+00:00"
-        },
-        {
-          "id": "710ef6806c68284e",
-          "title": "'Sweden has fulfilled its commitments': Migration minister defends Brexit deportations",
-          "summary": "Sweden's migration minister has defended the country's unusually high refusal rate for post-Brexit residency in response to a parliamentary question asking what action he will take to stop high profile deportations of elderly British citizens.",
-          "link": "https://www.thelocal.se/20260902/sweden-has-fulfilled-its-commitments-migration-minister-defends-brexit-deportations",
-          "source": "The Local Sweden",
-          "published": "2026-09-02T09:57:48+00:00"
         }
       ]
     },
