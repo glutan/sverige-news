@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T12:49:38.481019+00:00",
+  "generated_at": "2026-10-07T19:46:35.105897+00:00",
   "categories": [
     {
       "id": "politics",
@@ -174,6 +174,22 @@
       "count": 20,
       "articles": [
         {
+          "id": "4ecfc6366ff485ef",
+          "title": "Q&A: How will Sweden's new family immigration law affect researchers?",
+          "summary": "The previous Swedish government's law raising income requirements for foreigners with families in Sweden came into force on October 1st, 2026. The Local spoke to SULF, which represents higher education workers, about how researchers are affected.",
+          "link": "https://www.thelocal.se/20261007/qa-how-will-swedens-new-family-immigration-law-affect-researchers",
+          "source": "The Local Sweden",
+          "published": "2026-10-07T14:36:47+00:00"
+        },
+        {
+          "id": "4bfadfb895f9f93a",
+          "title": "Lawyer warns Sweden's 'safety valve' could lead to new teen deportations",
+          "summary": "The bill Sweden's government has promoted as its solution to teen deportations has instead created a new group of young adults who risk being forced to leave Sweden, a lawyer has warned.",
+          "link": "https://www.thelocal.se/20261007/lawyer-warns-swedens-safety-valve-could-lead-to-new-teen-deportations",
+          "source": "The Local Sweden",
+          "published": "2026-10-07T14:10:23+00:00"
+        },
+        {
           "id": "4b4759df14e9bae0",
           "title": "Sweden's migration minister pledges long-term solution to teen deportations",
           "summary": "The Swedish government wants to make permanent new temporary legislation aimed at stopping teenage deportations.",
@@ -316,22 +332,6 @@
           "link": "https://www.thelocal.se/20260904/five-eu-countries-aim-to-send-rejected-migrants-to-return-hubs-by-2027",
           "source": "The Local Sweden",
           "published": "2026-09-04T13:24:01+00:00"
-        },
-        {
-          "id": "80eec8811b337a51",
-          "title": "Social Democrats plan huge inquiry to clean up Swedish immigration law",
-          "summary": "The Social Democrats are planning to launch a government inquiry which will carry out a major review of the country's migration legislation, arguing that years of piecemeal reforms have made the rules unnecessarily complicated and contradictory.",
-          "link": "https://www.thelocal.se/20260904/social-democrats-plan-huge-inquiry-to-clean-up-swedish-immigration-law",
-          "source": "The Local Sweden",
-          "published": "2026-09-04T09:11:48+00:00"
-        },
-        {
-          "id": "2c62ed56b4bcb417",
-          "title": "Social Democrats promise new 'expat welcome desk' in Stockholm",
-          "summary": "The Social Democrats have said if they win the election in Stockholm as well as regional elections, they will set up a new 'expat welcome desk' for foreign workers arriving in the city.",
-          "link": "https://www.thelocal.se/20260903/social-democrats-promise-new-expat-welcome-desk-in-stockholm",
-          "source": "The Local Sweden",
-          "published": "2026-09-03T12:55:35+00:00"
         }
       ]
     },
