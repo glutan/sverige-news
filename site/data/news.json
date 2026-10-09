@@ -1,11 +1,27 @@
 {
-  "generated_at": "2026-10-09T05:02:38.807781+00:00",
+  "generated_at": "2026-10-09T12:44:38.645703+00:00",
   "categories": [
     {
       "id": "politics",
       "label": "National Politics & Law",
       "count": 20,
       "articles": [
+        {
+          "id": "11e929a50eda1a75",
+          "title": "Sweden's red-green parties head into first post-election meeting",
+          "summary": "Expectations are low as the red-green parties gather for their first meeting following the September 13th election, as there are still no signs of a breakthrough in Sweden's government formation deadlock.",
+          "link": "https://www.thelocal.se/20261009/swedens-red-green-parties-head-into-first-post-election-meeting",
+          "source": "The Local Sweden",
+          "published": "2026-10-09T11:23:03+00:00"
+        },
+        {
+          "id": "2f73e6fce295afc6",
+          "title": "Sweden leaves recession behind with stronger growth and falling unemployment",
+          "summary": "Sweden's economy is growing faster than expected, according to the right-wing caretaker government's latest forecast.",
+          "link": "https://www.thelocal.se/20261009/sweden-leaves-recession-behind-with-stronger-growth-and-falling-unemployment",
+          "source": "The Local Sweden",
+          "published": "2026-10-09T08:17:01+00:00"
+        },
         {
           "id": "4b4759df14e9bae0",
           "title": "Sweden's migration minister pledges long-term solution to teen deportations",
@@ -143,28 +159,12 @@
           "published": "2026-09-24T11:14:52+00:00"
         },
         {
-          "id": "f684e8cb9c28f914",
-          "title": "Newly elected MP steps aside amid Swedish electoral fraud probe",
-          "summary": "Newly elected Left Party MP Mohamed Abdukardir Ali is taking a leave of absence, following allegations of election fraud.",
-          "link": "https://www.thelocal.se/20260923/newly-elected-mp-steps-aside-amid-swedish-electoral-fraud-probe",
-          "source": "The Local Sweden",
-          "published": "2026-09-23T07:43:09+00:00"
-        },
-        {
           "id": "cd59375de33ae0ae",
           "title": "EXPLAINED: What needs to happen for Sweden to get a new prime minister?",
           "summary": "The four Tidö parties behind Sweden's current government lost the election and Ulf Kristersson resigned as prime minister, so what needs to happen for Sweden to get a new leader?",
           "link": "https://www.thelocal.se/20260922/explained-what-needs-to-happen-for-sweden-to-get-a-new-prime-minister",
           "source": "The Local Sweden",
           "published": "2026-09-22T10:18:34+00:00"
-        },
-        {
-          "id": "a4f931e00d6420cf",
-          "title": "Behind closed doors, Sweden's Left and Centre parties are still miles apart",
-          "summary": "The so-called 'red-green' parties of Sweden's left and centre-left wing have been keeping silent about any meetings about forming a government that may or may not be happening. But an unnamed Left Party source says the Centre Party still 'refuses to meet' with them.",
-          "link": "https://www.thelocal.se/20260921/behind-closed-doors-swedens-left-and-centre-parties-are-still-miles-apart",
-          "source": "The Local Sweden",
-          "published": "2026-09-21T12:34:27+00:00"
         }
       ]
     },
