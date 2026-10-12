@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-10-12T04:49:05.131144+00:00",
+  "generated_at": "2026-10-12T14:40:56.495655+00:00",
   "categories": [
     {
       "id": "politics",
       "label": "National Politics & Law",
       "count": 20,
       "articles": [
+        {
+          "id": "2a66b77d91b586e3",
+          "title": "Beer strike and contract breach: How SD pressured Tidö over permanent residency",
+          "summary": "The Sweden Democrats refused to sign off on government business for four days, with the party's officials instead celebrating Oktoberfest in a bar to pressure government parties on revoking permanent residency, according to a new book on the Tidö government.",
+          "link": "https://www.thelocal.se/20261012/beer-strike-and-contract-breach-how-sd-pressured-tido-over-permanent-residency",
+          "source": "The Local Sweden",
+          "published": "2026-10-12T12:30:17+00:00"
+        },
         {
           "id": "11e929a50eda1a75",
           "title": "Sweden's red-green parties head into first post-election meeting",
@@ -151,14 +159,6 @@
           "published": "2026-09-24T12:30:15+00:00"
         },
         {
-          "id": "02997b927345df0f",
-          "title": "Swedish Left Party leader finally speaks on election fraud allegations",
-          "summary": "After several days of silence regarding the potential election fraud in Dalarna, Left Party leader Nooshi Dadgostar is now commenting on the matter.",
-          "link": "https://www.thelocal.se/20260924/swedish-left-party-leader-finally-speaks-on-election-fraud-allegations",
-          "source": "The Local Sweden",
-          "published": "2026-09-24T11:14:52+00:00"
-        },
-        {
           "id": "cd59375de33ae0ae",
           "title": "EXPLAINED: What needs to happen for Sweden to get a new prime minister?",
           "summary": "The four Tidö parties behind Sweden's current government lost the election and Ulf Kristersson resigned as prime minister, so what needs to happen for Sweden to get a new leader?",
@@ -173,6 +173,14 @@
       "label": "Immigration & Citizenship",
       "count": 20,
       "articles": [
+        {
+          "id": "7bc9ffb57da648a6",
+          "title": "AI consultant wins appeal under Sweden's new citizenship rules",
+          "summary": "The AI consultant Anna Bärlund has become one of the first to successfully appeal a citizenship rejection under Sweden’s new longer residency requirements. Her arguments won't work for everyone, but the ruling could have wider implications if upheld.",
+          "link": "https://www.thelocal.se/20261009/russian-ai-consultant-wins-appeal-under-swedens-new-citizenship-rules",
+          "source": "The Local Sweden",
+          "published": "2026-10-09T14:10:38+00:00"
+        },
         {
           "id": "46f5806dd764e782",
           "title": "OPINION: Sweden's Migration Agency is not fit for purpose. It should be scrapped",
@@ -324,14 +332,6 @@
           "link": "https://www.thelocal.se/20260909/politics-in-sweden-immigration-is-on-the-agenda-but-the-debate-is-surreal",
           "source": "The Local Sweden",
           "published": "2026-09-09T09:38:04+00:00"
-        },
-        {
-          "id": "4af09f83d73a1285",
-          "title": "'We don't want people who are integrated in Sweden to be forced to leave'",
-          "summary": "The Social Democrats want to launch a fast-track investigation into residency for people who have lived in the country for a long time in a bid to solve teen deportation and Brexit cases, the party's migration spokesperson has told The Local.",
-          "link": "https://www.thelocal.se/20260907/we-dont-want-people-who-are-integrated-in-sweden-to-be-forced-to-leave",
-          "source": "The Local Sweden",
-          "published": "2026-09-07T08:05:14+00:00"
         }
       ]
     },
