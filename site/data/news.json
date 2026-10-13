@@ -1,11 +1,43 @@
 {
-  "generated_at": "2026-10-13T05:52:28.079973+00:00",
+  "generated_at": "2026-10-13T13:44:44.102883+00:00",
   "categories": [
     {
       "id": "politics",
       "label": "National Politics & Law",
       "count": 20,
       "articles": [
+        {
+          "id": "757ced1df2eae13f",
+          "title": "All Swedish parties back emergency freeze on teen deportations",
+          "summary": "All parties in the Swedish parliament are backing a proposal to introduce emergency legislation halting the so-called 'teen deportations'. However, bringing the new law into force could take time.",
+          "link": "https://www.thelocal.se/20261013/all-swedish-parties-back-emergency-freeze-on-teen-deportations",
+          "source": "The Local Sweden",
+          "published": "2026-10-13T13:29:17+00:00"
+        },
+        {
+          "id": "20a93a98aa7fe9c6",
+          "title": "Swedish MP seeks to apply old rules to all pre-June 6th citizenship applicants",
+          "summary": "Senior Green Party MP Annika Hirvonen has told The Local she wants to allow everyone who applied for Swedish citizenship before June 6th – including those whose application has already been rejected – to be assessed under the old rules.",
+          "link": "https://www.thelocal.se/20261013/swedish-mp-seeks-to-apply-old-rules-to-all-pre-june-6th-citizenship-applicants",
+          "source": "The Local Sweden",
+          "published": "2026-10-13T13:29:04+00:00"
+        },
+        {
+          "id": "7d25741b2e41cea1",
+          "title": "How Sweden's 'new majority' can already move on deportations and citizenship",
+          "summary": "The Green Party's top MP Annika Hirvonen has started the new parliamentary term with a flurry of initiatives on teen deportations. She tells The Local how she hopes a new majority will allow action on citizenship and Brexit deportations too.",
+          "link": "https://www.thelocal.se/20261013/how-swedens-new-majority-can-already-move-on-deportations-and-citizenship",
+          "source": "The Local Sweden",
+          "published": "2026-10-13T10:47:24+00:00"
+        },
+        {
+          "id": "31b03d2f20a27053",
+          "title": "Swedish parliament to vote on Social Democratic leader for prime minister",
+          "summary": "Social Democrat leader Magdalena Andersson is expected to be rejected in a PM vote in parliament on Thursday, after so far failing to unite the parties on the centre-left.",
+          "link": "https://www.thelocal.se/20261013/no-end-in-sight-to-swedens-political-stalemate-a-month-after-election",
+          "source": "The Local Sweden",
+          "published": "2026-10-13T09:49:15+00:00"
+        },
         {
           "id": "2a66b77d91b586e3",
           "title": "Beer strike and contract breach: How SD pressured Tidö over permanent residency",
@@ -119,44 +151,12 @@
           "published": "2026-09-28T07:42:18+00:00"
         },
         {
-          "id": "1da172007b934c9e",
-          "title": "Where are the breakthroughs for the radical and far-right in Europe?",
-          "summary": "After recent regional election breakthroughs by the Alternative for Germany (AfD), here is an overview of radical, nationalist and far- and hard-right parties' positions across Europe in recent years.",
-          "link": "https://www.thelocal.se/20260926/breakthroughs-for-the-radical-and-far-right-in-europe",
-          "source": "The Local Sweden",
-          "published": "2026-09-26T13:11:29+00:00"
-        },
-        {
-          "id": "027a2586269624ad",
-          "title": "OPINION: It's not just immigrants – Swedes are clan voters too",
-          "summary": "Coercion and bribery have no place in elections. But before accusing immigrants of \"clan voting\", Swedes should look at themselves, argues The Local's James Savage.",
-          "link": "https://www.thelocal.se/20260925/opinion-its-not-just-immigrants-swedes-are-clan-voters-too",
-          "source": "The Local Sweden",
-          "published": "2026-09-25T17:23:39+00:00"
-        },
-        {
-          "id": "b4578809e513c272",
-          "title": "Record number of challenges after Sweden's election",
-          "summary": "Swedish officials said they had received thousands of challenges to result of this month's general election, which was narrowly won by the Social Democrat-led opposition.",
-          "link": "https://www.thelocal.se/20260925/record-number-of-challenges-after-swedens-election",
-          "source": "The Local Sweden",
-          "published": "2026-09-25T11:57:45+00:00"
-        },
-        {
           "id": "6c109fa025d483bc",
           "title": "From the obvious to the unthinkable: Nine options for Sweden's government",
           "summary": "Prime minister Ulf Kristersson lost Sweden's election earlier this month, but until Magdalena Andersson manages to form a government, she hasn't won. We run through nine possible coalitions with politics professors Jonas Hinnfors and Nicholas Aylott.",
           "link": "https://www.thelocal.se/20260924/from-obvious-to-extremely-unlikely-nine-options-for-swedens-next-government",
           "source": "The Local Sweden",
           "published": "2026-09-24T14:13:03+00:00"
-        },
-        {
-          "id": "9151de91fe398da6",
-          "title": "Don't 'vote red': Facebook 'votes wanted' post reported to Swedish election agency",
-          "summary": "Two suspected cases of vote-buying in Luleå and Piteå are under investigation, the newspaper Piteå-Tidningen has reported.",
-          "link": "https://www.thelocal.se/20260924/dont-vote-red-facebook-votes-wanted-post-reported-to-swedish-election-agency",
-          "source": "The Local Sweden",
-          "published": "2026-09-24T12:30:15+00:00"
         },
         {
           "id": "cd59375de33ae0ae",
@@ -173,6 +173,30 @@
       "label": "Immigration & Citizenship",
       "count": 20,
       "articles": [
+        {
+          "id": "757ced1df2eae13f",
+          "title": "All Swedish parties back emergency freeze on teen deportations",
+          "summary": "All parties in the Swedish parliament are backing a proposal to introduce emergency legislation halting the so-called 'teen deportations'. However, bringing the new law into force could take time.",
+          "link": "https://www.thelocal.se/20261013/all-swedish-parties-back-emergency-freeze-on-teen-deportations",
+          "source": "The Local Sweden",
+          "published": "2026-10-13T13:29:17+00:00"
+        },
+        {
+          "id": "20a93a98aa7fe9c6",
+          "title": "Swedish MP seeks to apply old rules to all pre-June 6th citizenship applicants",
+          "summary": "Senior Green Party MP Annika Hirvonen has told The Local she wants to allow everyone who applied for Swedish citizenship before June 6th – including those whose application has already been rejected – to be assessed under the old rules.",
+          "link": "https://www.thelocal.se/20261013/swedish-mp-seeks-to-apply-old-rules-to-all-pre-june-6th-citizenship-applicants",
+          "source": "The Local Sweden",
+          "published": "2026-10-13T13:29:04+00:00"
+        },
+        {
+          "id": "7d25741b2e41cea1",
+          "title": "How Sweden's 'new majority' can already move on deportations and citizenship",
+          "summary": "The Green Party's top MP Annika Hirvonen has started the new parliamentary term with a flurry of initiatives on teen deportations. She tells The Local how she hopes a new majority will allow action on citizenship and Brexit deportations too.",
+          "link": "https://www.thelocal.se/20261013/how-swedens-new-majority-can-already-move-on-deportations-and-citizenship",
+          "source": "The Local Sweden",
+          "published": "2026-10-13T10:47:24+00:00"
+        },
         {
           "id": "7bc9ffb57da648a6",
           "title": "AI consultant wins appeal under Sweden's new citizenship rules",
@@ -302,36 +326,12 @@
           "published": "2026-09-22T15:30:04+00:00"
         },
         {
-          "id": "2988e44cc3b7f1f5",
-          "title": "EU Commission mulls revision of Schengen visa rules and fees",
-          "summary": "The European Commission is planning a revision of Schengen rules on short-stay visas to make the EU’s visa policy \"more coherent, secure and effective, while facilitating legitimate travel\".",
-          "link": "https://www.thelocal.se/20260914/eu-commission-mulls-revision-of-schengen-visa-rules-and-fees",
-          "source": "The Local Sweden",
-          "published": "2026-09-14T16:07:23+00:00"
-        },
-        {
           "id": "d7b5a5b1d48725fd",
           "title": "What does Sweden's unexpectedly close election result mean for foreigners?",
           "summary": "As it stands right now, a 'Tidö 2' government lacks a mandate, as does the Centre Party's dream 'middle government', and two of the four opposition parties who could form a majority refuse to rule together. If nothing changes, what does this mean for foreigners in Sweden?",
           "link": "https://www.thelocal.se/20260914/what-does-swedens-unexpectedly-close-election-result-mean-for-foreigners",
           "source": "The Local Sweden",
           "published": "2026-09-14T09:03:13+00:00"
-        },
-        {
-          "id": "6010124b720f2f20",
-          "title": "OPINION: Sweden's election won't erase what the last four years did to immigrants",
-          "summary": "On Sunday, Sweden will make a choice with profound implications for foreigners living here — and the latest polls show it could go either way. But don’t imagine the problems will evaporate with a change of government, says James Savage.",
-          "link": "https://www.thelocal.se/20260911/opinion-swedens-election-wont-erase-what-the-last-four-years-did-to-immigrants",
-          "source": "The Local Sweden",
-          "published": "2026-09-11T16:03:51+00:00"
-        },
-        {
-          "id": "542e73d5c9d51918",
-          "title": "Politics in Sweden: Immigration is on the agenda, but the debate is surreal",
-          "summary": "SVT's televised immigration debate showed being tough on immigration isn't a straightforward vote-winner any longer. But by focusing almost entirely on refugees, the debate managed to ignore the people who actually migrate to Sweden in the 2020s, writes The Local's James Savage.",
-          "link": "https://www.thelocal.se/20260909/politics-in-sweden-immigration-is-on-the-agenda-but-the-debate-is-surreal",
-          "source": "The Local Sweden",
-          "published": "2026-09-09T09:38:04+00:00"
         }
       ]
     },
