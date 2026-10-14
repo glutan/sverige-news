@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-10-14T07:13:21.131915+00:00",
+  "generated_at": "2026-10-14T13:23:48.990393+00:00",
   "categories": [
     {
       "id": "politics",
       "label": "National Politics & Law",
       "count": 20,
       "articles": [
+        {
+          "id": "cf79dd88cceee965",
+          "title": "Moderates hit five-year high in Swedish post-election poll as Liberals slip",
+          "summary": "Sweden's Moderate Party has recorded its highest level of voter support in five years in a new opinion poll.",
+          "link": "https://www.thelocal.se/20261014/moderates-hit-five-year-high-in-swedish-post-election-poll-as-liberals-slip",
+          "source": "The Local Sweden",
+          "published": "2026-10-14T07:56:20+00:00"
+        },
         {
           "id": "757ced1df2eae13f",
           "title": "All Swedish parties back emergency freeze on teen deportations",
@@ -17,7 +25,7 @@
         {
           "id": "20a93a98aa7fe9c6",
           "title": "Swedish MP seeks to apply old rules to all pre-June 6th citizenship applicants",
-          "summary": "Senior Green Party MP Annika Hirvonen has told The Local she wants to allow everyone who applied for Swedish citizenship before June 6th – including those whose application has already been rejected – to be assessed under the old rules.",
+          "summary": "UPDATED: The Centre Party is willing to consider a new plan by Green Party MP Annika Hirvonen to allow everyone who applied for Swedish citizenship before June 6th – including those whose application has already been rejected – to be assessed under the old rules.",
           "link": "https://www.thelocal.se/20261013/swedish-mp-seeks-to-apply-old-rules-to-all-pre-june-6th-citizenship-applicants",
           "source": "The Local Sweden",
           "published": "2026-10-13T13:29:04+00:00"
@@ -151,14 +159,6 @@
           "published": "2026-09-28T07:42:18+00:00"
         },
         {
-          "id": "6c109fa025d483bc",
-          "title": "From the obvious to the unthinkable: Nine options for Sweden's government",
-          "summary": "Prime minister Ulf Kristersson lost Sweden's election earlier this month, but until Magdalena Andersson manages to form a government, she hasn't won. We run through nine possible coalitions with politics professors Jonas Hinnfors and Nicholas Aylott.",
-          "link": "https://www.thelocal.se/20260924/from-obvious-to-extremely-unlikely-nine-options-for-swedens-next-government",
-          "source": "The Local Sweden",
-          "published": "2026-09-24T14:13:03+00:00"
-        },
-        {
           "id": "cd59375de33ae0ae",
           "title": "EXPLAINED: What needs to happen for Sweden to get a new prime minister?",
           "summary": "The four Tidö parties behind Sweden's current government lost the election and Ulf Kristersson resigned as prime minister, so what needs to happen for Sweden to get a new leader?",
@@ -184,7 +184,7 @@
         {
           "id": "20a93a98aa7fe9c6",
           "title": "Swedish MP seeks to apply old rules to all pre-June 6th citizenship applicants",
-          "summary": "Senior Green Party MP Annika Hirvonen has told The Local she wants to allow everyone who applied for Swedish citizenship before June 6th – including those whose application has already been rejected – to be assessed under the old rules.",
+          "summary": "UPDATED: The Centre Party is willing to consider a new plan by Green Party MP Annika Hirvonen to allow everyone who applied for Swedish citizenship before June 6th – including those whose application has already been rejected – to be assessed under the old rules.",
           "link": "https://www.thelocal.se/20261013/swedish-mp-seeks-to-apply-old-rules-to-all-pre-june-6th-citizenship-applicants",
           "source": "The Local Sweden",
           "published": "2026-10-13T13:29:04+00:00"
