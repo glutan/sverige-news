@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-10-15T08:56:29.001627+00:00",
+  "generated_at": "2026-10-15T14:43:11.469467+00:00",
   "categories": [
     {
       "id": "politics",
       "label": "National Politics & Law",
       "count": 20,
       "articles": [
+        {
+          "id": "8bf11d3097f6d86d",
+          "title": "Social Democrat leader Magdalena Andersson loses Sweden's first PM vote",
+          "summary": "Swedish MPs on Wednesday voted to reject Social Democrat leader Magdalena Andersson as prime minister.",
+          "link": "https://www.thelocal.se/20261015/breaking-social-democrat-leader-magdalena-andersson-loses-first-pm-vote",
+          "source": "The Local Sweden",
+          "published": "2026-10-15T10:51:13+00:00"
+        },
+        {
+          "id": "a8fd587bbea46406",
+          "title": "Does losing parliament vote mean Andersson can't be Sweden's next PM?",
+          "summary": "Sweden's parliament on Wednesday voted to reject Magdalena Andersson as prime minister by a massive majority. Does this mean she's out of the game for good? (Spoiler: no)",
+          "link": "https://www.thelocal.se/20261015/does-losing-parliament-vote-mean-andersson-cant-be-swedens-next-pm",
+          "source": "The Local Sweden",
+          "published": "2026-10-15T10:50:15+00:00"
+        },
+        {
+          "id": "7cca2ef6df1317d5",
+          "title": "Left Party MP slams media coverage of suspected election fraud",
+          "summary": "Left Party MP Mohamed Ali, who unexpectedly surged into parliament on a wave of personal preference votes, has rejected media reports claiming he repeatedly rescheduled a police interview regarding suspected election fraud in Borlänge.",
+          "link": "https://www.thelocal.se/20261015/left-party-mp-slams-media-coverage-of-suspected-election-fraud",
+          "source": "The Local Sweden",
+          "published": "2026-10-15T08:54:59+00:00"
+        },
         {
           "id": "cf79dd88cceee965",
           "title": "Moderates hit five-year high in Swedish post-election poll as Liberals slip",
@@ -141,30 +165,6 @@
           "link": "https://www.thelocal.se/20260929/speaker-of-the-riksdag-calls-new-talks-as-swedish-government-deadlock-continues",
           "source": "The Local Sweden",
           "published": "2026-09-29T09:37:03+00:00"
-        },
-        {
-          "id": "631a212efc564f35",
-          "title": "Strategy or spite? Why is Magda giving up on forming Sweden's next government?",
-          "summary": "Was it an angry impulse decision or a strategic masterstroke, carefully plotted out in the corridors of Sveavägen 68 – the Social Democrats' HQ?",
-          "link": "https://www.thelocal.se/20260928/strategy-or-spite-why-is-magda-giving-up-on-forming-swedens-next-government",
-          "source": "The Local Sweden",
-          "published": "2026-09-28T10:26:14+00:00"
-        },
-        {
-          "id": "09a977aad720155f",
-          "title": "Social Democrat Magdalena Andersson abandons attempt to form a government",
-          "summary": "Social Democrat leader Magdalena Andersson says her attempts to build a coalition of parties willing to tolerate her as prime minister have failed.",
-          "link": "https://www.thelocal.se/20260928/breaking-social-democrat-magdalena-andersson-abandons-attempt-to-form-a-government",
-          "source": "The Local Sweden",
-          "published": "2026-09-28T07:42:18+00:00"
-        },
-        {
-          "id": "cd59375de33ae0ae",
-          "title": "EXPLAINED: What needs to happen for Sweden to get a new prime minister?",
-          "summary": "The four Tidö parties behind Sweden's current government lost the election and Ulf Kristersson resigned as prime minister, so what needs to happen for Sweden to get a new leader?",
-          "link": "https://www.thelocal.se/20260922/explained-what-needs-to-happen-for-sweden-to-get-a-new-prime-minister",
-          "source": "The Local Sweden",
-          "published": "2026-09-22T10:18:34+00:00"
         }
       ]
     },
