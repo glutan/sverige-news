@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-10-16T08:48:46.690029+00:00",
+  "generated_at": "2026-10-16T14:36:53.199957+00:00",
   "categories": [
     {
       "id": "politics",
       "label": "National Politics & Law",
       "count": 20,
       "articles": [
+        {
+          "id": "34833cc711b4dfa7",
+          "title": "Speaker of parliament calls press conference as Swedish government-building drags on",
+          "summary": "Sweden's speaker of parliament has called a press conference for Monday to outline the next steps in forming a government.",
+          "link": "https://www.thelocal.se/20261016/speaker-of-parliament-calls-press-conference-as-swedish-government-building-drags-on",
+          "source": "The Local Sweden",
+          "published": "2026-10-16T11:03:38+00:00"
+        },
         {
           "id": "8bf11d3097f6d86d",
           "title": "Social Democrat leader Magdalena Andersson loses Sweden's first PM vote",
@@ -157,14 +165,6 @@
           "link": "https://www.thelocal.se/20260929/swedens-green-party-tables-motion-calling-for-immediate-stop-to-teen-deportations",
           "source": "The Local Sweden",
           "published": "2026-09-29T10:57:42+00:00"
-        },
-        {
-          "id": "7c07b2212db539a0",
-          "title": "Speaker of the Riksdag calls new talks as Swedish government deadlock continues",
-          "summary": "The speaker of parliament, Andreas Norlén, is set to hold a fresh round of talks with party leaders on Wednesday to address the ongoing deadlock over forming a government.",
-          "link": "https://www.thelocal.se/20260929/speaker-of-the-riksdag-calls-new-talks-as-swedish-government-deadlock-continues",
-          "source": "The Local Sweden",
-          "published": "2026-09-29T09:37:03+00:00"
         }
       ]
     },
