@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-10-19T04:19:10.026143+00:00",
+  "generated_at": "2026-10-19T12:25:24.266273+00:00",
   "categories": [
     {
       "id": "politics",
       "label": "National Politics & Law",
       "count": 20,
       "articles": [
+        {
+          "id": "109725f9fe1ed6fe",
+          "title": "Sweden's speaker asks Centre Party leader to explore centrist government options",
+          "summary": "Parliamentary speaker Andreas Norlén has named Centre Party leader Elisabeth Thand Ringqvist as the next person to lead government negotiations.",
+          "link": "https://www.thelocal.se/20261019/swedens-speaker-asks-centre-party-leader-to-explore-centrist-government-options",
+          "source": "The Local Sweden",
+          "published": "2026-10-19T11:42:55+00:00"
+        },
+        {
+          "id": "f0761331a2479d98",
+          "title": "Swedish PM's friend guilty of 'negligence with classified information'",
+          "summary": "Henrik Landerholm, the childhood friend who Swedish Prime Minister Ulf Kristersson appointed national security adviser, has been found guilty of 'negligence with classified information' after a court overturned his not-guilty verdict.",
+          "link": "https://www.thelocal.se/20261019/swedish-pms-friend-guilty-of-negligence-with-classified-information",
+          "source": "The Local Sweden",
+          "published": "2026-10-19T10:30:22+00:00"
+        },
+        {
+          "id": "e7dda3645953f936",
+          "title": "Sweden Democrat leader invites Centre Party to 'no-strings-attached' talks",
+          "summary": "Sweden Democrat leader Jimmie Åkesson has invited the Centre Party's Elisabeth Thand Ringqvist for a \"no-strings-attached conversation on the parliamentary situation\", posting an open letter on X.",
+          "link": "https://www.thelocal.se/20261019/sweden-democrat-leader-invites-centre-party-to-no-strings-attached-talks",
+          "source": "The Local Sweden",
+          "published": "2026-10-19T05:51:16+00:00"
+        },
         {
           "id": "34833cc711b4dfa7",
           "title": "Speaker of parliament calls press conference as Swedish government-building drags on",
@@ -141,30 +165,6 @@
           "link": "https://www.thelocal.se/20261002/magdalena-andersson-once-again-given-job-of-building-new-swedish-government",
           "source": "The Local Sweden",
           "published": "2026-10-02T09:16:18+00:00"
-        },
-        {
-          "id": "5c3941c075a15980",
-          "title": "Sweden holds new round of talks to form a government",
-          "summary": "Sweden's parliament speaker held talks with party leaders on Wednesday to determine who should try next to form a government after the country's September 13th election.",
-          "link": "https://www.thelocal.se/20260930/sweden-holds-new-round-of-talks-to-form-a-government",
-          "source": "The Local Sweden",
-          "published": "2026-09-30T10:37:13+00:00"
-        },
-        {
-          "id": "5b9e7d9a27f23c7c",
-          "title": "Sweden Democrat leader calls for vote on Andersson as PM",
-          "summary": "Sweden Democrat leader Jimmie Åkesson has called for the parliament to hold a vote on whether Social Democrat leader Magdalena Andersson should be prime minister, in the latest gambit in the battle over who should lead Sweden's next government.",
-          "link": "https://www.thelocal.se/20260930/sweden-democrat-leader-calls-for-vote-on-andersson-as-pm",
-          "source": "The Local Sweden",
-          "published": "2026-09-30T07:04:12+00:00"
-        },
-        {
-          "id": "0f7ff510e310038a",
-          "title": "Sweden's Green Party calls for immediate stop to teen deportations",
-          "summary": "Sweden's Green Party have tabled a motion in parliament calling for an immediate and permanent stop to teen deportations, arguing that those affected do not have time to wait for government talks to be completed.",
-          "link": "https://www.thelocal.se/20260929/swedens-green-party-tables-motion-calling-for-immediate-stop-to-teen-deportations",
-          "source": "The Local Sweden",
-          "published": "2026-09-29T10:57:42+00:00"
         }
       ]
     },
@@ -173,6 +173,14 @@
       "label": "Immigration & Citizenship",
       "count": 20,
       "articles": [
+        {
+          "id": "b0d59fb10f942209",
+          "title": "Foreign SSAB workers released as Dutch lawyer slams Swedish site raid",
+          "summary": "The 19 Filipino electrical engineers who were seized by Swedish police on October 9th and held in a Migration Agency detention centre have been released, with the company's lawyer calling the decision to detain them \"unlawful\" and promising to seek damages.",
+          "link": "https://www.thelocal.se/20261019/foreign-ssab-workers-released-as-dutch-lawyer-slams-swedish-site-raid",
+          "source": "The Local Sweden",
+          "published": "2026-10-19T09:34:52+00:00"
+        },
         {
           "id": "757ced1df2eae13f",
           "title": "All Swedish parties back emergency freeze on teen deportations",
@@ -324,14 +332,6 @@
           "link": "https://www.thelocal.se/20260922/chief-judge-expects-swedish-citizenship-case-to-be-tested-in-highest-court",
           "source": "The Local Sweden",
           "published": "2026-09-22T15:30:04+00:00"
-        },
-        {
-          "id": "d7b5a5b1d48725fd",
-          "title": "What does Sweden's unexpectedly close election result mean for foreigners?",
-          "summary": "As it stands right now, a 'Tidö 2' government lacks a mandate, as does the Centre Party's dream 'middle government', and two of the four opposition parties who could form a majority refuse to rule together. If nothing changes, what does this mean for foreigners in Sweden?",
-          "link": "https://www.thelocal.se/20260914/what-does-swedens-unexpectedly-close-election-result-mean-for-foreigners",
-          "source": "The Local Sweden",
-          "published": "2026-09-14T09:03:13+00:00"
         }
       ]
     },
