@@ -1,11 +1,27 @@
 {
-  "generated_at": "2026-10-21T03:42:11.256192+00:00",
+  "generated_at": "2026-10-21T09:10:51.026643+00:00",
   "categories": [
     {
       "id": "politics",
       "label": "National Politics & Law",
       "count": 20,
       "articles": [
+        {
+          "id": "6556cd3ea921cf74",
+          "title": "Region Stockholm reaches centrist governing agreement, freezing out the left",
+          "summary": "The Social Democrats, Centre Party, Green Party, Christian Democrats, and Liberals have agreed to govern Region Stockholm together.",
+          "link": "https://www.thelocal.se/20261021/region-stockholm-reaches-centrist-governing-agreement-freezing-out-the-left",
+          "source": "The Local Sweden",
+          "published": "2026-10-21T09:05:28+00:00"
+        },
+        {
+          "id": "808f5d389cf1d7f8",
+          "title": "Swedish Liberal leader vows to block Magdalena Andersson as prime minister",
+          "summary": "Centre Party leader Elisabeth Thand Ringqvist has been tasked with exploring the prospects for her party's stated ideal: a centrist government led by Social Democrat leader Magdalena Andersson. But the Liberals have already discarded her centrist dream as dead on arrival.",
+          "link": "https://www.thelocal.se/20261021/swedish-liberal-leader-vows-to-block-magdalena-andersson-for-prime-minister",
+          "source": "The Local Sweden",
+          "published": "2026-10-21T07:32:08+00:00"
+        },
         {
           "id": "0cbd79df83bfa658",
           "title": "What does Centre Party leader Elisabeth Thand Ringqvist really want?",
@@ -149,22 +165,6 @@
           "link": "https://www.thelocal.se/20261006/swedens-centre-left-parties-agree-on-halting-teen-deportations",
           "source": "The Local Sweden",
           "published": "2026-10-06T12:18:38+00:00"
-        },
-        {
-          "id": "5af8d568ed8e72b3",
-          "title": "Sweden Democrats reshuffle key MPs in parliamentary committee shake-up",
-          "summary": "The Sweden Democrats are reshuffling several of their top figures in parliament.",
-          "link": "https://www.thelocal.se/20261006/sweden-democrats-reshuffle-key-mps-in-parliamentary-committee-shake-up",
-          "source": "The Local Sweden",
-          "published": "2026-10-06T07:35:26+00:00"
-        },
-        {
-          "id": "1526a097977a46a3",
-          "title": "Four-party meeting set to test Sweden's government potential",
-          "summary": "The leaders of the Centre Party, Social Democrats, Left Party and Green Party are set to meet on Friday, Centre Party leader Elisabeth Thand Ringqvist revealed.",
-          "link": "https://www.thelocal.se/20261005/four-party-meeting-set-to-test-swedens-government-potential",
-          "source": "The Local Sweden",
-          "published": "2026-10-05T09:37:59+00:00"
         }
       ]
     },
@@ -173,6 +173,14 @@
       "label": "Immigration & Citizenship",
       "count": 20,
       "articles": [
+        {
+          "id": "236280428f6c19ba",
+          "title": "How did Swedish media cover the 'migration paradigm shift'?",
+          "summary": "Immigration was at the heart of the political debate in the past four years, but the voices of immigrants themselves were comparatively rarely centred in the media coverage, an analysis by The Fix Advisory & Research in partnership with The Local shows.",
+          "link": "https://www.thelocal.se/20261021/how-did-swedish-media-cover-the-migration-paradigm-shift",
+          "source": "The Local Sweden",
+          "published": "2026-10-21T06:36:48+00:00"
+        },
         {
           "id": "0f160ff582a8ea88",
           "title": "'I want to be with my husband': Pregnant woman forced to leave Sweden",
@@ -324,14 +332,6 @@
           "link": "https://www.thelocal.se/20260923/interview-the-last-word-has-not-yet-been-said-on-swedish-citizenship",
           "source": "The Local Sweden",
           "published": "2026-09-23T10:32:44+00:00"
-        },
-        {
-          "id": "7dd08ecb83ceb0c7",
-          "title": "Swedish Migration Agency rejects police request to deport EU researcher",
-          "summary": "The Migration Agency has rejected a police request to deport a researcher and climate activist over civil disobedience",
-          "link": "https://www.thelocal.se/20260923/swedish-migration-agency-rejects-police-request-to-deport-eu-researcher",
-          "source": "The Local Sweden",
-          "published": "2026-09-23T07:55:28+00:00"
         }
       ]
     },
