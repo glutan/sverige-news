@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-10-22T09:13:04.377737+00:00",
+  "generated_at": "2026-10-22T14:54:21.534036+00:00",
   "categories": [
     {
       "id": "politics",
       "label": "National Politics & Law",
       "count": 20,
       "articles": [
+        {
+          "id": "818be6d9b45a0d4a",
+          "title": "Sweden's centre-left bloc agrees on plan to halt teen deportations",
+          "summary": "Sweden's centre-left parties have reached an agreement on how to draft a emergency law halting so-called \"teenage deportations\".",
+          "link": "https://www.thelocal.se/20261022/swedens-centre-left-bloc-agrees-on-plan-to-halt-teen-deportations",
+          "source": "The Local Sweden",
+          "published": "2026-10-22T11:31:35+00:00"
+        },
         {
           "id": "4a3ca309cf6e9314",
           "title": "What would it take for Sweden's Centre Party to back Ulf Kristersson as PM?",
@@ -157,14 +165,6 @@
           "link": "https://www.thelocal.se/20261006/swedens-migration-minister-pledges-long-term-solution-to-teen-deportations",
           "source": "The Local Sweden",
           "published": "2026-10-06T13:01:57+00:00"
-        },
-        {
-          "id": "c0e7f5b9e11abd0a",
-          "title": "Sweden's centre-left parties agree on halting teen deportations",
-          "summary": "Sweden's centre-left parties have reached an agreement on emergency legislation to halt teenage deportations.",
-          "link": "https://www.thelocal.se/20261006/swedens-centre-left-parties-agree-on-halting-teen-deportations",
-          "source": "The Local Sweden",
-          "published": "2026-10-06T12:18:38+00:00"
         }
       ]
     },
@@ -173,6 +173,14 @@
       "label": "Immigration & Citizenship",
       "count": 20,
       "articles": [
+        {
+          "id": "818be6d9b45a0d4a",
+          "title": "Sweden's centre-left bloc agrees on plan to halt teen deportations",
+          "summary": "Sweden's centre-left parties have reached an agreement on how to draft a emergency law halting so-called \"teenage deportations\".",
+          "link": "https://www.thelocal.se/20261022/swedens-centre-left-bloc-agrees-on-plan-to-halt-teen-deportations",
+          "source": "The Local Sweden",
+          "published": "2026-10-22T11:31:35+00:00"
+        },
         {
           "id": "236280428f6c19ba",
           "title": "How did Swedish media cover the 'migration paradigm shift'?",
@@ -308,14 +316,6 @@
           "link": "https://www.thelocal.se/20260929/swedens-green-party-tables-motion-calling-for-immediate-stop-to-teen-deportations",
           "source": "The Local Sweden",
           "published": "2026-09-29T10:57:42+00:00"
-        },
-        {
-          "id": "063b2356e4e9da70",
-          "title": "Briton facing deportation from Sweden: 'I didn't hear a sniff about a Brexit deadline'",
-          "summary": "Until he was stopped by Swedish border police in Malmö on September 15th this year, Paul Hounam had absolutely no idea he should have applied for post-Brexit residency back in 2021. He could now be forcibly deported in 10 days with a four-year Schengen ban.",
-          "link": "https://www.thelocal.se/20260925/i-didnt-hear-a-sniff-of-anything-about-brexit-or-a-deadline-for-applying",
-          "source": "The Local Sweden",
-          "published": "2026-09-25T11:18:51+00:00"
         },
         {
           "id": "5ed455ecab16925c",
