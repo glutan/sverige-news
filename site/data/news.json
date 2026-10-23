@@ -1,11 +1,27 @@
 {
-  "generated_at": "2026-10-23T09:09:35.503350+00:00",
+  "generated_at": "2026-10-23T14:42:40.376323+00:00",
   "categories": [
     {
       "id": "politics",
       "label": "National Politics & Law",
       "count": 20,
       "articles": [
+        {
+          "id": "0b24ed053ef44a64",
+          "title": "'Generational rage': How young Europeans are fighting to be heard",
+          "summary": "From blockaded schools in Rome to tent camps in Madrid and street protests in France, young people across Europe are turning their anger on a political class they say is not listening.",
+          "link": "https://www.thelocal.se/20261023/generational-rage-how-young-europeans-are-fighting-to-be-heard",
+          "source": "The Local Sweden",
+          "published": "2026-10-23T10:41:40+00:00"
+        },
+        {
+          "id": "8bf5edaf3e633a64",
+          "title": "Swedish parliament speaker to meet Centre Party leader on Monday",
+          "summary": "Speaker Andreas Norlén will meet with Centre Party leader Elisabeth Thand Ringqvist at 10am on Monday October 27th.",
+          "link": "https://www.thelocal.se/20261023/swedish-parliament-speaker-to-meet-centre-party-leader-monday-morning",
+          "source": "The Local Sweden",
+          "published": "2026-10-23T10:06:13+00:00"
+        },
         {
           "id": "818be6d9b45a0d4a",
           "title": "Sweden's centre-left bloc agrees on plan to halt teen deportations",
@@ -149,22 +165,6 @@
           "link": "https://www.thelocal.se/20261009/swedens-red-green-parties-head-into-first-post-election-meeting",
           "source": "The Local Sweden",
           "published": "2026-10-09T11:23:03+00:00"
-        },
-        {
-          "id": "2f73e6fce295afc6",
-          "title": "Sweden leaves recession behind with stronger growth and falling unemployment",
-          "summary": "Sweden's economy is growing faster than expected, according to the right-wing caretaker government's latest forecast.",
-          "link": "https://www.thelocal.se/20261009/sweden-leaves-recession-behind-with-stronger-growth-and-falling-unemployment",
-          "source": "The Local Sweden",
-          "published": "2026-10-09T08:17:01+00:00"
-        },
-        {
-          "id": "4b4759df14e9bae0",
-          "title": "Sweden's migration minister pledges long-term solution to teen deportations",
-          "summary": "The Swedish government wants to make permanent new temporary legislation aimed at stopping teenage deportations.",
-          "link": "https://www.thelocal.se/20261006/swedens-migration-minister-pledges-long-term-solution-to-teen-deportations",
-          "source": "The Local Sweden",
-          "published": "2026-10-06T13:01:57+00:00"
         }
       ]
     },
