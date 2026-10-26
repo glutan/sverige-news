@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T09:50:30.481761+00:00",
+  "generated_at": "2026-10-26T16:35:31.939129+00:00",
   "categories": [
     {
       "id": "politics",
@@ -7,20 +7,20 @@
       "count": 20,
       "articles": [
         {
+          "id": "bc9c99f2453af950",
+          "title": "Sweden's Centre Party leader: 'No majority for a centrist government'",
+          "summary": "Centre Party leader Elisabeth Thand Ringqvist is ending her bid to forge a centrist coalition and has handed her exploratory mandate back to the speaker of parliament.",
+          "link": "https://www.thelocal.se/20261026/swedens-centre-party-leader-no-majority-for-a-centrist-government",
+          "source": "The Local Sweden",
+          "published": "2026-10-26T10:15:40+00:00"
+        },
+        {
           "id": "0b24ed053ef44a64",
           "title": "'Generational rage': How young Europeans are fighting to be heard",
           "summary": "From blockaded schools in Rome to tent camps in Madrid and street protests in France, young people across Europe are turning their anger on a political class they say is not listening.",
           "link": "https://www.thelocal.se/20261023/generational-rage-how-young-europeans-are-fighting-to-be-heard",
           "source": "The Local Sweden",
           "published": "2026-10-23T10:41:40+00:00"
-        },
-        {
-          "id": "8bf5edaf3e633a64",
-          "title": "Swedish parliament speaker to meet Centre Party leader on Monday",
-          "summary": "Speaker Andreas Norlén will meet with Centre Party leader Elisabeth Thand Ringqvist at 10am on Monday October 26th.",
-          "link": "https://www.thelocal.se/20261023/swedish-parliament-speaker-to-meet-centre-party-leader-monday-morning",
-          "source": "The Local Sweden",
-          "published": "2026-10-23T10:06:13+00:00"
         },
         {
           "id": "818be6d9b45a0d4a",
