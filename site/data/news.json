@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-10-27T11:44:21.590514+00:00",
+  "generated_at": "2026-10-27T17:37:46.285327+00:00",
   "categories": [
     {
       "id": "politics",
       "label": "National Politics & Law",
       "count": 20,
       "articles": [
+        {
+          "id": "e6b8ca13db1e39d8",
+          "title": "Swedish finance minister prepares caretaker budget stripped of campaign promises",
+          "summary": "As Sweden doesn't yet have a new government, outgoing Finance Minister Elisabeth Svantesson will present a caretaker budget in November. It will be completely devoid of election pledges and fresh policy initiatives – except for one thing.",
+          "link": "https://www.thelocal.se/20261027/swedish-finance-minister-prepares-caretaker-budget-stripped-of-campaign-promises",
+          "source": "The Local Sweden",
+          "published": "2026-10-27T12:41:11+00:00"
+        },
         {
           "id": "bc9c99f2453af950",
           "title": "Sweden's Centre Party leader: 'No majority for a centrist government'",
@@ -157,14 +165,6 @@
           "link": "https://www.thelocal.se/20261012/beer-strike-and-contract-breach-how-sd-pressured-tido-over-permanent-residency",
           "source": "The Local Sweden",
           "published": "2026-10-12T14:30:17+00:00"
-        },
-        {
-          "id": "11e929a50eda1a75",
-          "title": "Sweden's red-green parties head into first post-election meeting",
-          "summary": "Expectations are low as the red-green parties gather for their first meeting following the September 13th election, as there are still no signs of a breakthrough in Sweden's government formation deadlock.",
-          "link": "https://www.thelocal.se/20261009/swedens-red-green-parties-head-into-first-post-election-meeting",
-          "source": "The Local Sweden",
-          "published": "2026-10-09T13:23:03+00:00"
         }
       ]
     },
