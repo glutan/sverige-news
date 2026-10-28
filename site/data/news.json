@@ -1,11 +1,27 @@
 {
-  "generated_at": "2026-10-28T07:59:22.305198+00:00",
+  "generated_at": "2026-10-28T15:01:36.864539+00:00",
   "categories": [
     {
       "id": "politics",
       "label": "National Politics & Law",
       "count": 20,
       "articles": [
+        {
+          "id": "6ba467d2714a8cee",
+          "title": "Swedish business sector urges next government to overhaul global talent strategy",
+          "summary": "A leading Swedish business organisation is urging the next government – whenever it is formed – to step up the work of attracting and retaining crucial international talent.",
+          "link": "https://www.thelocal.se/20261028/swedish-business-sector-urges-next-government-to-overhaul-global-talent-strategy",
+          "source": "The Local Sweden",
+          "published": "2026-10-28T11:48:22+00:00"
+        },
+        {
+          "id": "dfeefbc5d695c5dd",
+          "title": "Sweden's right wing takes clear lead over left wing in new poll",
+          "summary": "Following strong gains for the Moderate Party and the Sweden Democrats, a new poll has the right-wing side nearly four percentage points higher than their left-wing rivals.",
+          "link": "https://www.thelocal.se/20261028/swedens-right-wing-bloc-takes-clear-lead-over-left-wing-in-new-poll",
+          "source": "The Local Sweden",
+          "published": "2026-10-28T07:58:45+00:00"
+        },
         {
           "id": "e6b8ca13db1e39d8",
           "title": "Swedish finance minister prepares caretaker budget stripped of campaign promises",
@@ -149,22 +165,6 @@
           "link": "https://www.thelocal.se/20261013/how-swedens-new-majority-can-already-move-on-deportations-and-citizenship",
           "source": "The Local Sweden",
           "published": "2026-10-13T12:47:24+00:00"
-        },
-        {
-          "id": "31b03d2f20a27053",
-          "title": "Swedish parliament to vote on Social Democratic leader for prime minister",
-          "summary": "Social Democrat leader Magdalena Andersson is expected to be rejected in a PM vote in parliament on Thursday, after so far failing to unite the parties on the centre-left.",
-          "link": "https://www.thelocal.se/20261013/no-end-in-sight-to-swedens-political-stalemate-a-month-after-election",
-          "source": "The Local Sweden",
-          "published": "2026-10-13T11:49:15+00:00"
-        },
-        {
-          "id": "2a66b77d91b586e3",
-          "title": "Beer strike and contract breach: How SD pressured Tidö over permanent residency",
-          "summary": "The Sweden Democrats refused to sign off on government business for four days, with the party's officials instead celebrating Oktoberfest in a bar to pressure government parties on revoking permanent residency, according to a new book on the Tidö government.",
-          "link": "https://www.thelocal.se/20261012/beer-strike-and-contract-breach-how-sd-pressured-tido-over-permanent-residency",
-          "source": "The Local Sweden",
-          "published": "2026-10-12T14:30:17+00:00"
         }
       ]
     },
