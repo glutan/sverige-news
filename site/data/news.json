@@ -1,11 +1,27 @@
 {
-  "generated_at": "2026-10-29T08:09:14.587160+00:00",
+  "generated_at": "2026-10-29T16:41:12.561514+00:00",
   "categories": [
     {
       "id": "politics",
       "label": "National Politics & Law",
       "count": 20,
       "articles": [
+        {
+          "id": "4ca8f4f5612d1bd6",
+          "title": "Swedish parliamentary speaker picks Centre Party leader as next PM candidate",
+          "summary": "Centre Party leader Elisabeth Thand Ringqvist is set to face a parliamentary confirmation vote to become Sweden's next prime minister, the speaker of parliament has announced.",
+          "link": "https://www.thelocal.se/20261029/swedish-parliamentary-speaker-announces-next-steps-in-government-deadlock",
+          "source": "The Local Sweden",
+          "published": "2026-10-29T13:08:16+00:00"
+        },
+        {
+          "id": "47283d458d9bc28f",
+          "title": "New poll shows Sweden's Moderate Party just behind Social Democrats",
+          "summary": "Sweden's Social Democrats have been the largest party in the country for a hundred years. But according to a new opinion poll, the Moderates are closing in.",
+          "link": "https://www.thelocal.se/20261029/new-poll-shows-swedens-moderate-party-just-behind-social-democrats",
+          "source": "The Local Sweden",
+          "published": "2026-10-29T11:12:58+00:00"
+        },
         {
           "id": "6ba467d2714a8cee",
           "title": "Swedish business sector urges next government to overhaul global talent strategy",
@@ -143,28 +159,12 @@
           "published": "2026-10-14T09:56:20+00:00"
         },
         {
-          "id": "757ced1df2eae13f",
-          "title": "All Swedish parties back emergency freeze on teen deportations",
-          "summary": "All parties in the Swedish parliament are backing a proposal to introduce emergency legislation halting the so-called 'teen deportations'. However, bringing the new law into force could take time.",
-          "link": "https://www.thelocal.se/20261013/all-swedish-parties-back-emergency-freeze-on-teen-deportations",
-          "source": "The Local Sweden",
-          "published": "2026-10-13T15:29:17+00:00"
-        },
-        {
           "id": "20a93a98aa7fe9c6",
           "title": "Swedish MP seeks to apply old rules to all pre-June 6th citizenship applicants",
           "summary": "UPDATED: The Centre Party is willing to consider a new plan by Green Party MP Annika Hirvonen to allow everyone who applied for Swedish citizenship before June 6th – including those whose application has already been rejected – to be assessed under the old rules.",
           "link": "https://www.thelocal.se/20261013/swedish-mp-seeks-to-apply-old-rules-to-all-pre-june-6th-citizenship-applicants",
           "source": "The Local Sweden",
           "published": "2026-10-13T15:29:04+00:00"
-        },
-        {
-          "id": "7d25741b2e41cea1",
-          "title": "How Sweden's 'new majority' can already move on deportations and citizenship",
-          "summary": "The Green Party's top MP Annika Hirvonen has started the new parliamentary term with a flurry of initiatives on teen deportations. She tells The Local how she hopes a new majority will allow action on citizenship and Brexit deportations too.",
-          "link": "https://www.thelocal.se/20261013/how-swedens-new-majority-can-already-move-on-deportations-and-citizenship",
-          "source": "The Local Sweden",
-          "published": "2026-10-13T12:47:24+00:00"
         }
       ]
     },
@@ -173,6 +173,14 @@
       "label": "Immigration & Citizenship",
       "count": 20,
       "articles": [
+        {
+          "id": "ea1299c0f9e79f2b",
+          "title": "'He's the reason I'm here': Dad fights to stay in Sweden with baby son",
+          "summary": "A committed father was left 'speechless' by a Swedish Migration Court decision saying moving to 'visa-free visits' from the UK would not unduly affect his relationship with his one-year-old son. He is fighting the deportation order with a second appeal.",
+          "link": "https://www.thelocal.se/20261029/hes-the-reason-im-here-british-dad-fights-to-stay-in-sweden-with-baby-son",
+          "source": "The Local Sweden",
+          "published": "2026-10-29T10:17:25+00:00"
+        },
         {
           "id": "33c4a1da9e86743c",
           "title": "Inside Sweden: Why force foreigners to leave Sweden to change their residency permit?",
@@ -324,14 +332,6 @@
           "link": "https://www.thelocal.se/20260929/swedens-green-party-tables-motion-calling-for-immediate-stop-to-teen-deportations",
           "source": "The Local Sweden",
           "published": "2026-09-29T12:57:42+00:00"
-        },
-        {
-          "id": "c664f5ad839856e5",
-          "title": "INTERVIEW: 'The last word has not yet been said on Swedish citizenship'",
-          "summary": "In an interview with The Local, Fredrik Löndahl, chief judge at the Malmö migration court, explains why his court gave special attention to a single citizenship rejection appeal, and why he believes the ruling will be tested again at the highest court.",
-          "link": "https://www.thelocal.se/20260923/interview-the-last-word-has-not-yet-been-said-on-swedish-citizenship",
-          "source": "The Local Sweden",
-          "published": "2026-09-23T12:32:44+00:00"
         }
       ]
     },
