@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-10-30T12:18:45.414161+00:00",
+  "generated_at": "2026-10-30T19:00:25.403647+00:00",
   "categories": [
     {
       "id": "politics",
       "label": "National Politics & Law",
       "count": 20,
       "articles": [
+        {
+          "id": "56a3202ea611a8c3",
+          "title": "OPINION: One Sweden, one 'folk'?",
+          "summary": "Some Sweden Democrats think the only true Swedes are those who can trace back their ancestry to the dawn of time. It's an extreme idea that collapses under its own contradictions, argues The Local's James Savage.",
+          "link": "https://www.thelocal.se/20261030/opinion-one-sweden-one-folk",
+          "source": "The Local Sweden",
+          "published": "2026-10-30T15:47:16+00:00"
+        },
         {
           "id": "23927a707d8aa20f",
           "title": "Sweden Democrat leader backs 'open Swedishness' amid high-profile party clash",
@@ -157,14 +165,6 @@
           "link": "https://www.thelocal.se/20261015/left-party-mp-slams-media-coverage-of-suspected-election-fraud",
           "source": "The Local Sweden",
           "published": "2026-10-15T10:54:59+00:00"
-        },
-        {
-          "id": "20a93a98aa7fe9c6",
-          "title": "Swedish MP seeks to apply old rules to all pre-June 6th citizenship applicants",
-          "summary": "UPDATED: The Centre Party is willing to consider a new plan by Green Party MP Annika Hirvonen to allow everyone who applied for Swedish citizenship before June 6th – including those whose application has already been rejected – to be assessed under the old rules.",
-          "link": "https://www.thelocal.se/20261013/swedish-mp-seeks-to-apply-old-rules-to-all-pre-june-6th-citizenship-applicants",
-          "source": "The Local Sweden",
-          "published": "2026-10-13T15:29:04+00:00"
         }
       ]
     },
@@ -203,7 +203,7 @@
           "summary": "Richard Orange suggests that Sweden should stop splitting couples and families by forcing people to leave Sweden when applying for residency on new grounds, before running through the week's news.",
           "link": "https://www.thelocal.se/20261024/inside-sweden-why-force-foreigners-to-leave-sweden-to-change-their-residency-permit",
           "source": "The Local Sweden",
-          "published": "2026-10-24T12:02:16+00:00"
+          "published": "2026-10-24T10:02:16+00:00"
         },
         {
           "id": "818be6d9b45a0d4a",
