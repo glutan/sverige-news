@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-10-31T04:31:40.634945+00:00",
+  "generated_at": "2026-10-31T11:49:44.556744+00:00",
   "categories": [
     {
       "id": "politics",
       "label": "National Politics & Law",
       "count": 20,
       "articles": [
+        {
+          "id": "cd27eb34ef41749d",
+          "title": "'A lot of arguing to be done': What's at stake in the upcoming EU-UK summit?",
+          "summary": "Leaders of the EU and the UK will meet for a crucial summit in November with a move towards closer cooperation on the table. But how much will be achieved given the differences and disagreements that exist?",
+          "link": "https://www.thelocal.se/20261031/a-lot-of-arguing-to-be-done-whats-at-stake-in-the-upcoming-eu-uk-summit",
+          "source": "The Local Sweden",
+          "published": "2026-10-31T09:36:08+00:00"
+        },
         {
           "id": "56a3202ea611a8c3",
           "title": "OPINION: One Sweden, one 'folk'?",
@@ -157,14 +165,6 @@
           "link": "https://www.thelocal.se/20261015/does-losing-parliament-vote-mean-andersson-cant-be-swedens-next-pm",
           "source": "The Local Sweden",
           "published": "2026-10-15T12:50:15+00:00"
-        },
-        {
-          "id": "7cca2ef6df1317d5",
-          "title": "Left Party MP slams media coverage of suspected election fraud",
-          "summary": "Left Party MP Mohamed Ali, who unexpectedly surged into parliament on a wave of personal preference votes, has rejected media reports claiming he repeatedly rescheduled a police interview regarding suspected election fraud in Borlänge.",
-          "link": "https://www.thelocal.se/20261015/left-party-mp-slams-media-coverage-of-suspected-election-fraud",
-          "source": "The Local Sweden",
-          "published": "2026-10-15T10:54:59+00:00"
         }
       ]
     },
