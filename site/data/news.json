@@ -1,11 +1,27 @@
 {
-  "generated_at": "2026-11-02T08:58:21.174538+00:00",
+  "generated_at": "2026-11-02T20:00:19.548254+00:00",
   "categories": [
     {
       "id": "politics",
       "label": "National Politics & Law",
       "count": 20,
       "articles": [
+        {
+          "id": "0000b9654a9a35ba",
+          "title": "Second vote: What happens next in Sweden's government formation process?",
+          "summary": "It's now 50 days since Sweden's election and formally at least, the political parties have not moved even the tiniest step closer to forming a government. Here's what happens next.",
+          "link": "https://www.thelocal.se/20261102/second-vote-what-happens-next-in-swedens-government-formation-process",
+          "source": "The Local Sweden",
+          "published": "2026-11-02T14:04:54+00:00"
+        },
+        {
+          "id": "f95ee6ac331140f3",
+          "title": "'It will not happen': Top Centre Party MP rules out Sweden Democrat deal",
+          "summary": "Martin Ådahl, economics spokesperson for the Centre Party, has ruled out any deal which will see his party support a right-wing government dependent on the far-right Sweden Democrats, telling The Local simply that \"it will not happen'.",
+          "link": "https://www.thelocal.se/20261102/it-will-not-happen-top-centre-party-mp-rules-out-sweden-democrat-deal",
+          "source": "The Local Sweden",
+          "published": "2026-11-02T09:34:04+00:00"
+        },
         {
           "id": "cd27eb34ef41749d",
           "title": "'A lot of arguing to be done': What's at stake in the upcoming EU-UK summit?",
@@ -149,22 +165,6 @@
           "link": "https://www.thelocal.se/20261016/speaker-of-parliament-calls-press-conference-as-swedish-government-building-drags-on",
           "source": "The Local Sweden",
           "published": "2026-10-16T13:03:38+00:00"
-        },
-        {
-          "id": "8bf11d3097f6d86d",
-          "title": "Social Democrat leader Magdalena Andersson loses Sweden's first PM vote",
-          "summary": "Swedish MPs on Wednesday voted to reject Social Democrat leader Magdalena Andersson as prime minister.",
-          "link": "https://www.thelocal.se/20261015/breaking-social-democrat-leader-magdalena-andersson-loses-first-pm-vote",
-          "source": "The Local Sweden",
-          "published": "2026-10-15T12:51:13+00:00"
-        },
-        {
-          "id": "a8fd587bbea46406",
-          "title": "Does losing parliament vote mean Andersson can't be Sweden's next PM?",
-          "summary": "Sweden's parliament on Wednesday voted to reject Magdalena Andersson as prime minister by a massive majority. Does this mean she's out of the game for good? (Spoiler: no)",
-          "link": "https://www.thelocal.se/20261015/does-losing-parliament-vote-mean-andersson-cant-be-swedens-next-pm",
-          "source": "The Local Sweden",
-          "published": "2026-10-15T12:50:15+00:00"
         }
       ]
     },
