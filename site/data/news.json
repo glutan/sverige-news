@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-11-03T11:41:00.215152+00:00",
+  "generated_at": "2026-11-03T19:12:59.278687+00:00",
   "categories": [
     {
       "id": "politics",
       "label": "National Politics & Law",
       "count": 20,
       "articles": [
+        {
+          "id": "82423e539fbc0fb9",
+          "title": "Member Q&A: What do you want to know about Sweden's government saga?",
+          "summary": "Sweden doesn't have a government yet, more than 50 days after the election. When will it get one? Here's your chance to ask The Local's editor about that and anything else politics-related on your mind.",
+          "link": "https://www.thelocal.se/20261103/member-qa-what-do-you-want-to-know-about-swedens-government-saga",
+          "source": "The Local Sweden",
+          "published": "2026-11-03T15:27:42+00:00"
+        },
+        {
+          "id": "073292458500b2b1",
+          "title": "Sweden's outgoing PM Ulf Kristersson to try to form a new government",
+          "summary": "Sweden's outgoing conservative prime minister Ulf Kristersson has been tasked with trying to form a new government amid a political deadlock more than seven weeks after the country's general election.",
+          "link": "https://www.thelocal.se/20261103/swedens-outgoing-pm-ulf-kristersson-to-try-to-form-a-new-government",
+          "source": "The Local Sweden",
+          "published": "2026-11-03T15:02:16+00:00"
+        },
+        {
+          "id": "f12edd3b07a84cf1",
+          "title": "Swedish parliament rejects Centre Party leader as next prime minister",
+          "summary": "The Swedish parliament has, as expected, voted against Centre Party leader Elisabeth Thand Ringqvist as prime minister. Moderate Party leader Ulf Kristersson will now get the next shot at forming a government.",
+          "link": "https://www.thelocal.se/20261103/swedish-parliament-rejects-centre-party-leader-as-next-prime-minister",
+          "source": "The Local Sweden",
+          "published": "2026-11-03T12:46:38+00:00"
+        },
         {
           "id": "0000b9654a9a35ba",
           "title": "Second vote: What happens next in Sweden's government formation process?",
@@ -141,30 +165,6 @@
           "link": "https://www.thelocal.se/20261019/swedens-speaker-asks-centre-party-leader-to-explore-centrist-government-options",
           "source": "The Local Sweden",
           "published": "2026-10-19T13:42:55+00:00"
-        },
-        {
-          "id": "f0761331a2479d98",
-          "title": "Swedish PM's friend guilty of 'negligence with classified information'",
-          "summary": "Henrik Landerholm, the childhood friend who Swedish Prime Minister Ulf Kristersson appointed national security adviser, has been found guilty of 'negligence with classified information' after a court overturned his not-guilty verdict.",
-          "link": "https://www.thelocal.se/20261019/swedish-pms-friend-guilty-of-negligence-with-classified-information",
-          "source": "The Local Sweden",
-          "published": "2026-10-19T12:30:22+00:00"
-        },
-        {
-          "id": "e7dda3645953f936",
-          "title": "Sweden Democrat leader invites Centre Party to 'no-strings-attached' talks",
-          "summary": "Sweden Democrat leader Jimmie Åkesson has invited the Centre Party's Elisabeth Thand Ringqvist for a \"no-strings-attached conversation on the parliamentary situation\", posting an open letter on X.",
-          "link": "https://www.thelocal.se/20261019/sweden-democrat-leader-invites-centre-party-to-no-strings-attached-talks",
-          "source": "The Local Sweden",
-          "published": "2026-10-19T07:51:16+00:00"
-        },
-        {
-          "id": "34833cc711b4dfa7",
-          "title": "Speaker of parliament calls press conference as Swedish government-building drags on",
-          "summary": "Sweden's speaker of parliament has called a press conference for Monday to outline the next steps in forming a government.",
-          "link": "https://www.thelocal.se/20261016/speaker-of-parliament-calls-press-conference-as-swedish-government-building-drags-on",
-          "source": "The Local Sweden",
-          "published": "2026-10-16T13:03:38+00:00"
         }
       ]
     },
