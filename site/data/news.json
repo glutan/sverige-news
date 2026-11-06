@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T11:52:44.038872+00:00",
+  "generated_at": "2026-11-06T18:59:32.790132+00:00",
   "categories": [
     {
       "id": "politics",
@@ -7,9 +7,17 @@
       "count": 20,
       "articles": [
         {
-          "id": "43e3820c92e614fd",
-          "title": "Sweden Democrats drop minister demand, say they will be in opposition until 2030",
-          "summary": "At a press conference in his hometown of Sölvesborg, Sweden Democrat leader Jimmie Åkesson dropped his party's demand for governing positions in order to allow a right-wing government, however he said his party intends to be in opposition.",
+          "id": "f40540615a49dfd8",
+          "title": "How does the Sweden Democrats' decision to back Kristersson as PM change things?",
+          "summary": "Far right Sweden Democrat leader Jimmie Åkesson has announced that his party will unconditionally 'tolerate' Ulf Kristersson as prime minister and then go into opposition. What does this mean for the process of forming Sweden's next government?",
+          "link": "https://www.thelocal.se/20261106/what-does-the-sweden-democrats-decision-to-back-kristersson-as-pm-mean",
+          "source": "The Local Sweden",
+          "published": "2026-11-06T13:12:55+00:00"
+        },
+        {
+          "id": "9ec485a317bedca5",
+          "title": "'You're on your own': Sweden Democrats drop demands to allow Kristersson to be PM",
+          "summary": "Sweden Democrat leader Jimmie Åkesson has dropped his demand for cabinet posts, announcing his party is willing to tolerate Ulf Kristersson so he can become prime minister.",
           "link": "https://www.thelocal.se/20261106/sweden-democrats-drop-minister-demand-say-they-will-be-in-opposition-until-2030",
           "source": "The Local Sweden",
           "published": "2026-11-06T11:46:53+00:00"
@@ -157,14 +165,6 @@
           "link": "https://www.thelocal.se/20261022/interview-what-would-it-take-for-swedens-centre-party-to-back-ulf-kristersson-as-pm",
           "source": "The Local Sweden",
           "published": "2026-10-22T07:43:16+00:00"
-        },
-        {
-          "id": "808f5d389cf1d7f8",
-          "title": "Swedish Liberal leader vows to block Magdalena Andersson as prime minister",
-          "summary": "Centre Party leader Elisabeth Thand Ringqvist has been tasked with exploring the prospects for her party's stated ideal: a centrist government led by Social Democrat leader Magdalena Andersson. But the Liberals have already discarded her centrist dream as dead on arrival.",
-          "link": "https://www.thelocal.se/20261021/swedish-liberal-leader-vows-to-block-magdalena-andersson-for-prime-minister",
-          "source": "The Local Sweden",
-          "published": "2026-10-21T09:32:08+00:00"
         }
       ]
     },
