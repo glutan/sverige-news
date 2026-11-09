@@ -1,11 +1,27 @@
 {
-  "generated_at": "2026-11-09T05:03:49.659718+00:00",
+  "generated_at": "2026-11-09T15:28:01.224922+00:00",
   "categories": [
     {
       "id": "politics",
       "label": "National Politics & Law",
       "count": 20,
       "articles": [
+        {
+          "id": "7e14d88616251ac7",
+          "title": "Tell us: How do you feel about Sweden's government nail-biter?",
+          "summary": "More than 50 days after the election, Sweden's government negotiations are suddenly moving fast, with the Centre Party currently playing the role of king-maker. What do you think of it all?",
+          "link": "https://www.thelocal.se/20261109/tell-us-how-do-you-feel-about-swedens-government-nail-biter",
+          "source": "The Local Sweden",
+          "published": "2026-11-09T13:51:26+00:00"
+        },
+        {
+          "id": "5e8886cb8c5b5a26",
+          "title": "How Sweden's parties have reacted to the latest political drama",
+          "summary": "The Sweden Democrats' bombshell decision to drop its demand for cabinet posts and the Centre Party's threat to switch sides sparked a flurry of activity from Sweden's political parties over the weekend. But what are the main players saying?",
+          "link": "https://www.thelocal.se/20261109/how-have-swedens-political-parties-reacted-to-the-latest-political-drama",
+          "source": "The Local Sweden",
+          "published": "2026-11-09T13:24:09+00:00"
+        },
         {
           "id": "f40540615a49dfd8",
           "title": "How does the Sweden Democrats' decision to back Kristersson as PM change things?",
@@ -149,22 +165,6 @@
           "link": "https://www.thelocal.se/20261023/generational-rage-how-young-europeans-are-fighting-to-be-heard",
           "source": "The Local Sweden",
           "published": "2026-10-23T12:41:40+00:00"
-        },
-        {
-          "id": "818be6d9b45a0d4a",
-          "title": "Sweden's centre-left bloc agrees on plan to halt teen deportations",
-          "summary": "Sweden's centre-left parties have reached an agreement on how to draft a emergency law halting so-called \"teenage deportations\".",
-          "link": "https://www.thelocal.se/20261022/swedens-centre-left-bloc-agrees-on-plan-to-halt-teen-deportations",
-          "source": "The Local Sweden",
-          "published": "2026-10-22T13:31:35+00:00"
-        },
-        {
-          "id": "4a3ca309cf6e9314",
-          "title": "What would it take for Sweden's Centre Party to back Ulf Kristersson as PM?",
-          "summary": "Matilda Molander, head of the green and liberal think tank Fores, shook up Sweden's political world last week with an article outlining the painful concessions the Sweden Democrats might need to make for the Centre Party to switch sides.",
-          "link": "https://www.thelocal.se/20261022/interview-what-would-it-take-for-swedens-centre-party-to-back-ulf-kristersson-as-pm",
-          "source": "The Local Sweden",
-          "published": "2026-10-22T07:43:16+00:00"
         }
       ]
     },
@@ -173,6 +173,14 @@
       "label": "Immigration & Citizenship",
       "count": 20,
       "articles": [
+        {
+          "id": "0859a9498a911921",
+          "title": "Why is it taking five years to develop language tests for Swedish citizenship?",
+          "summary": "Eighteen months after Stockholm University was instructed to develop language tests for citizenship, it has finally hired a project manager. Lars Bokander told The Local that when it comes to developing test items, he is \"more or less starting from scratch\".",
+          "link": "https://www.thelocal.se/20261109/why-is-it-taking-five-years-to-develop-language-tests-for-swedish-citizenship",
+          "source": "The Local Sweden",
+          "published": "2026-11-09T11:38:45+00:00"
+        },
         {
           "id": "23927a707d8aa20f",
           "title": "Sweden Democrat leader backs 'open Swedishness' amid high-profile party clash",
@@ -310,14 +318,6 @@
           "published": "2026-10-06T14:18:38+00:00"
         },
         {
-          "id": "8dde6e4c16acd490",
-          "title": "TELL US: What do you miss about 'home' that you can't do in Sweden?",
-          "summary": "Even if you love living in Sweden and feel at home here, when you've moved to a different country from where you grew up, there will perhaps always be things you miss. What are those things for you?",
-          "link": "https://www.thelocal.se/20261002/tell-us-what-do-you-miss-about-home-that-you-cant-do-in-sweden",
-          "source": "The Local Sweden",
-          "published": "2026-10-02T12:35:40+00:00"
-        },
-        {
           "id": "118902b8d952a9d8",
           "title": "'But what are the rules?': My interview with the Swedish Migration Agency's legal chief",
           "summary": "When Richard Orange was granted an interview on Brexit rules with the Migration Agency's legal chief on his fourth attempt, it didn't exactly go as planned. But according to EU lawyers it nonetheless revealed flaws in the agency's grasp of EU law.",
@@ -338,169 +338,8 @@
     {
       "id": "gothenburg",
       "label": "Gothenburg Local News",
-      "count": 20,
-      "articles": [
-        {
-          "id": "e3449f0e7050d27e",
-          "title": "Centre-left holds on to power in Stockholm, Gothenburg and Malmö",
-          "summary": "The balance of power looks set to hold in the country's three largest municipalities, all of which are governed by centre-left coalitions.",
-          "link": "https://www.thelocal.se/20260914/centre-left-holds-on-to-power-in-stockholm-gothenburg-and-malmo",
-          "source": "The Local Sweden",
-          "published": "2026-09-14T09:58:58+00:00"
-        },
-        {
-          "id": "5161a7cc794646e2",
-          "title": "What you need to know about the local and regional elections in Gothenburg",
-          "summary": "The regional elections in Gothenburg and the surrounding region see the red-green coalitions which took power in 2022 defending their record on healthcare, traffic management, schools, and elderly care, as the right-wing parties try to limit further gains.",
-          "link": "https://www.thelocal.se/20260909/what-you-need-to-know-about-the-local-and-regional-elections-in-gothenburg",
-          "source": "The Local Sweden",
-          "published": "2026-09-09T15:56:45+00:00"
-        },
-        {
-          "id": "a1258500bc4c7020",
-          "title": "Self-driving bus crashes with tram in Gothenburg on first day",
-          "summary": "A self-driving bus was involved in a crash with a tram on its first day carrying passengers in the Swedish city of Gothenburg.",
-          "link": "https://www.thelocal.se/20260525/self-driving-bus-in-gothenburg-crashes-with-tram-on-first-day",
-          "source": "The Local Sweden",
-          "published": "2026-05-25T14:15:57+00:00"
-        },
-        {
-          "id": "d0c2562c95dcd8cb",
-          "title": "'An international hub': These are the best districts for foreigners in Gothenburg",
-          "summary": "Majorna, the long-gentrified former working class district of central Gothenburg, and the adjoining Linné have been ranked the best district for foreigners in the city by readers of The Local, although many readers also rated Hisingen as a convenient and comfortable place to settle.",
-          "link": "https://www.thelocal.se/20260326/an-international-hub-these-are-the-best-districts-for-foreigners-in-gothenburg",
-          "source": "The Local Sweden",
-          "published": "2026-03-26T12:04:22+00:00"
-        },
-        {
-          "id": "4ae3651d3e2cefe2",
-          "title": "What's that haze in the air in Gothenburg?",
-          "summary": "Swedish newspapers are reporting that for three days there's been a thick layer of smog covering the west coast city of Gothenburg.",
-          "link": "https://www.thelocal.se/20260312/whats-that-haze-in-the-air-in-gothenburg",
-          "source": "The Local Sweden",
-          "published": "2026-03-12T08:17:40+00:00"
-        },
-        {
-          "id": "28b55d9223dcfe37",
-          "title": "Gothenburg council withdraws monkey images after racism accusations",
-          "summary": "Social services in north-eastern Gothenburg were criticised for structural racism after using monkeys instead of humans in counselling material for children and young people in the area.",
-          "link": "https://www.thelocal.se/20250616/gothenburg-council-withdraws-monkey-images-in-counselling-after-racism-accusations",
-          "source": "The Local Sweden",
-          "published": "2025-06-16T11:48:02+00:00"
-        },
-        {
-          "id": "8382f33264069903",
-          "title": "Five reasons Sweden should move its capital to Gothenburg",
-          "summary": "Historically Stockholm was a natural choice for Sweden's capital. But times have changed. Here are the some of the reasons why Sweden should switch its political and business centre to Gothenburg, the gateway to Scandinavia.",
-          "link": "https://www.thelocal.se/20240801/five-reasons-sweden-should-move-its-capital-to-gothenburg",
-          "source": "The Local Sweden",
-          "published": "2024-08-01T14:56:35+00:00"
-        },
-        {
-          "id": "be33b9bfaaa572be",
-          "title": "Which Swedish cities are most popular among young professionals?",
-          "summary": "A new study from Stockholm-based research company Future Place Leadership listed Gothenburg as the most attractive Swedish city to live and work in.",
-          "link": "https://www.thelocal.se/20240627/which-swedish-cities-are-most-popular-among-young-professionals",
-          "source": "The Local Sweden",
-          "published": "2024-06-27T15:34:34+00:00"
-        },
-        {
-          "id": "5a4550b4d39f76b8",
-          "title": "'Stay home' warning as Storm Louis blows roof off Gothenburg station",
-          "summary": "Police have warned people to stay inside as Storm Louis batters western Sweden, blowing parts of the roof off Gothenburg Central Station.",
-          "link": "https://www.thelocal.se/20240223/police-say-stay-home-as-storm-blows-roof-off-gothenburg-station",
-          "source": "The Local Sweden",
-          "published": "2024-02-23T12:02:01+00:00"
-        },
-        {
-          "id": "873ba77b9f1261cd",
-          "title": "Dead body found after fire at Gothenburg's Liseberg amusement park",
-          "summary": "One person has been found dead after a fire destroyed Liseberg's new water park Oceana, which had been set to open this summer.",
-          "link": "https://www.thelocal.se/20240216/dead-body-found-after-fire-at-gothenburgs-liseberg-amusement-park",
-          "source": "The Local Sweden",
-          "published": "2024-02-16T15:09:27+00:00"
-        },
-        {
-          "id": "7179bd9229e1eb8c",
-          "title": "One man missing after fire inferno at Sweden's biggest amusement park",
-          "summary": "A man is missing after a fire broke out at the Liseberg amusement park in Gothenburg, with shocking images showing its newly built water park in flames.",
-          "link": "https://www.thelocal.se/20240213/one-man-missing-after-fire-inferno-destroys-swedens-biggest-amusement-park",
-          "source": "The Local Sweden",
-          "published": "2024-02-13T06:28:52+00:00"
-        },
-        {
-          "id": "3c5e6aeee5eb170b",
-          "title": "'Unique' Viking graves change what we know about central Gothenburg",
-          "summary": "Swedish archaeologists have described two Viking graves as 'unique' after they were discovered in central Gothenburg, shedding new light on the history of Sweden’s second-largest city.",
-          "link": "https://www.thelocal.se/20231122/unique-viking-graves-change-what-we-know-about-central-gothenburg",
-          "source": "The Local Sweden",
-          "published": "2023-11-22T11:51:52+00:00"
-        },
-        {
-          "id": "2fab74255951b3e7",
-          "title": "Heartwarming story about Gothenburg's public library goes viral",
-          "summary": "What do you do if the library is officially closed but you manage to sneak in anyway? Borrow books, of course.",
-          "link": "https://www.thelocal.se/20231108/heartwarming-story-about-gothenburgs-public-library-goes-viral",
-          "source": "The Local Sweden",
-          "published": "2023-11-08T04:20:32+00:00"
-        },
-        {
-          "id": "e8336302502e9d08",
-          "title": "TRAVEL: Number of daily trains between Oslo and Gothenburg to double",
-          "summary": "The number of daily train departures between the Norwegian capital of Oslo and the Swedish city of Gothenburg will double this winter, rail company Vy announced Thursday.",
-          "link": "https://www.thelocal.se/20230915/travel-number-of-daily-trains-between-oslo-and-gothenburg-to-double",
-          "source": "The Local Sweden",
-          "published": "2023-09-15T11:55:49+00:00"
-        },
-        {
-          "id": "9e6b0a8384e74606",
-          "title": "How to have a cheap holiday in Sweden this summer",
-          "summary": "Things are looking better in the Swedish economy, but many households are still feeling the pinch. No matter the size of your budget, you don't have to miss out on all the fun this summer.",
-          "link": "https://www.thelocal.se/20230621/how-to-have-a-cheap-holiday-in-sweden-this-summer",
-          "source": "The Local Sweden",
-          "published": "2023-06-21T10:32:18+00:00"
-        },
-        {
-          "id": "765f598a0eecb9c9",
-          "title": "Christmas in Sweden 2025: The best julbord in the Gothenburg area",
-          "summary": "Whether you're a Swedish Christmas newbie or a seasoned julbord connoisseur, here's The Local's selection of some of the best (often fishy) festive meals in the Gothenburg area this winter. Feel free to share other tips in the comments!",
-          "link": "https://www.thelocal.se/20221124/christmas-in-sweden-the-10-best-julbord-spreads-in-the-gothenburg-area",
-          "source": "The Local Sweden",
-          "published": "2022-11-24T11:10:49+00:00"
-        },
-        {
-          "id": "07948fb36c8654f5",
-          "title": "Why is 'everyone called Glenn' in Gothenburg?",
-          "summary": "We find out if everyone in Gothenburg is really called Glenn and where the old joke comes from.",
-          "link": "https://www.thelocal.se/20210604/why-is-everyone-called-glenn-in-gothenburg",
-          "source": "The Local Sweden",
-          "published": "2021-06-04T14:36:28+00:00"
-        },
-        {
-          "id": "8cc2ac08f04bcdb6",
-          "title": "Moving to Gothenburg? The best areas and neighbourhoods to live in",
-          "summary": "Whether you're moving to Sweden’s second biggest city for the first time or are looking for another neighbourhood, The Local talks you through some of your best options.",
-          "link": "https://www.thelocal.se/20210518/moving-to-gothenburg-best-areas-and-neighbourhoods-to-live",
-          "source": "The Local Sweden",
-          "published": "2021-05-18T17:10:02+00:00"
-        },
-        {
-          "id": "388498498803d3bb",
-          "title": "Five great day trips to do from Gothenburg",
-          "summary": "Gothenburg has a lively culture scene, plenty of green spaces and food and drink in abundance, but sometimes you just need to escape the city. The West Coast and nearby towns provide plenty of opportunities for a memorable day trip from Sweden's second city: here are five of our favourite destinations complete with insider tips.",
-          "link": "https://www.thelocal.se/20190223/five-great-day-trips-to-do-from-gothenburg-sweden-travel",
-          "source": "The Local Sweden",
-          "published": "2019-02-23T06:59:59+00:00"
-        },
-        {
-          "id": "2266ffb41f6c45b5",
-          "title": "The story of the biggest fire disaster in Swedish history",
-          "summary": "At a Halloween party in Gothenburg in 1998, a fire started by four youths led to one of the deadliest disasters of modern Swedish history. Sixty-three young people lost their lives and many more were injured.",
-          "link": "https://www.thelocal.se/20181029/the-biggest-fire-disaster-in-swedish-history-gothenburg-disco",
-          "source": "The Local Sweden",
-          "published": "2018-10-29T15:26:14+00:00"
-        }
-      ]
+      "count": 0,
+      "articles": []
     }
   ]
 }
