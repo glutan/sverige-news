@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T15:28:01.224922+00:00",
+  "generated_at": "2026-11-09T23:58:37.551218+00:00",
   "categories": [
     {
       "id": "politics",
@@ -338,8 +338,169 @@
     {
       "id": "gothenburg",
       "label": "Gothenburg Local News",
-      "count": 0,
-      "articles": []
+      "count": 20,
+      "articles": [
+        {
+          "id": "f47150af8ee3e93a",
+          "title": "There are now more than 600,000 Gothenburgers living in Gothenburg",
+          "summary": "Sweden's second-largest city is now home to more than 600,000 people, new data shows.",
+          "link": "https://www.thelocal.se/20230717/there-are-now-more-than-600000-gothenburgers-living-in-gothenburg",
+          "source": "The Local Sweden",
+          "published": "2023-07-17T09:50:53+00:00"
+        },
+        {
+          "id": "feb74dcaa58c8f3d",
+          "title": "New rail service planned through Norway, Sweden and Denmark to Hamburg",
+          "summary": "Plans for a new rail service running from Oslo and stopping in Gothenburg, Malmö and Copenhagen before arriving in Hamburg are in the works, Swedish state-owned rail operator SJ has said.",
+          "link": "https://www.thelocal.se/20230202/new-train-service-through-norway-sweden-and-denmark-to-hamburg-planned",
+          "source": "The Local Sweden",
+          "published": "2023-02-02T12:57:16+00:00"
+        },
+        {
+          "id": "4c6215faf50c6870",
+          "title": "How jellyfish in Gothenburg's archipelago reveal impact of climate change",
+          "summary": "A global increase in jellyfish sparked by climate change is impacting communities in the Gothenburg archipelago, with local restaurants and fishing reporting the effects.",
+          "link": "https://www.thelocal.se/20230202/how-jellyfish-in-gothenburgs-archipelago-reveal-impact-of-climate-change",
+          "source": "The Local Sweden",
+          "published": "2023-02-02T09:04:52+00:00"
+        },
+        {
+          "id": "ee05980cdf071935",
+          "title": "Red-green coalition takes power in Gothenburg",
+          "summary": "The Social Democrats, Green Party and Left Party have managed to oust the right-wing Moderates from power in Gothenburg, despite failing to strike a coalition deal with the Centre Party.",
+          "link": "https://www.thelocal.se/20221028/social-democrats-and-greens-seize-power-in-gothenburg",
+          "source": "The Local Sweden",
+          "published": "2022-10-28T15:34:14+00:00"
+        },
+        {
+          "id": "c50be875bb569222",
+          "title": "Gothenburg: is the dream of a new city turning into a nightmare?",
+          "summary": "Sweden’s second city is the site of Scandinavia’s largest urban development project. But there is rising concern that the costs outweigh the benefits, says David Crouch",
+          "link": "https://www.thelocal.se/20220715/gothenburg-is-the-dream-of-a-new-city-turning-into-a-nightmare",
+          "source": "The Local Sweden",
+          "published": "2022-07-15T13:22:27+00:00"
+        },
+        {
+          "id": "cf3c52b534dcd3ef",
+          "title": "Why is Gothenburg known as Sweden’s 'Little London'?",
+          "summary": "With ties to Britain dating back more than 200 years, the city of Gothenburg has long been known as Sweden’s Little London.",
+          "link": "https://www.thelocal.se/20220428/why-is-gothenburg-known-as-swedens-little-london",
+          "source": "The Local Sweden",
+          "published": "2022-04-28T15:30:11+00:00"
+        },
+        {
+          "id": "748e144daa3d22b1",
+          "title": "Volvo to invest 10 billion kronor in iconic Gothenburg factory",
+          "summary": "Volvo plans to invest 10 billion kronor in its Gothenburg plant in Sweden as it switches production to electric cars.",
+          "link": "https://www.thelocal.se/20220208/volvo-to-invest-10-billion-kronor-in-iconic-gothenburg-factory",
+          "source": "The Local Sweden",
+          "published": "2022-02-08T13:33:55+00:00"
+        },
+        {
+          "id": "f3489ba51612aca5",
+          "title": "Gothenburg apartment blast suspect found dead",
+          "summary": "Prosecutors have said that the man suspected as being behind a detonation in Gothenburg last week has been found dead on Wednesday after an apparent suicide.",
+          "link": "https://www.thelocal.se/20211006/gothenburg-apartment-blast-suspect-found-dead",
+          "source": "The Local Sweden",
+          "published": "2021-10-06T15:39:12+00:00"
+        },
+        {
+          "id": "3657178f2d9deb47",
+          "title": "Gothenburg blast: Police identify suspect with 'no link to criminal gangs'",
+          "summary": "Police have confirmed that they have identified a suspect for the blast in Gothenburg earlier this week, which forced around 200 people to evacuate their homes and seriously injured four.",
+          "link": "https://www.thelocal.se/20210930/gothenburg-blast-police-identify-suspect-with-no-link-to-criminal-gangs",
+          "source": "The Local Sweden",
+          "published": "2021-09-30T14:31:40+00:00"
+        },
+        {
+          "id": "2ef021d9de4c2f02",
+          "title": "Gothenburg blast: Here's what we do (and don't) know so far",
+          "summary": "UPDATED: Two people remained in intensive care on Wednesday after an apartment block explosion in Gothenburg the day before, which police said was likely not due to natural causes. Here's what we know about the incident.",
+          "link": "https://www.thelocal.se/20210928/gothenburg-blast-heres-what-we-do-and-dont-know-so-far",
+          "source": "The Local Sweden",
+          "published": "2021-09-28T13:37:53+00:00"
+        },
+        {
+          "id": "234b25d36bfa586f",
+          "title": "Gothenburg blast: Explosion 'not due to natural causes', say police",
+          "summary": "At least 16 people have been reportedly admitted to hospital after an explosion in an apartment building in central Gothenburg, which police are investigating as a potential crime.",
+          "link": "https://www.thelocal.se/20210928/gothenburg-blast-23-in-hospital-after-apartment-block-explosion",
+          "source": "The Local Sweden",
+          "published": "2021-09-28T09:49:00+00:00"
+        },
+        {
+          "id": "b7516f442ce4f179",
+          "title": "Floods and transport disruption after heavy rainfall across central Sweden",
+          "summary": "Heavy rainfall has led to hundreds of flooded buildings and roads in central Sweden that continue to disrupt traffic on Thursday.",
+          "link": "https://www.thelocal.se/20210527/floods-and-transport-disruption-after-heavy-rainfall-across-central-sweden",
+          "source": "The Local Sweden",
+          "published": "2021-05-27T10:06:32+00:00"
+        },
+        {
+          "id": "8cc2ac08f04bcdb6",
+          "title": "Moving to Gothenburg? The best areas and neighbourhoods to live in",
+          "summary": "Whether you're moving to Sweden’s second biggest city for the first time or are looking for another neighbourhood, The Local talks you through some of your best options.",
+          "link": "https://www.thelocal.se/20210518/moving-to-gothenburg-best-areas-and-neighbourhoods-to-live",
+          "source": "The Local Sweden",
+          "published": "2021-05-18T17:10:02+00:00"
+        },
+        {
+          "id": "889e5c8ae7518003",
+          "title": "Spate of accidents as snow blankets western and southern Sweden",
+          "summary": "A snowstorm had on Thursday morning already caused several accidents in western Sweden, with authorities warning residents not to head out on the road.",
+          "link": "https://www.thelocal.se/20210311/spate-of-accidents-as-snow-blankets-western-and-southern-sweden",
+          "source": "The Local Sweden",
+          "published": "2021-03-11T09:50:23+00:00"
+        },
+        {
+          "id": "3870730dfc2f7a0a",
+          "title": "Western Sweden told to brace for heavy snow",
+          "summary": "Sweden's national weather agency SMHI has issued a warning for snowfall in southern Sweden, with western parts of the country expected to bear the brunt.",
+          "link": "https://www.thelocal.se/20210310/western-sweden-told-to-brace-for-heavy-snow",
+          "source": "The Local Sweden",
+          "published": "2021-03-10T12:05:15+00:00"
+        },
+        {
+          "id": "4956ec3174f3edaa",
+          "title": "Coronavirus: Western Swedish region steps up face mask recommendations to curb new outbreaks",
+          "summary": "New coronavirus recommendations urge people in Gothenburg and the rest of the Västra Götaland region to wear face masks on public transport at all times.",
+          "link": "https://www.thelocal.se/20210217/coronavirus-west-sweden-steps-up-face-mask-recommendations-to-curb-new-outbreaks",
+          "source": "The Local Sweden",
+          "published": "2021-02-17T15:02:29+00:00"
+        },
+        {
+          "id": "0e25f255e38bd42e",
+          "title": "Step back in time: 10 images that bring historic Gothenburg to life",
+          "summary": "Gothenburg in the first half of the 20th century was a very different – and surprisingly similar – city to what it is today. Let's take a look...",
+          "link": "https://www.thelocal.se/20191015/step-back-in-time-10-fascinating-images-that-bring-historic-gothenburg-to-life",
+          "source": "The Local Sweden",
+          "published": "2019-10-15T14:31:07+00:00"
+        },
+        {
+          "id": "92091e03c66228a1",
+          "title": "Readers reveal: What you need to know about life in Gothenburg",
+          "summary": "We asked our readers what they like and dislike most about life on the west coast. Here's what you told us.",
+          "link": "https://www.thelocal.se/20190913/readers-reveal-the-best-and-worst-things-about-life-in-gothenburg",
+          "source": "The Local Sweden",
+          "published": "2019-09-13T17:05:53+00:00"
+        },
+        {
+          "id": "388498498803d3bb",
+          "title": "Five great day trips to do from Gothenburg",
+          "summary": "Gothenburg has a lively culture scene, plenty of green spaces and food and drink in abundance, but sometimes you just need to escape the city. The West Coast and nearby towns provide plenty of opportunities for a memorable day trip from Sweden's second city: here are five of our favourite destinations complete with insider tips.",
+          "link": "https://www.thelocal.se/20190223/five-great-day-trips-to-do-from-gothenburg-sweden-travel",
+          "source": "The Local Sweden",
+          "published": "2019-02-23T06:59:59+00:00"
+        },
+        {
+          "id": "2266ffb41f6c45b5",
+          "title": "The story of the biggest fire disaster in Swedish history",
+          "summary": "At a Halloween party in Gothenburg in 1998, a fire started by four youths led to one of the deadliest disasters of modern Swedish history. Sixty-three young people lost their lives and many more were injured.",
+          "link": "https://www.thelocal.se/20181029/the-biggest-fire-disaster-in-swedish-history-gothenburg-disco",
+          "source": "The Local Sweden",
+          "published": "2018-10-29T15:26:14+00:00"
+        }
+      ]
     }
   ]
 }
