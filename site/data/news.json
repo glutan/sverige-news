@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-11-10T07:03:23.010511+00:00",
+  "generated_at": "2026-11-10T16:11:17.759791+00:00",
   "categories": [
     {
       "id": "politics",
       "label": "National Politics & Law",
       "count": 20,
       "articles": [
+        {
+          "id": "34a96d11c192a213",
+          "title": "'Things are in motion': Magdalena Andersson offers to step up as Sweden's third PM vote looms",
+          "summary": "Social Democrat leader Magdalena Andersson has said that she is ready to again try to form a government – but needs more time.",
+          "link": "https://www.thelocal.se/20261110/things-are-in-motion-magdalena-andersson-offers-to-step-up-as-third-pm-vote-looms",
+          "source": "The Local Sweden",
+          "published": "2026-11-10T12:08:30+00:00"
+        },
+        {
+          "id": "305ef5e2ce7301a5",
+          "title": "OPINION: Kristersson might be Centre's least illiberal option",
+          "summary": "On Friday, the Sweden Democrats dropped their demand for ministerial posts. The Left Party hasn’t budged on its own. Between them, they’ve given the Centre Party the cover it needs to back Ulf Kristersson as the least illiberal of two illiberal options, argues James Savage.",
+          "link": "https://www.thelocal.se/20261110/opinion-kristersson-might-be-centres-least-illiberal-option",
+          "source": "The Local Sweden",
+          "published": "2026-11-10T12:00:57+00:00"
+        },
+        {
+          "id": "38999c4fe3c0c8da",
+          "title": "Parliament to vote on revoking citizenship for 'crimes that harm Sweden's vital interests'",
+          "summary": "Sweden's parliament is set to vote on Wednesday to change the constitution to make it possible for dual citizens convicted of 'crimes that seriously harm Sweden's vital interests' to be stripped of their Swedish citizenship.",
+          "link": "https://www.thelocal.se/20261110/parliament-to-vote-on-revoking-citizenship-for-crimes-that-harm-swedens-vital-interests",
+          "source": "The Local Sweden",
+          "published": "2026-11-10T11:41:20+00:00"
+        },
         {
           "id": "7e14d88616251ac7",
           "title": "Tell us: How do you feel about Sweden's government nail-biter?",
@@ -141,30 +165,6 @@
           "link": "https://www.thelocal.se/20261028/swedens-right-wing-bloc-takes-clear-lead-over-left-wing-in-new-poll",
           "source": "The Local Sweden",
           "published": "2026-10-28T08:58:45+00:00"
-        },
-        {
-          "id": "e6b8ca13db1e39d8",
-          "title": "Swedish finance minister prepares caretaker budget stripped of campaign promises",
-          "summary": "As Sweden doesn't yet have a new government, outgoing Finance Minister Elisabeth Svantesson will present a caretaker budget in November. It will be completely devoid of election pledges and fresh policy initiatives – except for one thing.",
-          "link": "https://www.thelocal.se/20261027/swedish-finance-minister-prepares-caretaker-budget-stripped-of-campaign-promises",
-          "source": "The Local Sweden",
-          "published": "2026-10-27T13:41:11+00:00"
-        },
-        {
-          "id": "bc9c99f2453af950",
-          "title": "Sweden's Centre Party leader: 'No majority for a centrist government'",
-          "summary": "Centre Party leader Elisabeth Thand Ringqvist is ending her bid to forge a centrist coalition and has handed her exploratory mandate back to the speaker of parliament.",
-          "link": "https://www.thelocal.se/20261026/swedens-centre-party-leader-no-majority-for-a-centrist-government",
-          "source": "The Local Sweden",
-          "published": "2026-10-26T11:15:40+00:00"
-        },
-        {
-          "id": "0b24ed053ef44a64",
-          "title": "'Generational rage': How young Europeans are fighting to be heard",
-          "summary": "From blockaded schools in Rome to tent camps in Madrid and street protests in France, young people across Europe are turning their anger on a political class they say is not listening.",
-          "link": "https://www.thelocal.se/20261023/generational-rage-how-young-europeans-are-fighting-to-be-heard",
-          "source": "The Local Sweden",
-          "published": "2026-10-23T12:41:40+00:00"
         }
       ]
     },
@@ -173,6 +173,14 @@
       "label": "Immigration & Citizenship",
       "count": 20,
       "articles": [
+        {
+          "id": "38999c4fe3c0c8da",
+          "title": "Parliament to vote on revoking citizenship for 'crimes that harm Sweden's vital interests'",
+          "summary": "Sweden's parliament is set to vote on Wednesday to change the constitution to make it possible for dual citizens convicted of 'crimes that seriously harm Sweden's vital interests' to be stripped of their Swedish citizenship.",
+          "link": "https://www.thelocal.se/20261110/parliament-to-vote-on-revoking-citizenship-for-crimes-that-harm-swedens-vital-interests",
+          "source": "The Local Sweden",
+          "published": "2026-11-10T11:41:20+00:00"
+        },
         {
           "id": "0859a9498a911921",
           "title": "Why is it taking five years to develop language tests for Swedish citizenship?",
@@ -324,14 +332,6 @@
           "link": "https://www.thelocal.se/20261002/but-what-are-the-rules-my-interview-with-the-swedish-migration-agencys-legal-chief",
           "source": "The Local Sweden",
           "published": "2026-10-02T09:56:46+00:00"
-        },
-        {
-          "id": "14ae9aec6e78449c",
-          "title": "Q&A: Who is affected by Sweden's new law on family immigration?",
-          "summary": "The previous Swedish government's law tightening rules for family reunification came into force on October 1st, 2026. The Local spoke to Ann-Kari Olsson, Section Head at the Swedish Migration Agency, to find out who is affected – and how.",
-          "link": "https://www.thelocal.se/20260930/qa-who-is-affected-by-swedens-new-law-on-family-immigration",
-          "source": "The Local Sweden",
-          "published": "2026-09-30T16:48:21+00:00"
         }
       ]
     },
