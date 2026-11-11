@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T13:43:05.902010+00:00",
+  "generated_at": "2026-11-11T21:05:34.741567+00:00",
   "categories": [
     {
       "id": "politics",
@@ -12,7 +12,7 @@
           "summary": "A meeting of the Social Democrats, Greens, Centre Party and the Left Party to discuss ways to overcome the obstacles to forming a viable government coalition got under way at 10am on Wednesday.",
           "link": "https://www.thelocal.se/20261111/social-democrats-to-meet-left-party-and-centre-party-for-talks-on-swedish-government",
           "source": "The Local Sweden",
-          "published": "2026-11-11T10:12:03+00:00"
+          "published": "2026-11-11T11:12:03+00:00"
         },
         {
           "id": "88473c88d0b891f5",
@@ -20,7 +20,7 @@
           "summary": "The Centre Party won the trust of foreign-born voters by promising to stand up for their rights and deny the Sweden Democrats political influence. If it abandons these central election pledges, many will see it as a betrayal they will never forget, Richard Orange argues.",
           "link": "https://www.thelocal.se/20261111/opinion-is-swedens-centre-party-about-to-betray-foreign-born-voters",
           "source": "The Local Sweden",
-          "published": "2026-11-11T09:23:58+00:00"
+          "published": "2026-11-11T10:23:58+00:00"
         },
         {
           "id": "34a96d11c192a213",
@@ -28,7 +28,7 @@
           "summary": "Social Democrat leader Magdalena Andersson has said that she is ready to again try to form a government – but needs more time.",
           "link": "https://www.thelocal.se/20261110/things-are-in-motion-magdalena-andersson-offers-to-step-up-as-third-pm-vote-looms",
           "source": "The Local Sweden",
-          "published": "2026-11-10T12:08:30+00:00"
+          "published": "2026-11-10T13:08:30+00:00"
         },
         {
           "id": "305ef5e2ce7301a5",
@@ -36,7 +36,7 @@
           "summary": "On Friday, the Sweden Democrats dropped their demand for ministerial posts. The Left Party hasn’t budged on its own. Between them, they’ve given the Centre Party the cover it needs to back Ulf Kristersson as the least illiberal of two illiberal options, argues James Savage.",
           "link": "https://www.thelocal.se/20261110/opinion-kristersson-might-be-centres-least-illiberal-option",
           "source": "The Local Sweden",
-          "published": "2026-11-10T12:00:57+00:00"
+          "published": "2026-11-10T13:00:57+00:00"
         },
         {
           "id": "38999c4fe3c0c8da",
@@ -44,7 +44,7 @@
           "summary": "Sweden's parliament is set to vote on Wednesday to change the constitution to make it possible for dual citizens convicted of 'crimes that seriously harm Sweden's vital interests' to be stripped of their Swedish citizenship.",
           "link": "https://www.thelocal.se/20261110/parliament-to-vote-on-revoking-citizenship-for-crimes-that-harm-swedens-vital-interests",
           "source": "The Local Sweden",
-          "published": "2026-11-10T11:41:20+00:00"
+          "published": "2026-11-10T12:41:20+00:00"
         },
         {
           "id": "7e14d88616251ac7",
@@ -179,7 +179,7 @@
           "summary": "Sweden's parliament is set to vote on Wednesday to change the constitution to make it possible for dual citizens convicted of 'crimes that seriously harm Sweden's vital interests' to be stripped of their Swedish citizenship.",
           "link": "https://www.thelocal.se/20261110/parliament-to-vote-on-revoking-citizenship-for-crimes-that-harm-swedens-vital-interests",
           "source": "The Local Sweden",
-          "published": "2026-11-10T11:41:20+00:00"
+          "published": "2026-11-10T12:41:20+00:00"
         },
         {
           "id": "0859a9498a911921",
@@ -373,12 +373,28 @@
           "published": "2026-03-26T12:04:22+00:00"
         },
         {
+          "id": "4ae3651d3e2cefe2",
+          "title": "What's that haze in the air in Gothenburg?",
+          "summary": "Swedish newspapers are reporting that for three days there's been a thick layer of smog covering the west coast city of Gothenburg.",
+          "link": "https://www.thelocal.se/20260312/whats-that-haze-in-the-air-in-gothenburg",
+          "source": "The Local Sweden",
+          "published": "2026-03-12T09:17:40+00:00"
+        },
+        {
           "id": "28b55d9223dcfe37",
           "title": "Gothenburg council withdraws monkey images after racism accusations",
           "summary": "Social services in north-eastern Gothenburg were criticised for structural racism after using monkeys instead of humans in counselling material for children and young people in the area.",
           "link": "https://www.thelocal.se/20250616/gothenburg-council-withdraws-monkey-images-in-counselling-after-racism-accusations",
           "source": "The Local Sweden",
           "published": "2025-06-16T11:48:02+00:00"
+        },
+        {
+          "id": "8382f33264069903",
+          "title": "Five reasons Sweden should move its capital to Gothenburg",
+          "summary": "Historically Stockholm was a natural choice for Sweden's capital. But times have changed. Here are the some of the reasons why Sweden should switch its political and business centre to Gothenburg, the gateway to Scandinavia.",
+          "link": "https://www.thelocal.se/20240801/five-reasons-sweden-should-move-its-capital-to-gothenburg",
+          "source": "The Local Sweden",
+          "published": "2024-08-01T14:56:35+00:00"
         },
         {
           "id": "be33b9bfaaa572be",
@@ -437,14 +453,6 @@
           "published": "2023-09-15T11:55:49+00:00"
         },
         {
-          "id": "f47150af8ee3e93a",
-          "title": "There are now more than 600,000 Gothenburgers living in Gothenburg",
-          "summary": "Sweden's second-largest city is now home to more than 600,000 people, new data shows.",
-          "link": "https://www.thelocal.se/20230717/there-are-now-more-than-600000-gothenburgers-living-in-gothenburg",
-          "source": "The Local Sweden",
-          "published": "2023-07-17T09:50:53+00:00"
-        },
-        {
           "id": "9e6b0a8384e74606",
           "title": "How to have a cheap holiday in Sweden this summer",
           "summary": "Things are looking better in the Swedish economy, but many households are still feeling the pinch. No matter the size of your budget, you don't have to miss out on all the fun this summer.",
@@ -453,28 +461,20 @@
           "published": "2023-06-21T10:32:18+00:00"
         },
         {
-          "id": "feb74dcaa58c8f3d",
-          "title": "New rail service planned through Norway, Sweden and Denmark to Hamburg",
-          "summary": "Plans for a new rail service running from Oslo and stopping in Gothenburg, Malmö and Copenhagen before arriving in Hamburg are in the works, Swedish state-owned rail operator SJ has said.",
-          "link": "https://www.thelocal.se/20230202/new-train-service-through-norway-sweden-and-denmark-to-hamburg-planned",
+          "id": "765f598a0eecb9c9",
+          "title": "Christmas in Sweden 2025: The best julbord in the Gothenburg area",
+          "summary": "Whether you're a Swedish Christmas newbie or a seasoned julbord connoisseur, here's The Local's selection of some of the best (often fishy) festive meals in the Gothenburg area this winter. Feel free to share other tips in the comments!",
+          "link": "https://www.thelocal.se/20221124/christmas-in-sweden-the-10-best-julbord-spreads-in-the-gothenburg-area",
           "source": "The Local Sweden",
-          "published": "2023-02-02T12:57:16+00:00"
+          "published": "2022-11-24T11:10:49+00:00"
         },
         {
-          "id": "4c6215faf50c6870",
-          "title": "How jellyfish in Gothenburg's archipelago reveal impact of climate change",
-          "summary": "A global increase in jellyfish sparked by climate change is impacting communities in the Gothenburg archipelago, with local restaurants and fishing reporting the effects.",
-          "link": "https://www.thelocal.se/20230202/how-jellyfish-in-gothenburgs-archipelago-reveal-impact-of-climate-change",
+          "id": "07948fb36c8654f5",
+          "title": "Why is 'everyone called Glenn' in Gothenburg?",
+          "summary": "We find out if everyone in Gothenburg is really called Glenn and where the old joke comes from.",
+          "link": "https://www.thelocal.se/20210604/why-is-everyone-called-glenn-in-gothenburg",
           "source": "The Local Sweden",
-          "published": "2023-02-02T09:04:52+00:00"
-        },
-        {
-          "id": "ee05980cdf071935",
-          "title": "Red-green coalition takes power in Gothenburg",
-          "summary": "The Social Democrats, Green Party and Left Party have managed to oust the right-wing Moderates from power in Gothenburg, despite failing to strike a coalition deal with the Centre Party.",
-          "link": "https://www.thelocal.se/20221028/social-democrats-and-greens-seize-power-in-gothenburg",
-          "source": "The Local Sweden",
-          "published": "2022-10-28T15:34:14+00:00"
+          "published": "2021-06-04T14:36:28+00:00"
         },
         {
           "id": "8cc2ac08f04bcdb6",
