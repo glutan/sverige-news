@@ -1,11 +1,27 @@
 {
-  "generated_at": "2026-11-11T05:05:41.627204+00:00",
+  "generated_at": "2026-11-11T13:43:05.902010+00:00",
   "categories": [
     {
       "id": "politics",
       "label": "National Politics & Law",
       "count": 20,
       "articles": [
+        {
+          "id": "db1432c438d13331",
+          "title": "Social Democrats meet Left Party and Centre Party for talks on Swedish government",
+          "summary": "A meeting of the Social Democrats, Greens, Centre Party and the Left Party to discuss ways to overcome the obstacles to forming a viable government coalition got under way at 10am on Wednesday.",
+          "link": "https://www.thelocal.se/20261111/social-democrats-to-meet-left-party-and-centre-party-for-talks-on-swedish-government",
+          "source": "The Local Sweden",
+          "published": "2026-11-11T10:12:03+00:00"
+        },
+        {
+          "id": "88473c88d0b891f5",
+          "title": "OPINION: Sweden's Centre Party is betraying foreign-born voters",
+          "summary": "The Centre Party won the trust of foreign-born voters by promising to stand up for their rights and deny the Sweden Democrats political influence. If it abandons these central election pledges, many will see it as a betrayal they will never forget, Richard Orange argues.",
+          "link": "https://www.thelocal.se/20261111/opinion-is-swedens-centre-party-about-to-betray-foreign-born-voters",
+          "source": "The Local Sweden",
+          "published": "2026-11-11T09:23:58+00:00"
+        },
         {
           "id": "34a96d11c192a213",
           "title": "'Things are in motion': Magdalena Andersson offers to step up as Sweden's third PM vote looms",
@@ -149,22 +165,6 @@
           "link": "https://www.thelocal.se/20261029/new-poll-shows-swedens-moderate-party-just-behind-social-democrats",
           "source": "The Local Sweden",
           "published": "2026-10-29T12:12:58+00:00"
-        },
-        {
-          "id": "6ba467d2714a8cee",
-          "title": "Swedish business sector urges next government to overhaul global talent strategy",
-          "summary": "A leading Swedish business organisation is urging the next government – whenever it is formed – to step up the work of attracting and retaining crucial international talent.",
-          "link": "https://www.thelocal.se/20261028/swedish-business-sector-urges-next-government-to-overhaul-global-talent-strategy",
-          "source": "The Local Sweden",
-          "published": "2026-10-28T12:48:22+00:00"
-        },
-        {
-          "id": "dfeefbc5d695c5dd",
-          "title": "Sweden's right wing takes clear lead over left wing in new poll",
-          "summary": "Following strong gains for the Moderate Party and the Sweden Democrats, a new poll has the right-wing side nearly four percentage points higher than their left-wing rivals.",
-          "link": "https://www.thelocal.se/20261028/swedens-right-wing-bloc-takes-clear-lead-over-left-wing-in-new-poll",
-          "source": "The Local Sweden",
-          "published": "2026-10-28T08:58:45+00:00"
         }
       ]
     },
