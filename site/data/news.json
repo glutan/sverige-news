@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T12:17:19.425174+00:00",
+  "generated_at": "2026-11-12T21:20:16.841686+00:00",
   "categories": [
     {
       "id": "politics",
@@ -7,9 +7,17 @@
       "count": 20,
       "articles": [
         {
+          "id": "0a384f6202856dd6",
+          "title": "Sweden's Centre Party sets deadline for Left Party to drop ministerial demands",
+          "summary": "The Centre Party has hit back at the Left Party's ultimatum by throwing down its own gauntlet – giving it a deadline to announce whether it is willing to drop its demand for cabinet seats.",
+          "link": "https://www.thelocal.se/20261112/swedens-centre-party-sets-deadline-for-left-party-to-drop-ministerial-demands",
+          "source": "The Local Sweden",
+          "published": "2026-11-12T14:57:24+00:00"
+        },
+        {
           "id": "1a24a319ae72bca2",
           "title": "'Historic decision': Left Party demands Centre Party pick a side in Swedish government talks",
-          "summary": "Sweden's Left Party will be ready to negotiate with the Centre Party, its leader Nooshi Dadgostar announced at a hastily called press conference, but didn't immediately drop her party's demand for cabinet seats.",
+          "summary": "UPDATED: Sweden's Left Party will be ready to negotiate with the Centre Party, its leader Nooshi Dadgostar announced at a hastily called press conference, but didn't immediately drop her party's demand for cabinet seats.",
           "link": "https://www.thelocal.se/20261112/breaking-left-party-demands-centre-party-pick-a-side-in-swedish-government-talks",
           "source": "The Local Sweden",
           "published": "2026-11-12T10:57:21+00:00"
@@ -63,20 +71,20 @@
           "published": "2026-11-10T13:08:30+00:00"
         },
         {
-          "id": "305ef5e2ce7301a5",
-          "title": "OPINION: Kristersson might be Centre's least illiberal option",
-          "summary": "On Friday, the Sweden Democrats dropped their demand for ministerial posts. The Left Party hasn’t budged on its own. Between them, they’ve given the Centre Party the cover it needs to back Ulf Kristersson as the least illiberal of two illiberal options, argues James Savage.",
-          "link": "https://www.thelocal.se/20261110/opinion-kristersson-might-be-centres-least-illiberal-option",
-          "source": "The Local Sweden",
-          "published": "2026-11-10T13:00:57+00:00"
-        },
-        {
           "id": "38999c4fe3c0c8da",
           "title": "Parliament to vote on revoking citizenship for 'crimes that harm Sweden's vital interests'",
           "summary": "Sweden's parliament is set to vote on Wednesday to change the constitution to make it possible for dual citizens convicted of 'crimes that seriously harm Sweden's vital interests' to be stripped of their Swedish citizenship.",
           "link": "https://www.thelocal.se/20261110/parliament-to-vote-on-revoking-citizenship-for-crimes-that-harm-swedens-vital-interests",
           "source": "The Local Sweden",
           "published": "2026-11-10T12:41:20+00:00"
+        },
+        {
+          "id": "305ef5e2ce7301a5",
+          "title": "OPINION: Kristersson might be Centre's least illiberal option",
+          "summary": "On Friday, the Sweden Democrats dropped their demand for ministerial posts. The Left Party hasn’t budged on its own. Between them, they’ve given the Centre Party the cover it needs to back Ulf Kristersson as the least illiberal of two illiberal options, argues James Savage.",
+          "link": "https://www.thelocal.se/20261110/opinion-kristersson-might-be-centres-least-illiberal-option",
+          "source": "The Local Sweden",
+          "published": "2026-11-10T12:00:57+00:00"
         },
         {
           "id": "7e14d88616251ac7",
@@ -157,14 +165,6 @@
           "link": "https://www.thelocal.se/20261102/it-will-not-happen-top-centre-party-mp-rules-out-sweden-democrat-deal",
           "source": "The Local Sweden",
           "published": "2026-11-02T10:34:04+00:00"
-        },
-        {
-          "id": "cd27eb34ef41749d",
-          "title": "'A lot of arguing to be done': What's at stake in the upcoming EU-UK summit?",
-          "summary": "Leaders of the EU and the UK will meet for a crucial summit in November with a move towards closer cooperation on the table. But how much will be achieved given the differences and disagreements that exist?",
-          "link": "https://www.thelocal.se/20261031/a-lot-of-arguing-to-be-done-whats-at-stake-in-the-upcoming-eu-uk-summit",
-          "source": "The Local Sweden",
-          "published": "2026-10-31T10:36:08+00:00"
         }
       ]
     },
