@@ -1,11 +1,43 @@
 {
-  "generated_at": "2026-11-12T02:44:08.995017+00:00",
+  "generated_at": "2026-11-12T12:17:19.425174+00:00",
   "categories": [
     {
       "id": "politics",
       "label": "National Politics & Law",
       "count": 20,
       "articles": [
+        {
+          "id": "1a24a319ae72bca2",
+          "title": "'Historic decision': Left Party demands Centre Party pick a side in Swedish government talks",
+          "summary": "Sweden's Left Party will be ready to negotiate with the Centre Party, its leader Nooshi Dadgostar announced at a hastily called press conference, but didn't immediately drop her party's demand for cabinet seats.",
+          "link": "https://www.thelocal.se/20261112/breaking-left-party-demands-centre-party-pick-a-side-in-swedish-government-talks",
+          "source": "The Local Sweden",
+          "published": "2026-11-12T10:57:21+00:00"
+        },
+        {
+          "id": "f9e72df2eec64ca8",
+          "title": "'I just want to scream!' How foreigners in Sweden feel about the government drama",
+          "summary": "After almost 60 days without a new government, there's suddenly a flurry of activity among Swedish party leaders. We asked The Local’s readers how you feel about this nail-biter.",
+          "link": "https://www.thelocal.se/20261112/i-just-want-to-scream-how-foreigners-in-sweden-feel-about-the-government-drama",
+          "source": "The Local Sweden",
+          "published": "2026-11-12T10:18:25+00:00"
+        },
+        {
+          "id": "62c4e21729994d21",
+          "title": "Sweden changes constitution to allow revoking citizenship of dual nationals",
+          "summary": "Sweden's parliament has approved a constitutional change to allow the citizenship of dual nationals to be revoked if they obtained it fraudulently or were convicted of crimes threatening national interests.",
+          "link": "https://www.thelocal.se/20261112/sweden-changes-constitution-to-allow-revoking-citizenship-of-dual-nationals",
+          "source": "The Local Sweden",
+          "published": "2026-11-12T08:46:23+00:00"
+        },
+        {
+          "id": "50be29ea6b68031e",
+          "title": "Sweden puts big spendings on ice as government presents caretaker budget",
+          "summary": "Swedish Finance Minister Elisabeth Svantesson of the Moderate Party is presenting her caretaker budget bill for 2027 today.",
+          "link": "https://www.thelocal.se/20261112/sweden-puts-big-spendings-on-ice-as-government-presents-caretaker-budget",
+          "source": "The Local Sweden",
+          "published": "2026-11-12T08:33:50+00:00"
+        },
         {
           "id": "db1432c438d13331",
           "title": "Social Democrats meet Left Party and Centre Party for talks on Swedish government",
@@ -133,38 +165,6 @@
           "link": "https://www.thelocal.se/20261031/a-lot-of-arguing-to-be-done-whats-at-stake-in-the-upcoming-eu-uk-summit",
           "source": "The Local Sweden",
           "published": "2026-10-31T10:36:08+00:00"
-        },
-        {
-          "id": "56a3202ea611a8c3",
-          "title": "OPINION: One Sweden, one 'folk'?",
-          "summary": "Some Sweden Democrats think the only true Swedes are those who can trace back their ancestry to the dawn of time. It's an extreme idea that collapses under its own contradictions, argues The Local's James Savage.",
-          "link": "https://www.thelocal.se/20261030/opinion-one-sweden-one-folk",
-          "source": "The Local Sweden",
-          "published": "2026-10-30T16:47:16+00:00"
-        },
-        {
-          "id": "23927a707d8aa20f",
-          "title": "Sweden Democrat leader backs 'open Swedishness' amid high-profile party clash",
-          "summary": "Sweden Democrat leader Jimmie Åkesson has waded into an ongoing internal party row over what defines Swedish identity.",
-          "link": "https://www.thelocal.se/20261030/sweden-democrat-leader-backs-open-swedishness-amid-high-profile-party-clash",
-          "source": "The Local Sweden",
-          "published": "2026-10-30T11:47:15+00:00"
-        },
-        {
-          "id": "4ca8f4f5612d1bd6",
-          "title": "Swedish parliamentary speaker picks Centre Party leader as next PM candidate",
-          "summary": "Centre Party leader Elisabeth Thand Ringqvist is set to face a parliamentary confirmation vote to become Sweden's next prime minister, the speaker of parliament has announced.",
-          "link": "https://www.thelocal.se/20261029/swedish-parliamentary-speaker-announces-next-steps-in-government-deadlock",
-          "source": "The Local Sweden",
-          "published": "2026-10-29T14:08:16+00:00"
-        },
-        {
-          "id": "47283d458d9bc28f",
-          "title": "New poll shows Sweden's Moderate Party just behind Social Democrats",
-          "summary": "Sweden's Social Democrats have been the largest party in the country for a hundred years. But according to a new opinion poll, the Moderates are closing in.",
-          "link": "https://www.thelocal.se/20261029/new-poll-shows-swedens-moderate-party-just-behind-social-democrats",
-          "source": "The Local Sweden",
-          "published": "2026-10-29T12:12:58+00:00"
         }
       ]
     },
@@ -173,6 +173,14 @@
       "label": "Immigration & Citizenship",
       "count": 20,
       "articles": [
+        {
+          "id": "62c4e21729994d21",
+          "title": "Sweden changes constitution to allow revoking citizenship of dual nationals",
+          "summary": "Sweden's parliament has approved a constitutional change to allow the citizenship of dual nationals to be revoked if they obtained it fraudulently or were convicted of crimes threatening national interests.",
+          "link": "https://www.thelocal.se/20261112/sweden-changes-constitution-to-allow-revoking-citizenship-of-dual-nationals",
+          "source": "The Local Sweden",
+          "published": "2026-11-12T08:46:23+00:00"
+        },
         {
           "id": "38999c4fe3c0c8da",
           "title": "Parliament to vote on revoking citizenship for 'crimes that harm Sweden's vital interests'",
@@ -324,14 +332,6 @@
           "link": "https://www.thelocal.se/20261006/swedens-centre-left-parties-agree-on-halting-teen-deportations",
           "source": "The Local Sweden",
           "published": "2026-10-06T14:18:38+00:00"
-        },
-        {
-          "id": "118902b8d952a9d8",
-          "title": "'But what are the rules?': My interview with the Swedish Migration Agency's legal chief",
-          "summary": "When Richard Orange was granted an interview on Brexit rules with the Migration Agency's legal chief on his fourth attempt, it didn't exactly go as planned. But according to EU lawyers it nonetheless revealed flaws in the agency's grasp of EU law.",
-          "link": "https://www.thelocal.se/20261002/but-what-are-the-rules-my-interview-with-the-swedish-migration-agencys-legal-chief",
-          "source": "The Local Sweden",
-          "published": "2026-10-02T09:56:46+00:00"
         }
       ]
     },
