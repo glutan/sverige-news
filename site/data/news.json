@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-11-13T02:26:46.990224+00:00",
+  "generated_at": "2026-11-13T11:55:37.588009+00:00",
   "categories": [
     {
       "id": "politics",
       "label": "National Politics & Law",
       "count": 20,
       "articles": [
+        {
+          "id": "4dcb6c131e7be09d",
+          "title": "Swedish party leaders race to meet Centre Party's coalition deadline",
+          "summary": "Sweden's Social Democrats and Moderates are set to present their government proposals to the Centre Party today, in a last-ditch attempt to win them over to their side.",
+          "link": "https://www.thelocal.se/20261113/swedish-party-leaders-race-to-meet-centre-partys-coalition-deadline",
+          "source": "The Local Sweden",
+          "published": "2026-11-13T10:55:11+00:00"
+        },
+        {
+          "id": "946ed6df2effd56b",
+          "title": "Can you form a Swedish government? A Very Useful decision tree from The Local",
+          "summary": "As the process to form a Swedish government drags on past the two-month mark, The Local decided we could all use a bit of comic relief.",
+          "link": "https://www.thelocal.se/20261113/can-you-form-a-swedish-government-a-decision-tree-from-the-local",
+          "source": "The Local Sweden",
+          "published": "2026-11-13T10:14:23+00:00"
+        },
+        {
+          "id": "3e83e45b9f9b0fbc",
+          "title": "Blame game over dwindling chance to stop Sweden's unfair deportations",
+          "summary": "A bitter blame game has erupted between leading Left Party and Centre Party MPs, with each accusing the other of squandering a chance to stop unfair deportations by blocking a Magdalena Andersson government.",
+          "link": "https://www.thelocal.se/20261113/blame-game-over-missed-chance-to-stop-swedens-unfair-deportations",
+          "source": "The Local Sweden",
+          "published": "2026-11-13T07:46:42+00:00"
+        },
         {
           "id": "0a384f6202856dd6",
           "title": "Sweden's Centre Party sets deadline for Left Party to drop ministerial demands",
@@ -135,36 +159,12 @@
           "published": "2026-11-03T16:27:42+00:00"
         },
         {
-          "id": "073292458500b2b1",
-          "title": "Sweden's outgoing PM Ulf Kristersson to try to form a new government",
-          "summary": "Sweden's outgoing conservative prime minister Ulf Kristersson has been tasked with trying to form a new government amid a political deadlock more than seven weeks after the country's general election.",
-          "link": "https://www.thelocal.se/20261103/swedens-outgoing-pm-ulf-kristersson-to-try-to-form-a-new-government",
-          "source": "The Local Sweden",
-          "published": "2026-11-03T16:02:16+00:00"
-        },
-        {
-          "id": "f12edd3b07a84cf1",
-          "title": "Swedish parliament rejects Centre Party leader as next prime minister",
-          "summary": "The Swedish parliament has, as expected, voted against Centre Party leader Elisabeth Thand Ringqvist as prime minister. Moderate Party leader Ulf Kristersson will now get the next shot at forming a government.",
-          "link": "https://www.thelocal.se/20261103/swedish-parliament-rejects-centre-party-leader-as-next-prime-minister",
-          "source": "The Local Sweden",
-          "published": "2026-11-03T13:46:38+00:00"
-        },
-        {
           "id": "18bd7eafe259d65b",
           "title": "What happens next in the process to form a Swedish government?",
           "summary": "It's over 50 days since Sweden's election and formally at least, the political parties have not moved even the tiniest step closer to forming a government. Here's what happens next.",
           "link": "https://www.thelocal.se/20261102/second-vote-what-happens-next-in-swedens-government-formation-process",
           "source": "The Local Sweden",
           "published": "2026-11-02T15:04:54+00:00"
-        },
-        {
-          "id": "f95ee6ac331140f3",
-          "title": "'It will not happen': Top Centre Party MP rules out Sweden Democrat deal",
-          "summary": "Martin Ådahl, economics spokesperson for the Centre Party, has ruled out any deal which will see his party support a right-wing government dependent on the far-right Sweden Democrats, telling The Local simply that \"it will not happen'.",
-          "link": "https://www.thelocal.se/20261102/it-will-not-happen-top-centre-party-mp-rules-out-sweden-democrat-deal",
-          "source": "The Local Sweden",
-          "published": "2026-11-02T10:34:04+00:00"
         }
       ]
     },
@@ -173,6 +173,22 @@
       "label": "Immigration & Citizenship",
       "count": 20,
       "articles": [
+        {
+          "id": "ca6cd6ad516c1eaa",
+          "title": "EXPLAINED: When do you have to leave Sweden to change permit type?",
+          "summary": "The Local has reported on several cases recently where foreigners have been forced to leave Sweden to apply for a residency permit on new grounds. Here are the rules to the best of our understanding.",
+          "link": "https://www.thelocal.se/20261113/explained-when-do-you-have-to-leave-sweden-to-change-permit-type",
+          "source": "The Local Sweden",
+          "published": "2026-11-13T09:02:13+00:00"
+        },
+        {
+          "id": "3e83e45b9f9b0fbc",
+          "title": "Blame game over dwindling chance to stop Sweden's unfair deportations",
+          "summary": "A bitter blame game has erupted between leading Left Party and Centre Party MPs, with each accusing the other of squandering a chance to stop unfair deportations by blocking a Magdalena Andersson government.",
+          "link": "https://www.thelocal.se/20261113/blame-game-over-missed-chance-to-stop-swedens-unfair-deportations",
+          "source": "The Local Sweden",
+          "published": "2026-11-13T07:46:42+00:00"
+        },
         {
           "id": "62c4e21729994d21",
           "title": "Sweden changes constitution to allow revoking citizenship of dual nationals",
@@ -316,22 +332,6 @@
           "link": "https://www.thelocal.se/20261007/lawyer-warns-swedens-safety-valve-could-lead-to-new-teen-deportations",
           "source": "The Local Sweden",
           "published": "2026-10-07T16:10:23+00:00"
-        },
-        {
-          "id": "4b4759df14e9bae0",
-          "title": "Sweden's migration minister pledges long-term solution to teen deportations",
-          "summary": "The Swedish government wants to make permanent new temporary legislation aimed at stopping teenage deportations.",
-          "link": "https://www.thelocal.se/20261006/swedens-migration-minister-pledges-long-term-solution-to-teen-deportations",
-          "source": "The Local Sweden",
-          "published": "2026-10-06T15:01:57+00:00"
-        },
-        {
-          "id": "c0e7f5b9e11abd0a",
-          "title": "Sweden's centre-left parties agree on halting teen deportations",
-          "summary": "Sweden's centre-left parties have reached an agreement on emergency legislation to halt teenage deportations.",
-          "link": "https://www.thelocal.se/20261006/swedens-centre-left-parties-agree-on-halting-teen-deportations",
-          "source": "The Local Sweden",
-          "published": "2026-10-06T14:18:38+00:00"
         }
       ]
     },
