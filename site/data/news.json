@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-11-15T19:36:26.784978+00:00",
+  "generated_at": "2026-11-15T23:48:57.191264+00:00",
   "categories": [
     {
       "id": "politics",
       "label": "National Politics & Law",
       "count": 20,
       "articles": [
+        {
+          "id": "cd2b23d2cbd5b580",
+          "title": "Sweden's Centre Party picks Social Democrats in government negotiations",
+          "summary": "Sweden's Centre Party has chosen to continue negotiating with the centre-left parties in the hope of forming a government, party leader Elisabeth Thand Ringqvist announced late on Sunday.",
+          "link": "https://www.thelocal.se/20261115/swedens-centre-party-picks-social-democrats-in-government-negotiations",
+          "source": "The Local Sweden",
+          "published": "2026-11-15T19:51:11+00:00"
+        },
         {
           "id": "cddb62533fa4f6ff",
           "title": "How integration policies are becoming more stringent across Europe",
@@ -157,14 +165,6 @@
           "link": "https://www.thelocal.se/20261106/sweden-democrat-leader-to-give-update-on-ministerial-posts",
           "source": "The Local Sweden",
           "published": "2026-11-06T07:43:20+00:00"
-        },
-        {
-          "id": "558fe2334fca9dda",
-          "title": "Member Q&A: When will Sweden get a new government?",
-          "summary": "Sweden doesn't have a new government yet, more than 50 days after the election. When will it get one? The Local's editor answered readers' questions.",
-          "link": "https://www.thelocal.se/20261103/member-qa-what-do-you-want-to-know-about-swedens-government-saga",
-          "source": "The Local Sweden",
-          "published": "2026-11-03T16:27:42+00:00"
         }
       ]
     },
