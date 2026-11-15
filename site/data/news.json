@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-11-15T05:18:52.103548+00:00",
+  "generated_at": "2026-11-15T13:36:13.418360+00:00",
   "categories": [
     {
       "id": "politics",
       "label": "National Politics & Law",
       "count": 20,
       "articles": [
+        {
+          "id": "cddb62533fa4f6ff",
+          "title": "How integration policies are becoming more stringent across Europe",
+          "summary": "Citizenship policy is increasingly used by governments in rich countries to define migrants’ “integration expectations,” according to a landmark report on international migration.",
+          "link": "https://www.thelocal.se/20261115/how-integration-policies-are-becoming-more-stringent-across-europe",
+          "source": "The Local Sweden",
+          "published": "2026-11-15T13:34:10+00:00"
+        },
         {
           "id": "4dcb6c131e7be09d",
           "title": "Swedish party leaders race to meet Centre Party's coalition deadline",
@@ -157,14 +165,6 @@
           "link": "https://www.thelocal.se/20261103/member-qa-what-do-you-want-to-know-about-swedens-government-saga",
           "source": "The Local Sweden",
           "published": "2026-11-03T16:27:42+00:00"
-        },
-        {
-          "id": "18bd7eafe259d65b",
-          "title": "What happens next in the process to form a Swedish government?",
-          "summary": "It's over 50 days since Sweden's election and formally at least, the political parties have not moved even the tiniest step closer to forming a government. Here's what happens next.",
-          "link": "https://www.thelocal.se/20261102/second-vote-what-happens-next-in-swedens-government-formation-process",
-          "source": "The Local Sweden",
-          "published": "2026-11-02T15:04:54+00:00"
         }
       ]
     },
@@ -173,6 +173,14 @@
       "label": "Immigration & Citizenship",
       "count": 20,
       "articles": [
+        {
+          "id": "cddb62533fa4f6ff",
+          "title": "How integration policies are becoming more stringent across Europe",
+          "summary": "Citizenship policy is increasingly used by governments in rich countries to define migrants’ “integration expectations,” according to a landmark report on international migration.",
+          "link": "https://www.thelocal.se/20261115/how-integration-policies-are-becoming-more-stringent-across-europe",
+          "source": "The Local Sweden",
+          "published": "2026-11-15T13:34:10+00:00"
+        },
         {
           "id": "ca6cd6ad516c1eaa",
           "title": "EXPLAINED: When do you have to leave Sweden to change permit type?",
@@ -324,14 +332,6 @@
           "link": "https://www.thelocal.se/20261007/qa-how-will-swedens-new-family-immigration-law-affect-researchers",
           "source": "The Local Sweden",
           "published": "2026-10-07T16:36:47+00:00"
-        },
-        {
-          "id": "4bfadfb895f9f93a",
-          "title": "Lawyer warns Sweden's 'safety valve' could lead to new teen deportations",
-          "summary": "The bill Sweden's government has promoted as its solution to teen deportations has instead created a new group of young adults who risk being forced to leave Sweden, a lawyer has warned.",
-          "link": "https://www.thelocal.se/20261007/lawyer-warns-swedens-safety-valve-could-lead-to-new-teen-deportations",
-          "source": "The Local Sweden",
-          "published": "2026-10-07T16:10:23+00:00"
         }
       ]
     },
