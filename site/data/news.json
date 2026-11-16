@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-11-16T05:16:30.676422+00:00",
+  "generated_at": "2026-11-16T15:05:37.772306+00:00",
   "categories": [
     {
       "id": "politics",
       "label": "National Politics & Law",
       "count": 20,
       "articles": [
+        {
+          "id": "fd10e806e98c4f1f",
+          "title": "Social Democrats offer work permit overhaul in 135-point pitch to Centre Party",
+          "summary": "The Social Democrats have promised the Centre Party to scrap the restrictive work permit rules brought in by the Tidö government and bring an end to 'talent deportations' as part of a new 'strict but reasonable migration policy'.",
+          "link": "https://www.thelocal.se/20261116/social-democrats-promise-to-liberalise-swedens-work-permit-rules",
+          "source": "The Local Sweden",
+          "published": "2026-11-16T13:17:50+00:00"
+        },
+        {
+          "id": "2d97ec7bb32b081b",
+          "title": "What happens next in negotiations for Sweden's next PM?",
+          "summary": "It's 64 days since Sweden's general election and the auction the Centre Party launched ten days ago has not yielded a clear prime ministerial candidate. So are we back to square one? Here's what happens next in the process of choosing Sweden's next PM.",
+          "link": "https://www.thelocal.se/20261116/what-happens-next-in-negotiations-for-swedens-next-pm",
+          "source": "The Local Sweden",
+          "published": "2026-11-16T09:58:23+00:00"
+        },
+        {
+          "id": "529fc5c7083b310b",
+          "title": "Left Party stands firm on cabinet demand after Centre Party backs red-green bloc",
+          "summary": "The Centre Party has snubbed Moderate leader Ulf Kristersson in favour of Social Democrat leader Magdalena Andersson. But as far as negotiations are going, it's back to square one.",
+          "link": "https://www.thelocal.se/20261116/left-party-stands-firm-on-cabinet-demand-after-centre-party-backs-red-green-bloc",
+          "source": "The Local Sweden",
+          "published": "2026-11-16T09:06:03+00:00"
+        },
         {
           "id": "cd2b23d2cbd5b580",
           "title": "Sweden's Centre Party picks Social Democrats in government negotiations",
@@ -20,7 +44,7 @@
           "summary": "Citizenship policy is increasingly used by governments in rich countries to define migrants’ “integration expectations,” according to a landmark report on international migration.",
           "link": "https://www.thelocal.se/20261115/how-integration-policies-are-becoming-more-stringent-across-europe",
           "source": "The Local Sweden",
-          "published": "2026-11-15T13:34:10+00:00"
+          "published": "2026-11-15T14:34:10+00:00"
         },
         {
           "id": "4dcb6c131e7be09d",
@@ -135,36 +159,12 @@
           "published": "2026-11-09T14:51:26+00:00"
         },
         {
-          "id": "5e8886cb8c5b5a26",
-          "title": "How Sweden's parties have reacted to the latest political drama",
-          "summary": "The Sweden Democrats' bombshell decision to drop its demand for cabinet posts and the Centre Party's threat to switch sides sparked a flurry of activity from Sweden's political parties over the weekend. But what are the main players saying?",
-          "link": "https://www.thelocal.se/20261109/how-have-swedens-political-parties-reacted-to-the-latest-political-drama",
+          "id": "cd27eb34ef41749d",
+          "title": "'A lot of arguing to be done': What's at stake in the upcoming EU-UK summit?",
+          "summary": "Leaders of the EU and the UK will meet for a crucial summit on Friday, November 20th with a move towards closer cooperation on the table. But how much will be achieved given the differences and disagreements that exist?",
+          "link": "https://www.thelocal.se/20261031/a-lot-of-arguing-to-be-done-whats-at-stake-in-the-upcoming-eu-uk-summit",
           "source": "The Local Sweden",
-          "published": "2026-11-09T14:24:09+00:00"
-        },
-        {
-          "id": "f40540615a49dfd8",
-          "title": "How does the Sweden Democrats' decision to back Kristersson as PM change things?",
-          "summary": "Far right Sweden Democrat leader Jimmie Åkesson has announced that his party will unconditionally 'tolerate' Ulf Kristersson as prime minister and then go into opposition. What does this mean for the process of forming Sweden's next government?",
-          "link": "https://www.thelocal.se/20261106/what-does-the-sweden-democrats-decision-to-back-kristersson-as-pm-mean",
-          "source": "The Local Sweden",
-          "published": "2026-11-06T14:12:55+00:00"
-        },
-        {
-          "id": "9ec485a317bedca5",
-          "title": "'You're on your own': Sweden Democrats drop demands to allow Kristersson to be PM",
-          "summary": "Sweden Democrat leader Jimmie Åkesson has dropped his demand for cabinet posts, announcing his party is willing to tolerate Ulf Kristersson so he can become prime minister.",
-          "link": "https://www.thelocal.se/20261106/sweden-democrats-drop-minister-demand-say-they-will-be-in-opposition-until-2030",
-          "source": "The Local Sweden",
-          "published": "2026-11-06T12:46:53+00:00"
-        },
-        {
-          "id": "34f2fd542d51b092",
-          "title": "Sweden Democrat leader to give update on ministerial posts",
-          "summary": "Sweden Democrat leader Jimmie Åkesson is set to hold a press conference in his hometown of Sölvesborg around lunchtime today to address the ongoing government formation talks.",
-          "link": "https://www.thelocal.se/20261106/sweden-democrat-leader-to-give-update-on-ministerial-posts",
-          "source": "The Local Sweden",
-          "published": "2026-11-06T07:43:20+00:00"
+          "published": "2026-10-31T10:36:08+00:00"
         }
       ]
     },
@@ -174,12 +174,20 @@
       "count": 20,
       "articles": [
         {
+          "id": "fd10e806e98c4f1f",
+          "title": "Social Democrats offer work permit overhaul in 135-point pitch to Centre Party",
+          "summary": "The Social Democrats have promised the Centre Party to scrap the restrictive work permit rules brought in by the Tidö government and bring an end to 'talent deportations' as part of a new 'strict but reasonable migration policy'.",
+          "link": "https://www.thelocal.se/20261116/social-democrats-promise-to-liberalise-swedens-work-permit-rules",
+          "source": "The Local Sweden",
+          "published": "2026-11-16T13:17:50+00:00"
+        },
+        {
           "id": "cddb62533fa4f6ff",
           "title": "How integration policies are becoming more stringent across Europe",
           "summary": "Citizenship policy is increasingly used by governments in rich countries to define migrants’ “integration expectations,” according to a landmark report on international migration.",
           "link": "https://www.thelocal.se/20261115/how-integration-policies-are-becoming-more-stringent-across-europe",
           "source": "The Local Sweden",
-          "published": "2026-11-15T13:34:10+00:00"
+          "published": "2026-11-15T14:34:10+00:00"
         },
         {
           "id": "ca6cd6ad516c1eaa",
@@ -324,14 +332,6 @@
           "link": "https://www.thelocal.se/20261009/opinion-migrationsverket-is-not-fit-for-purpose-it-should-be-scrapped",
           "source": "The Local Sweden",
           "published": "2026-10-09T14:29:50+00:00"
-        },
-        {
-          "id": "4ecfc6366ff485ef",
-          "title": "Q&A: How will Sweden's new family immigration law affect researchers?",
-          "summary": "The previous Swedish government's law raising income requirements for foreigners with families in Sweden came into force on October 1st, 2026. The Local spoke to SULF, which represents higher education workers, about how researchers are affected.",
-          "link": "https://www.thelocal.se/20261007/qa-how-will-swedens-new-family-immigration-law-affect-researchers",
-          "source": "The Local Sweden",
-          "published": "2026-10-07T16:36:47+00:00"
         }
       ]
     },
