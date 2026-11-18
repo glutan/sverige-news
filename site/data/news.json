@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-11-18T03:21:36.570012+00:00",
+  "generated_at": "2026-11-18T12:43:44.660609+00:00",
   "categories": [
     {
       "id": "politics",
       "label": "National Politics & Law",
       "count": 20,
       "articles": [
+        {
+          "id": "92365d76794a20a6",
+          "title": "Church chapter pauses investigation into Swedish PM's wife, Birgitta Ed",
+          "summary": "The Chapter of the Diocese of Strängnäs is pausing its investigation into whether Birgitta Ed, the wife of acting Prime Minister Ulf Kristersson, is suitable to serve as a priest after questions surfaced about volunteers for her foundation receiving plum government jobs.",
+          "link": "https://www.thelocal.se/20261118/church-chapter-pauses-investigation-into-swedish-pms-wife-birgitta-ed",
+          "source": "The Local Sweden",
+          "published": "2026-11-18T12:30:56+00:00"
+        },
+        {
+          "id": "bc378a387471c2bf",
+          "title": "Sweden's Moderates overtake Social Democrats for first time in ten years",
+          "summary": "The right-wing Moderate Party has scored higher than the Social Democrats in an opinion poll for the first time in more than ten years as voters tire of the long wait to agree on a government.",
+          "link": "https://www.thelocal.se/20261118/swedens-moderates-overtake-social-democrats-for-first-time-in-ten-years",
+          "source": "The Local Sweden",
+          "published": "2026-11-18T10:49:45+00:00"
+        },
+        {
+          "id": "52a6008bdd0760dd",
+          "title": "Swedish parliament agrees on new 'pairing' agreement after citizenship vote breakdown",
+          "summary": "Six months after the previous agreement collapsed, causing chaos in Sweden's parliament, parliamentary leaders have finally agreed on a new 'pairing' agreement to allow MPs to be absent for votes without changing the chamber balance.",
+          "link": "https://www.thelocal.se/20261118/swedish-parliament-agrees-on-new-pairing-agreement-after-citizenship-vote-breakdown",
+          "source": "The Local Sweden",
+          "published": "2026-11-18T09:46:51+00:00"
+        },
         {
           "id": "fd10e806e98c4f1f",
           "title": "Social Democrats offer work permit overhaul in 135-point pitch to Centre Party",
@@ -135,30 +159,6 @@
           "published": "2026-11-10T13:08:30+00:00"
         },
         {
-          "id": "38999c4fe3c0c8da",
-          "title": "Parliament to vote on revoking citizenship for 'crimes that harm Sweden's vital interests'",
-          "summary": "Sweden's parliament is set to vote on Wednesday to change the constitution to make it possible for dual citizens convicted of 'crimes that seriously harm Sweden's vital interests' to be stripped of their Swedish citizenship.",
-          "link": "https://www.thelocal.se/20261110/parliament-to-vote-on-revoking-citizenship-for-crimes-that-harm-swedens-vital-interests",
-          "source": "The Local Sweden",
-          "published": "2026-11-10T12:41:20+00:00"
-        },
-        {
-          "id": "305ef5e2ce7301a5",
-          "title": "OPINION: Kristersson might be Centre's least illiberal option",
-          "summary": "On Friday, the Sweden Democrats dropped their demand for ministerial posts. The Left Party hasn’t budged on its own. Between them, they’ve given the Centre Party the cover it needs to back Ulf Kristersson as the least illiberal of two illiberal options, argues James Savage.",
-          "link": "https://www.thelocal.se/20261110/opinion-kristersson-might-be-centres-least-illiberal-option",
-          "source": "The Local Sweden",
-          "published": "2026-11-10T12:00:57+00:00"
-        },
-        {
-          "id": "7e14d88616251ac7",
-          "title": "Tell us: How do you feel about Sweden's government nail-biter?",
-          "summary": "More than 50 days after the election, Sweden's government negotiations are suddenly moving fast, with the Centre Party currently playing the role of king-maker. What do you think of it all?",
-          "link": "https://www.thelocal.se/20261109/tell-us-how-do-you-feel-about-swedens-government-nail-biter",
-          "source": "The Local Sweden",
-          "published": "2026-11-09T14:51:26+00:00"
-        },
-        {
           "id": "cd27eb34ef41749d",
           "title": "'A lot of arguing to be done': What's at stake in the upcoming EU-UK summit?",
           "summary": "Leaders of the EU and the UK will meet for a crucial summit on Friday, November 20th with a move towards closer cooperation on the table. But how much will be achieved given the differences and disagreements that exist?",
@@ -173,6 +173,14 @@
       "label": "Immigration & Citizenship",
       "count": 20,
       "articles": [
+        {
+          "id": "8b83372aab07b25e",
+          "title": "EXPLAINED: Who could lose Swedish citizenship after new constitution changes?",
+          "summary": "The Swedish parliament voted to amend Sweden's constitution to enable authorities to strip dual citizens of their Swedish citizenship in certain situations. Do we know what they are?",
+          "link": "https://www.thelocal.se/20261118/explained-who-could-lose-swedish-citizenship-after-new-constitution-changes",
+          "source": "The Local Sweden",
+          "published": "2026-11-18T09:36:24+00:00"
+        },
         {
           "id": "fd10e806e98c4f1f",
           "title": "Social Democrats offer work permit overhaul in 135-point pitch to Centre Party",
@@ -324,14 +332,6 @@
           "link": "https://www.thelocal.se/20261009/russian-ai-consultant-wins-appeal-under-swedens-new-citizenship-rules",
           "source": "The Local Sweden",
           "published": "2026-10-09T16:10:38+00:00"
-        },
-        {
-          "id": "46f5806dd764e782",
-          "title": "OPINION: Sweden's Migration Agency is not fit for purpose. It should be scrapped",
-          "summary": "An interview by the The Local's Richard Orange with the Migration Agency's legal chief about Sweden’s large number of deportations of British people makes for depressing reading. It demonstrates why the agency is no longer capable of doing its job and now needs to be replaced, argues James Savage.",
-          "link": "https://www.thelocal.se/20261009/opinion-migrationsverket-is-not-fit-for-purpose-it-should-be-scrapped",
-          "source": "The Local Sweden",
-          "published": "2026-10-09T14:29:50+00:00"
         }
       ]
     },
