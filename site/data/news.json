@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-11-19T12:34:21.120897+00:00",
+  "generated_at": "2026-11-19T21:59:10.348614+00:00",
   "categories": [
     {
       "id": "politics",
       "label": "National Politics & Law",
       "count": 20,
       "articles": [
+        {
+          "id": "01a3169d5a0c5b5e",
+          "title": "ANALYSIS: Eight reasons why Sweden's Left Party is stubbornly sticking to its guns",
+          "summary": "Why, you might wonder, is Sweden's Left Party so determined to get a ministerial position in the next government that it seems willing to risk a new election or even another four years of right-wing rule? Well, here's why.",
+          "link": "https://www.thelocal.se/20261119/eight-reasons-why-swedens-left-party-has-an-attitude-problem",
+          "source": "The Local Sweden",
+          "published": "2026-11-19T14:05:04+00:00"
+        },
         {
           "id": "947bfc6eb5febac6",
           "title": "Church chapter pauses investigation into Swedish PM's wife",
@@ -151,20 +159,12 @@
           "published": "2026-11-11T10:23:58+00:00"
         },
         {
-          "id": "34a96d11c192a213",
-          "title": "'Things are in motion': Magdalena Andersson offers to step up as Sweden's third PM vote looms",
-          "summary": "Social Democrat leader Magdalena Andersson has said that she is ready to again try to form a government – but needs more time.",
-          "link": "https://www.thelocal.se/20261110/things-are-in-motion-magdalena-andersson-offers-to-step-up-as-third-pm-vote-looms",
-          "source": "The Local Sweden",
-          "published": "2026-11-10T13:08:30+00:00"
-        },
-        {
           "id": "8525a7f3197e733b",
           "title": "What's at stake in this week's post-Brexit EU-UK summit?",
           "summary": "Leaders of the EU and the UK will meet for a crucial summit on Friday, November 20th with a move towards closer cooperation on the table. But how much will be achieved given the differences and disagreements that exist?",
           "link": "https://www.thelocal.se/20261031/a-lot-of-arguing-to-be-done-whats-at-stake-in-the-upcoming-eu-uk-summit",
           "source": "The Local Sweden",
-          "published": "2026-10-31T09:36:08+00:00"
+          "published": "2026-10-31T10:36:08+00:00"
         }
       ]
     },
@@ -173,6 +173,14 @@
       "label": "Immigration & Citizenship",
       "count": 20,
       "articles": [
+        {
+          "id": "23e15b7858629170",
+          "title": "Swedish Migration Agency rolls out new logo with coat of arms",
+          "summary": "Wondering where that red arc went? The Swedish Migration Agency's old logo is history, as it moves to put its new logo, featuring the agency's connection to the Swedish state, in more places.",
+          "link": "https://www.thelocal.se/20261119/swedish-migration-agency-rolls-out-new-logo-with-coat-of-arms",
+          "source": "The Local Sweden",
+          "published": "2026-11-19T17:37:02+00:00"
+        },
         {
           "id": "8b83372aab07b25e",
           "title": "EXPLAINED: Who could lose Swedish citizenship after new constitution changes?",
@@ -300,14 +308,6 @@
           "link": "https://www.thelocal.se/20261019/foreign-ssab-workers-released-as-dutch-lawyer-slams-swedish-site-raid",
           "source": "The Local Sweden",
           "published": "2026-10-19T11:34:52+00:00"
-        },
-        {
-          "id": "757ced1df2eae13f",
-          "title": "All Swedish parties back emergency freeze on teen deportations",
-          "summary": "All parties in the Swedish parliament are backing a proposal to introduce emergency legislation halting the so-called 'teen deportations'. However, bringing the new law into force could take time.",
-          "link": "https://www.thelocal.se/20261013/all-swedish-parties-back-emergency-freeze-on-teen-deportations",
-          "source": "The Local Sweden",
-          "published": "2026-10-13T15:29:17+00:00"
         },
         {
           "id": "20a93a98aa7fe9c6",
