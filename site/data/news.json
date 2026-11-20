@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T12:34:03.108638+00:00",
+  "generated_at": "2026-11-20T21:41:28.742961+00:00",
   "categories": [
     {
       "id": "politics",
@@ -7,9 +7,17 @@
       "count": 20,
       "articles": [
         {
-          "id": "e55e364e0fe0b3c9",
-          "title": "Leaders of Sweden's red-green parties in round-the-clock talks at 'undisclosed location'",
-          "summary": "The leaders of Sweden's so-called 'red-green' parties were negotiating under tight time constraints in an undisclosed location on Friday, in a bid to resolve the question of forming a government.",
+          "id": "d71b57a1e7c13e5d",
+          "title": "'Shameful': Swedish citizenship applicants outraged by 'pairing' deal",
+          "summary": "Sweden's parliamentary leaders have agreed on a new 'pairing' agreement to allow MPs to be absent for votes without changing the chamber balance. But for those who were caught in the crossfire of the previous agreement's collapse, the most important element is missing.",
+          "link": "https://www.thelocal.se/20261120/shameful-swedish-citizenship-applicants-outraged-by-pairing-deal",
+          "source": "The Local Sweden",
+          "published": "2026-11-20T14:23:28+00:00"
+        },
+        {
+          "id": "518f498e2add384b",
+          "title": "Sweden's Centre and Left parties blame each other as round-the-clock talks end in deadlock",
+          "summary": "Negotiations between Sweden's so-called 'red-green' parties remained deadlocked on Friday afternoon, as the four parties continued talks on forming a new government under tight time constraints at an undisclosed location.",
           "link": "https://www.thelocal.se/20261120/leaders-of-swedens-red-green-parties-in-round-the-clock-talks-at-undisclosed-location",
           "source": "The Local Sweden",
           "published": "2026-11-20T11:26:42+00:00"
@@ -63,20 +71,20 @@
           "published": "2026-11-16T14:17:50+00:00"
         },
         {
-          "id": "2d97ec7bb32b081b",
-          "title": "What happens next in negotiations for Sweden's next PM?",
-          "summary": "It's 64 days since Sweden's general election and the auction the Centre Party launched ten days ago has not yielded a clear prime ministerial candidate. So are we back to square one? Here's what happens next in the process of choosing Sweden's next PM.",
-          "link": "https://www.thelocal.se/20261116/what-happens-next-in-negotiations-for-swedens-next-pm",
-          "source": "The Local Sweden",
-          "published": "2026-11-16T10:58:23+00:00"
-        },
-        {
           "id": "529fc5c7083b310b",
           "title": "Left Party stands firm on cabinet demand after Centre Party backs red-green bloc",
           "summary": "The Centre Party has snubbed Moderate leader Ulf Kristersson in favour of Social Democrat leader Magdalena Andersson. But as far as negotiations are going, it's back to square one.",
           "link": "https://www.thelocal.se/20261116/left-party-stands-firm-on-cabinet-demand-after-centre-party-backs-red-green-bloc",
           "source": "The Local Sweden",
           "published": "2026-11-16T10:06:03+00:00"
+        },
+        {
+          "id": "2d97ec7bb32b081b",
+          "title": "What happens next in negotiations for Sweden's next PM?",
+          "summary": "It's 64 days since Sweden's general election and the auction the Centre Party launched ten days ago has not yielded a clear prime ministerial candidate. So are we back to square one? Here's what happens next in the process of choosing Sweden's next PM.",
+          "link": "https://www.thelocal.se/20261116/what-happens-next-in-negotiations-for-swedens-next-pm",
+          "source": "The Local Sweden",
+          "published": "2026-11-16T09:58:23+00:00"
         },
         {
           "id": "cd2b23d2cbd5b580",
@@ -157,14 +165,6 @@
           "link": "https://www.thelocal.se/20261111/opinion-is-swedens-centre-party-about-to-betray-foreign-born-voters",
           "source": "The Local Sweden",
           "published": "2026-11-11T10:23:58+00:00"
-        },
-        {
-          "id": "4d648a1ef7db6616",
-          "title": "What's at stake in Friday's crunch post-Brexit EU-UK summit?",
-          "summary": "Leaders of the EU and the UK will meet for a crucial summit on Friday, November 20th with a move towards closer cooperation on the table. But how much will be achieved given the differences and disagreements that exist?",
-          "link": "https://www.thelocal.se/20261031/a-lot-of-arguing-to-be-done-whats-at-stake-in-the-upcoming-eu-uk-summit",
-          "source": "The Local Sweden",
-          "published": "2026-10-31T09:36:08+00:00"
         }
       ]
     },
@@ -173,6 +173,14 @@
       "label": "Immigration & Citizenship",
       "count": 20,
       "articles": [
+        {
+          "id": "cec187c661c6d11a",
+          "title": "'No idea why': Foreigners in Sweden face investigations into revoking permanent residency",
+          "summary": "More and more foreigners in Sweden are receiving letters from the Migration Agency warning that their permanent residence permits could be revoked. The Local investigates the government directives and agency initiatives behind the surge in revocations.",
+          "link": "https://www.thelocal.se/20261120/no-idea-why-foreigners-in-sweden-face-investigations-into-revoking-permanent-residency",
+          "source": "The Local Sweden",
+          "published": "2026-11-20T14:42:10+00:00"
+        },
         {
           "id": "23e15b7858629170",
           "title": "Swedish Migration Agency rolls out new logo with coat of arms",
@@ -316,14 +324,6 @@
           "link": "https://www.thelocal.se/20261013/swedish-mp-seeks-to-apply-old-rules-to-all-pre-june-6th-citizenship-applicants",
           "source": "The Local Sweden",
           "published": "2026-10-13T15:29:04+00:00"
-        },
-        {
-          "id": "7d25741b2e41cea1",
-          "title": "How Sweden's 'new majority' can already move on deportations and citizenship",
-          "summary": "The Green Party's top MP Annika Hirvonen has started the new parliamentary term with a flurry of initiatives on teen deportations. She tells The Local how she hopes a new majority will allow action on citizenship and Brexit deportations too.",
-          "link": "https://www.thelocal.se/20261013/how-swedens-new-majority-can-already-move-on-deportations-and-citizenship",
-          "source": "The Local Sweden",
-          "published": "2026-10-13T12:47:24+00:00"
         },
         {
           "id": "f736e95b676f7019",
