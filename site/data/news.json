@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-11-21T12:13:55.641153+00:00",
+  "generated_at": "2026-11-21T20:23:22.636542+00:00",
   "categories": [
     {
       "id": "politics",
       "label": "National Politics & Law",
       "count": 20,
       "articles": [
+        {
+          "id": "5e83f134c1433706",
+          "title": "EU proposes tax on Big Tech to boost budget",
+          "summary": "The EU put forward plans to tax the world's biggest digital companies to fund its next budget Saturday, as it seeks to bridge divisions among member states over the bloc's long-term funding.",
+          "link": "https://www.thelocal.se/20261121/eu-proposes-tax-on-big-tech-to-boost-budget",
+          "source": "The Local Sweden",
+          "published": "2026-11-21T13:01:56+00:00"
+        },
         {
           "id": "d71b57a1e7c13e5d",
           "title": "'Shameful': Swedish citizenship applicants outraged by 'pairing' deal",
@@ -151,20 +159,12 @@
           "published": "2026-11-12T11:18:25+00:00"
         },
         {
-          "id": "62c4e21729994d21",
-          "title": "Sweden changes constitution to allow revoking citizenship of dual nationals",
-          "summary": "Sweden's parliament has approved a constitutional change to allow the citizenship of dual nationals to be revoked if they obtained it fraudulently or were convicted of crimes threatening national interests.",
-          "link": "https://www.thelocal.se/20261112/sweden-changes-constitution-to-allow-revoking-citizenship-of-dual-nationals",
-          "source": "The Local Sweden",
-          "published": "2026-11-12T09:46:23+00:00"
-        },
-        {
           "id": "88473c88d0b891f5",
           "title": "OPINION: Sweden's Centre Party is betraying foreign-born voters",
           "summary": "The Centre Party won the trust of foreign-born voters by promising to stand up for their rights and deny the Sweden Democrats political influence. If it abandons these central election pledges, many will see it as a betrayal they will never forget, Richard Orange argues.",
           "link": "https://www.thelocal.se/20261111/opinion-is-swedens-centre-party-about-to-betray-foreign-born-voters",
           "source": "The Local Sweden",
-          "published": "2026-11-11T10:23:58+00:00"
+          "published": "2026-11-11T09:23:58+00:00"
         }
       ]
     },
