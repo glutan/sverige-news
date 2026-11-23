@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-11-23T06:15:24.661185+00:00",
+  "generated_at": "2026-11-23T19:55:09.010249+00:00",
   "categories": [
     {
       "id": "politics",
       "label": "National Politics & Law",
       "count": 20,
       "articles": [
+        {
+          "id": "810afb6c7b551b9e",
+          "title": "Swedish parties pledge citizenship transition rules in final offer to Left Party",
+          "summary": "The Social Democrats, Green Party and Centre Party have agreed to bring back transitional rules for citizenship in one of the 18 policy proposals offered to the Left Party as part of the price for backing Social Democrat leader Magdalena Andersson as prime minister.",
+          "link": "https://www.thelocal.se/20261123/swedish-parties-pledge-citizenship-transition-rules-in-final-offer-to-left-party",
+          "source": "The Local Sweden",
+          "published": "2026-11-23T14:29:15+00:00"
+        },
+        {
+          "id": "a0efe571dd2a1218",
+          "title": "EXPLAINED: What's in the 'last chance' offer to Sweden's Left Party?",
+          "summary": "In a 'starter pack', the Social Democrats, Green Party and Centre Party offered the Left Party a place in an inner cabinet, 18 policy proposals including an end to unfair deportations, transitional provisions for citizenship... and an apology.",
+          "link": "https://www.thelocal.se/20261123/explainer-whats-in-the-last-chance-offer-to-swedens-left-party",
+          "source": "The Local Sweden",
+          "published": "2026-11-23T13:37:56+00:00"
+        },
+        {
+          "id": "7037ab9e1026ab61",
+          "title": "Centre Party districts open to talks on forming right-wing Swedish government",
+          "summary": "Centre Party heavyweights have said they are open to negotiations over a right-wing government after the party's deputy leader gave the Left Party one day to accept a final offer.",
+          "link": "https://www.thelocal.se/20261123/centre-partys-largest-district-opens-up-to-launching-talks-on-right-wing-swedish-government",
+          "source": "The Local Sweden",
+          "published": "2026-11-23T10:27:19+00:00"
+        },
         {
           "id": "5e83f134c1433706",
           "title": "EU proposes tax on Big Tech to boost budget",
@@ -135,30 +159,6 @@
           "published": "2026-11-13T08:46:42+00:00"
         },
         {
-          "id": "0a384f6202856dd6",
-          "title": "Sweden's Centre Party sets deadline for Left Party to drop ministerial demands",
-          "summary": "The Centre Party has hit back at the Left Party's ultimatum by throwing down its own gauntlet – giving it a deadline to announce whether it is willing to drop its demand for cabinet seats.",
-          "link": "https://www.thelocal.se/20261112/swedens-centre-party-sets-deadline-for-left-party-to-drop-ministerial-demands",
-          "source": "The Local Sweden",
-          "published": "2026-11-12T15:57:24+00:00"
-        },
-        {
-          "id": "1a24a319ae72bca2",
-          "title": "'Historic decision': Left Party demands Centre Party pick a side in Swedish government talks",
-          "summary": "UPDATED: Sweden's Left Party will be ready to negotiate with the Centre Party, its leader Nooshi Dadgostar announced at a hastily called press conference, but didn't immediately drop her party's demand for cabinet seats.",
-          "link": "https://www.thelocal.se/20261112/breaking-left-party-demands-centre-party-pick-a-side-in-swedish-government-talks",
-          "source": "The Local Sweden",
-          "published": "2026-11-12T11:57:21+00:00"
-        },
-        {
-          "id": "f9e72df2eec64ca8",
-          "title": "'I just want to scream!' How foreigners in Sweden feel about the government drama",
-          "summary": "After almost 60 days without a new government, there's suddenly a flurry of activity among Swedish party leaders. We asked The Local’s readers how you feel about this nail-biter.",
-          "link": "https://www.thelocal.se/20261112/i-just-want-to-scream-how-foreigners-in-sweden-feel-about-the-government-drama",
-          "source": "The Local Sweden",
-          "published": "2026-11-12T11:18:25+00:00"
-        },
-        {
           "id": "88473c88d0b891f5",
           "title": "OPINION: Sweden's Centre Party is betraying foreign-born voters",
           "summary": "The Centre Party won the trust of foreign-born voters by promising to stand up for their rights and deny the Sweden Democrats political influence. If it abandons these central election pledges, many will see it as a betrayal they will never forget, Richard Orange argues.",
@@ -173,6 +173,14 @@
       "label": "Immigration & Citizenship",
       "count": 20,
       "articles": [
+        {
+          "id": "810afb6c7b551b9e",
+          "title": "Swedish parties pledge citizenship transition rules in final offer to Left Party",
+          "summary": "The Social Democrats, Green Party and Centre Party have agreed to bring back transitional rules for citizenship in one of the 18 policy proposals offered to the Left Party as part of the price for backing Social Democrat leader Magdalena Andersson as prime minister.",
+          "link": "https://www.thelocal.se/20261123/swedish-parties-pledge-citizenship-transition-rules-in-final-offer-to-left-party",
+          "source": "The Local Sweden",
+          "published": "2026-11-23T14:29:15+00:00"
+        },
         {
           "id": "cec187c661c6d11a",
           "title": "'No idea why': Foreigners in Sweden face investigations into revoking permanent residency",
@@ -316,14 +324,6 @@
           "link": "https://www.thelocal.se/20261019/foreign-ssab-workers-released-as-dutch-lawyer-slams-swedish-site-raid",
           "source": "The Local Sweden",
           "published": "2026-10-19T11:34:52+00:00"
-        },
-        {
-          "id": "20a93a98aa7fe9c6",
-          "title": "Swedish MP seeks to apply old rules to all pre-June 6th citizenship applicants",
-          "summary": "UPDATED: The Centre Party is willing to consider a new plan by Green Party MP Annika Hirvonen to allow everyone who applied for Swedish citizenship before June 6th – including those whose application has already been rejected – to be assessed under the old rules.",
-          "link": "https://www.thelocal.se/20261013/swedish-mp-seeks-to-apply-old-rules-to-all-pre-june-6th-citizenship-applicants",
-          "source": "The Local Sweden",
-          "published": "2026-10-13T15:29:04+00:00"
         },
         {
           "id": "f736e95b676f7019",
