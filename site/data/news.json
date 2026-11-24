@@ -1,11 +1,43 @@
 {
-  "generated_at": "2026-11-24T04:39:09.205565+00:00",
+  "generated_at": "2026-11-24T17:05:55.903161+00:00",
   "categories": [
     {
       "id": "politics",
       "label": "National Politics & Law",
       "count": 20,
       "articles": [
+        {
+          "id": "6e3cda81ae03dba0",
+          "title": "'Inconceivable': Swedish Centre Party councillor blasts move for Kristersson deal",
+          "summary": "Christian Widlund, a city councillor for the Centre Party, who is one of the most outspoken opponents of his party being in a government dependent on the far-right Sweden Democrats, has told The Local there will be \"uproar\" if party backs Ulf Kristersson as PM.",
+          "link": "https://www.thelocal.se/20261124/time-to-fight-swedish-centre-party-councillor-blasts-move-for-kristersson-deal",
+          "source": "The Local Sweden",
+          "published": "2026-11-24T16:14:18+00:00"
+        },
+        {
+          "id": "4489313895ee9965",
+          "title": "Sweden's Moderate leader Ulf Kristersson 'prepared' to face prime ministerial vote",
+          "summary": "Moderate Party Ulf Kristersson has informed the speaker of parliament that he is ready for a vote on becoming prime minister.",
+          "link": "https://www.thelocal.se/20261124/swedens-moderate-leader-ulf-kristersson-prepared-to-face-prime-ministerial-vote",
+          "source": "The Local Sweden",
+          "published": "2026-11-24T10:42:26+00:00"
+        },
+        {
+          "id": "3390bbfc8e47acd4",
+          "title": "OPINION: Sweden's red-green parties are on the brink of a historic betrayal",
+          "summary": "More than 100,000 citizenship applicants were given reason to believe that Sweden would restore its commitment to fairness and the rule of law. That hope now risks becoming collateral damage in a shameful struggle for political power, writes Patrick Gallen, spokesperson for the Fair Transition campaign.",
+          "link": "https://www.thelocal.se/20261124/opinion-swedens-red-green-parties-are-on-the-brink-of-a-historic-betrayal",
+          "source": "The Local Sweden",
+          "published": "2026-11-24T09:38:57+00:00"
+        },
+        {
+          "id": "348723eacade5014",
+          "title": "Sweden's Centre Party to start talks to form right-wing government",
+          "summary": "Sweden's Centre Party has announced that it will now restart negotiations on backing Moderate Party leader Ulf Kristersson, after failing to reach agreement with the Left Party.",
+          "link": "https://www.thelocal.se/20261124/swedens-centre-party-to-start-talks-to-form-right-wing-government",
+          "source": "The Local Sweden",
+          "published": "2026-11-24T07:24:49+00:00"
+        },
         {
           "id": "810afb6c7b551b9e",
           "title": "Swedish parties pledge citizenship transition rules in final offer to Left Party",
@@ -15,8 +47,8 @@
           "published": "2026-11-23T14:29:15+00:00"
         },
         {
-          "id": "a0efe571dd2a1218",
-          "title": "EXPLAINED: What's in the 'last chance' offer to Sweden's Left Party?",
+          "id": "ff7846c8ece82be9",
+          "title": "EXPLAINED: What was in the 'last chance' offer to Sweden's Left Party?",
           "summary": "In a 'starter pack', the Social Democrats, Green Party and Centre Party offered the Left Party a place in an inner cabinet, 18 policy proposals including an end to unfair deportations, transitional provisions for citizenship... and an apology.",
           "link": "https://www.thelocal.se/20261123/explainer-whats-in-the-last-chance-offer-to-swedens-left-party",
           "source": "The Local Sweden",
@@ -133,38 +165,6 @@
           "link": "https://www.thelocal.se/20261115/how-integration-policies-are-becoming-more-stringent-across-europe",
           "source": "The Local Sweden",
           "published": "2026-11-15T14:34:10+00:00"
-        },
-        {
-          "id": "4dcb6c131e7be09d",
-          "title": "Swedish party leaders race to meet Centre Party's coalition deadline",
-          "summary": "Sweden's Social Democrats and Moderates are set to present their government proposals to the Centre Party today, in a last-ditch attempt to win them over to their side.",
-          "link": "https://www.thelocal.se/20261113/swedish-party-leaders-race-to-meet-centre-partys-coalition-deadline",
-          "source": "The Local Sweden",
-          "published": "2026-11-13T11:55:11+00:00"
-        },
-        {
-          "id": "946ed6df2effd56b",
-          "title": "Can you form a Swedish government? A Very Useful decision tree from The Local",
-          "summary": "As the process to form a Swedish government drags on past the two-month mark, The Local decided we could all use a bit of comic relief.",
-          "link": "https://www.thelocal.se/20261113/can-you-form-a-swedish-government-a-decision-tree-from-the-local",
-          "source": "The Local Sweden",
-          "published": "2026-11-13T11:14:23+00:00"
-        },
-        {
-          "id": "3e83e45b9f9b0fbc",
-          "title": "Blame game over dwindling chance to stop Sweden's unfair deportations",
-          "summary": "A bitter blame game has erupted between leading Left Party and Centre Party MPs, with each accusing the other of squandering a chance to stop unfair deportations by blocking a Magdalena Andersson government.",
-          "link": "https://www.thelocal.se/20261113/blame-game-over-missed-chance-to-stop-swedens-unfair-deportations",
-          "source": "The Local Sweden",
-          "published": "2026-11-13T08:46:42+00:00"
-        },
-        {
-          "id": "88473c88d0b891f5",
-          "title": "OPINION: Sweden's Centre Party is betraying foreign-born voters",
-          "summary": "The Centre Party won the trust of foreign-born voters by promising to stand up for their rights and deny the Sweden Democrats political influence. If it abandons these central election pledges, many will see it as a betrayal they will never forget, Richard Orange argues.",
-          "link": "https://www.thelocal.se/20261111/opinion-is-swedens-centre-party-about-to-betray-foreign-born-voters",
-          "source": "The Local Sweden",
-          "published": "2026-11-11T09:23:58+00:00"
         }
       ]
     },
@@ -461,12 +461,12 @@
           "published": "2023-06-21T10:32:18+00:00"
         },
         {
-          "id": "765f598a0eecb9c9",
-          "title": "Christmas in Sweden 2025: The best julbord in the Gothenburg area",
-          "summary": "Whether you're a Swedish Christmas newbie or a seasoned julbord connoisseur, here's The Local's selection of some of the best (often fishy) festive meals in the Gothenburg area this winter. Feel free to share other tips in the comments!",
+          "id": "fb06c4202dc2581c",
+          "title": "Christmas in Sweden 2026: The best julbord in the Gothenburg area",
+          "summary": "Whether you're a Swedish Christmas newbie or a seasoned julbord connoisseur, here's The Local's selection of some of the best (often fishy) festive meals in the Gothenburg area. Feel free to share other tips in the comments!",
           "link": "https://www.thelocal.se/20221124/christmas-in-sweden-the-10-best-julbord-spreads-in-the-gothenburg-area",
           "source": "The Local Sweden",
-          "published": "2022-11-24T11:10:49+00:00"
+          "published": "2022-11-24T10:10:49+00:00"
         },
         {
           "id": "07948fb36c8654f5",
