@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T17:05:55.903161+00:00",
+  "generated_at": "2026-11-25T01:57:59.627760+00:00",
   "categories": [
     {
       "id": "politics",
@@ -7,8 +7,16 @@
       "count": 20,
       "articles": [
         {
-          "id": "6e3cda81ae03dba0",
-          "title": "'Inconceivable': Swedish Centre Party councillor blasts move for Kristersson deal",
+          "id": "d075631e36212e17",
+          "title": "Swedish MPs set to vote on Ulf Kristersson as right-wing PM on Monday",
+          "summary": "Sweden's parliament will vote whether to give Prime Minister Ulf Kristersson a new four-year mandate on November 30th after inconclusive elections.",
+          "link": "https://www.thelocal.se/20261124/swedish-mps-set-to-vote-on-ulf-kristersson-as-right-wing-pm-on-monday",
+          "source": "The Local Sweden",
+          "published": "2026-11-24T19:47:09+00:00"
+        },
+        {
+          "id": "c8a663995a0112e2",
+          "title": "'Time to fight': Swedish Centre Party councillor blasts move for Kristersson deal",
           "summary": "Christian Widlund, a city councillor for the Centre Party, who is one of the most outspoken opponents of his party being in a government dependent on the far-right Sweden Democrats, has told The Local there will be \"uproar\" if party backs Ulf Kristersson as PM.",
           "link": "https://www.thelocal.se/20261124/time-to-fight-swedish-centre-party-councillor-blasts-move-for-kristersson-deal",
           "source": "The Local Sweden",
@@ -157,14 +165,6 @@
           "link": "https://www.thelocal.se/20261115/swedens-centre-party-picks-social-democrats-in-government-negotiations",
           "source": "The Local Sweden",
           "published": "2026-11-15T20:51:11+00:00"
-        },
-        {
-          "id": "cddb62533fa4f6ff",
-          "title": "How integration policies are becoming more stringent across Europe",
-          "summary": "Citizenship policy is increasingly used by governments in rich countries to define migrants’ “integration expectations,” according to a landmark report on international migration.",
-          "link": "https://www.thelocal.se/20261115/how-integration-policies-are-becoming-more-stringent-across-europe",
-          "source": "The Local Sweden",
-          "published": "2026-11-15T14:34:10+00:00"
         }
       ]
     },
