@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-11-25T01:57:59.627760+00:00",
+  "generated_at": "2026-11-25T11:06:57.181884+00:00",
   "categories": [
     {
       "id": "politics",
       "label": "National Politics & Law",
       "count": 20,
       "articles": [
+        {
+          "id": "0a4ea3d1fa0ed723",
+          "title": "Insider source stories split on Swedish Centre Party's emergency meeting",
+          "summary": "The Centre Party, a kingmaker in Sweden's ongoing government negotiations, held an emergency meeting late Tuesday night. But what happened in it? Party sources are telling different stories to different media outlets.",
+          "link": "https://www.thelocal.se/20261125/insider-source-stories-split-on-swedish-centre-partys-emergency-meeting",
+          "source": "The Local Sweden",
+          "published": "2026-11-25T10:20:39+00:00"
+        },
         {
           "id": "d075631e36212e17",
           "title": "Swedish MPs set to vote on Ulf Kristersson as right-wing PM on Monday",
@@ -157,14 +165,6 @@
           "link": "https://www.thelocal.se/20261116/what-happens-next-in-negotiations-for-swedens-next-pm",
           "source": "The Local Sweden",
           "published": "2026-11-16T09:58:23+00:00"
-        },
-        {
-          "id": "cd2b23d2cbd5b580",
-          "title": "Sweden's Centre Party picks Social Democrats in government negotiations",
-          "summary": "Sweden's Centre Party has chosen to continue negotiating with the centre-left parties in the hope of forming a government, party leader Elisabeth Thand Ringqvist announced late on Sunday.",
-          "link": "https://www.thelocal.se/20261115/swedens-centre-party-picks-social-democrats-in-government-negotiations",
-          "source": "The Local Sweden",
-          "published": "2026-11-15T20:51:11+00:00"
         }
       ]
     },
