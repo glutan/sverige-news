@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-11-25T11:06:57.181884+00:00",
+  "generated_at": "2026-11-25T21:13:43.246340+00:00",
   "categories": [
     {
       "id": "politics",
       "label": "National Politics & Law",
       "count": 20,
       "articles": [
+        {
+          "id": "3ba67fb25be27250",
+          "title": "Internal rebellion brews in Sweden's Centre Party over potential centre-right coalition",
+          "summary": "An increasing number of voices are calling for the Centre Party to go into opposition rather than joining a centre-right government dependent on the Sweden Democrats.",
+          "link": "https://www.thelocal.se/20261125/internal-rebellion-brews-in-swedens-centre-party-over-potential-centre-right-coalition",
+          "source": "The Local Sweden",
+          "published": "2026-11-25T14:44:45+00:00"
+        },
         {
           "id": "0a4ea3d1fa0ed723",
           "title": "Insider source stories split on Swedish Centre Party's emergency meeting",
@@ -157,14 +165,6 @@
           "link": "https://www.thelocal.se/20261116/left-party-stands-firm-on-cabinet-demand-after-centre-party-backs-red-green-bloc",
           "source": "The Local Sweden",
           "published": "2026-11-16T10:06:03+00:00"
-        },
-        {
-          "id": "2d97ec7bb32b081b",
-          "title": "What happens next in negotiations for Sweden's next PM?",
-          "summary": "It's 64 days since Sweden's general election and the auction the Centre Party launched ten days ago has not yielded a clear prime ministerial candidate. So are we back to square one? Here's what happens next in the process of choosing Sweden's next PM.",
-          "link": "https://www.thelocal.se/20261116/what-happens-next-in-negotiations-for-swedens-next-pm",
-          "source": "The Local Sweden",
-          "published": "2026-11-16T09:58:23+00:00"
         }
       ]
     },
