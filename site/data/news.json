@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-11-26T03:58:39.221557+00:00",
+  "generated_at": "2026-11-26T13:44:45.361073+00:00",
   "categories": [
     {
       "id": "politics",
       "label": "National Politics & Law",
       "count": 20,
       "articles": [
+        {
+          "id": "85f95ec21ff53c4f",
+          "title": "Centre Party calls another emergency meeting ahead of Swedish PM vote",
+          "summary": "The Centre Party has called an extraordinary meeting of its national board and MPs today, several media outlets report.",
+          "link": "https://www.thelocal.se/20261126/centre-party-calls-another-emergency-meeting-ahead-of-swedish-pm-vote",
+          "source": "The Local Sweden",
+          "published": "2026-11-26T10:59:27+00:00"
+        },
         {
           "id": "3ba67fb25be27250",
           "title": "Internal rebellion brews in Sweden's Centre Party over potential centre-right coalition",
@@ -157,14 +165,6 @@
           "link": "https://www.thelocal.se/20261116/social-democrats-promise-to-liberalise-swedens-work-permit-rules",
           "source": "The Local Sweden",
           "published": "2026-11-16T14:17:50+00:00"
-        },
-        {
-          "id": "529fc5c7083b310b",
-          "title": "Left Party stands firm on cabinet demand after Centre Party backs red-green bloc",
-          "summary": "The Centre Party has snubbed Moderate leader Ulf Kristersson in favour of Social Democrat leader Magdalena Andersson. But as far as negotiations are going, it's back to square one.",
-          "link": "https://www.thelocal.se/20261116/left-party-stands-firm-on-cabinet-demand-after-centre-party-backs-red-green-bloc",
-          "source": "The Local Sweden",
-          "published": "2026-11-16T10:06:03+00:00"
         }
       ]
     },
