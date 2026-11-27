@@ -1,11 +1,27 @@
 {
-  "generated_at": "2026-11-27T07:12:00.699600+00:00",
+  "generated_at": "2026-11-27T17:54:02.580652+00:00",
   "categories": [
     {
       "id": "politics",
       "label": "National Politics & Law",
       "count": 20,
       "articles": [
+        {
+          "id": "8ae267a8200e99a9",
+          "title": "Opinion: Sweden's Social Democrats can't run on nostalgia forever",
+          "summary": "Sweden's Social Democrats had a terrible election, destroyed by nostalgia for their age of dominance. If they lose power, will they learn the lessons, asks James Savage.",
+          "link": "https://www.thelocal.se/20261127/opinion-swedens-social-democrats-cant-run-on-nostalgia-forever",
+          "source": "The Local Sweden",
+          "published": "2026-11-27T15:58:31+00:00"
+        },
+        {
+          "id": "1ed5ac7d3d34be03",
+          "title": "What needs to happen for Ulf Kristersson to become Swedish PM (again)?",
+          "summary": "The leadership of Sweden's Centre Party has switched political sides and is now supporting Moderate leader Ulf Kristersson, not Social Democratic leader Magdalena Andersson, for prime minister. Does that mean it's a done deal?",
+          "link": "https://www.thelocal.se/20261127/what-needs-to-happen-for-ulf-kristersson-to-become-swedish-pm-again",
+          "source": "The Local Sweden",
+          "published": "2026-11-27T11:05:32+00:00"
+        },
         {
           "id": "3609a52149025d00",
           "title": "Centre Party flips: Board and MPs ready to back Kristersson as Swedish PM",
@@ -149,22 +165,6 @@
           "link": "https://www.thelocal.se/20261118/swedens-moderates-overtake-social-democrats-for-first-time-in-ten-years",
           "source": "The Local Sweden",
           "published": "2026-11-18T11:49:45+00:00"
-        },
-        {
-          "id": "52a6008bdd0760dd",
-          "title": "Swedish parliament agrees on new 'pairing' agreement after citizenship vote breakdown",
-          "summary": "Six months after the previous agreement collapsed, causing chaos in Sweden's parliament, parliamentary leaders have finally agreed on a new 'pairing' agreement to allow MPs to be absent for votes without changing the chamber balance.",
-          "link": "https://www.thelocal.se/20261118/swedish-parliament-agrees-on-new-pairing-agreement-after-citizenship-vote-breakdown",
-          "source": "The Local Sweden",
-          "published": "2026-11-18T10:46:51+00:00"
-        },
-        {
-          "id": "fd10e806e98c4f1f",
-          "title": "Social Democrats offer work permit overhaul in 135-point pitch to Centre Party",
-          "summary": "The Social Democrats have promised the Centre Party to scrap the restrictive work permit rules brought in by the Tidö government and bring an end to 'talent deportations' as part of a new 'strict but reasonable migration policy'.",
-          "link": "https://www.thelocal.se/20261116/social-democrats-promise-to-liberalise-swedens-work-permit-rules",
-          "source": "The Local Sweden",
-          "published": "2026-11-16T14:17:50+00:00"
         }
       ]
     },
@@ -173,6 +173,22 @@
       "label": "Immigration & Citizenship",
       "count": 20,
       "articles": [
+        {
+          "id": "ead70abdfcf15e67",
+          "title": "Opinion: The little-known changes that could lead to Sweden's next talent exodus",
+          "summary": "The news that permanent residents are now being subject to a growing number of reviews of their status is just the latest example of Sweden plunging immigrants into uncertainty. It's not just bad for immigrants, it's bad for business, argues James Savage.",
+          "link": "https://www.thelocal.se/20261127/opinion-the-little-known-changes-that-could-lead-to-swedens-next-talent-exodus",
+          "source": "The Local Sweden",
+          "published": "2026-11-27T13:38:55+00:00"
+        },
+        {
+          "id": "b3761e75a8ec21da",
+          "title": "What should you do if you're told your Swedish permanent residency could be revoked?",
+          "summary": "More and more foreigners living in Sweden are getting letters saying their permanent residency permits are under investigation for possible revocation. Here's what to do if you get a letter.",
+          "link": "https://www.thelocal.se/20261127/what-should-you-do-if-youre-told-your-swedish-permanent-residency-could-be-revoked",
+          "source": "The Local Sweden",
+          "published": "2026-11-27T09:50:11+00:00"
+        },
         {
           "id": "810afb6c7b551b9e",
           "title": "Swedish parties pledge citizenship transition rules in final offer to Left Party",
@@ -316,22 +332,6 @@
           "link": "https://www.thelocal.se/20261019/i-want-to-be-with-my-husband-pregnant-woman-forced-to-leave-sweden",
           "source": "The Local Sweden",
           "published": "2026-10-19T16:35:47+00:00"
-        },
-        {
-          "id": "b0d59fb10f942209",
-          "title": "Foreign SSAB workers released as Dutch lawyer slams Swedish site raid",
-          "summary": "The 19 Filipino electrical engineers who were seized by Swedish police on October 9th and held in a Migration Agency detention centre have been released, with the company's lawyer calling the decision to detain them \"unlawful\" and promising to seek damages.",
-          "link": "https://www.thelocal.se/20261019/foreign-ssab-workers-released-as-dutch-lawyer-slams-swedish-site-raid",
-          "source": "The Local Sweden",
-          "published": "2026-10-19T11:34:52+00:00"
-        },
-        {
-          "id": "f736e95b676f7019",
-          "title": "Tech leader wins appeal under Sweden's new citizenship rules",
-          "summary": "The AI consultant Anna Bärlund is one of the first to successfully appeal a citizenship rejection under Sweden's new longer residency requirements. Her arguments won't work for everyone, but the ruling could have wider implications if upheld.",
-          "link": "https://www.thelocal.se/20261009/russian-ai-consultant-wins-appeal-under-swedens-new-citizenship-rules",
-          "source": "The Local Sweden",
-          "published": "2026-10-09T16:10:38+00:00"
         }
       ]
     },
